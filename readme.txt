@@ -1,4 +1,4 @@
-﻿=== Flyzoo Elegant Chat & Social Widget for Wordpress ===
+﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
 Tags: live chat, live support, discussion, html5, widget, plugin, live, comments, forums, chat widget, gamification, commenting, badge
