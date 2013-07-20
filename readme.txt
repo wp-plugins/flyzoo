@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, discussion, html5, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, badge
+Tags:  live chat, live support, chat, discussion, html5, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, badge
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
