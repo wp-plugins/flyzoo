@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags:  live chat, live support, chat, group chat, chatroom, discussion, customer support, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, badge
+Tags:  live chat, live support, chat, group chat, chatroom, discussion, customer support, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, community
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
@@ -14,54 +14,55 @@ Free, Elegant Chat & Social Widget to Engage your Users!
 == Description == 
 Flyzoo is a cloud-based Live Chat & Social Widget to engage your users and unleash the social power of your blog, e-commerce or personal website!
 
-####Live Chat - Cool for fun and for business####
-
-Great for blogs and personal websites: unleash the social power of your site with elegant, floating Private Chats to have fun with your users.
-
-A must-have for e-commerces: engage pro-actively your customers with Real-time visitor insights to pick the best prospects and provide the best Live Support ever.
-All the relevant informations are available, real-time, at a glance:
-
-<pre>
-* Current visited page URL and Title
-* Pageviews
-* UTM Campaign Tracking (source, medium, terms)
-* Keywords (where available)
-* Returning visitor
-* Referrer
-
-</pre>
-
-####Group Chats and Social Commenting####
-
-Nobody likes ghost towns: a new visitor can see who is online, find an advice from social comments, start a live chat with an operator or join a discussion on a chat room!
-
-####Boost word of mouth and get more visits.####
-
-Flyzoo’s out-of-the-box rewarding system encourages your users to refer new customers!
-Accelerating word of mouth has never been so easy.
-
 ####Features####
 
-<pre>
-* Real-time Visitor Insights (New!)
-* One-to-one Chats that can be moved and are automatically re-opened while surfing the site!
+* Live Chat with Real-time Visitor Insights (New!)
 * Public and Private Group Chatrooms
-* Social Commenting with Realtime Notifications
-* Gamification system to boost engagement and Referral with Social Sharing
+* Social Comments with Realtime Notifications
+* Chats can be moved around the screen and are automatically re-opened while browsing the site!
+* Gamification with Points, Badge and Rewards to boost engagement and Referral
 * User Profiles
-* Customizable Online/Offline/Welcome/Login and other messages
+* Customizable Messages Online/Offline/Welcome/Login
 * Administration Dashboard 
 * Realtime notifications
 * ...and much more!
 
-</pre>
 
-[Visit Flyzoo.co for details >>](http://www.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+####Live Chat - Cool for your community, great for your business####
 
-<pre>
-**Languages**
-English, Español, Italiano
-</pre>
+Unleash your website's social power with elegant, floating Private Chats and have fun with your users.
+
+A must-have for e-commerces: engage pro-actively your customers with Real-time visitor insights to pick the best prospects and provide the best Live Support ever.
+All the relevant informations are available, real-time, at a glance:
+
+* Current visited page URL and Title
+* Pageviews
+* UTM Campaign Tracking (source, medium, terms)
+* Keywords 
+* Returning visitor
+* Referrer
+
+
+####Group Chats and Comments####
+
+Nobody likes ghost towns: a new visitor can see who is online, find an advice from comments, start a conversation with an operator or join a discussion on a chat room!
+
+####Boost word of mouth and increase traffic####
+
+Flyzoo’s out-of-the-box rewarding system encourages your users to refer new customers:
+offer Points, Badges ad Rewards to your fans.
+
+Accelerating word of mouth has never been so easy.
+
+
+
+[Flyzoo.co for details >>](http://www.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
+
+####Languages####
+
+The widget is availble in: English, Español, Italiano
+
 
 == Installation ==
 
@@ -89,6 +90,7 @@ English, Español, Italiano
 Full instructions can be found here:
 
 [Flyzoo Support >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 
 == Screenshots ==
 1. One-to-one private Chats to engage users. 
