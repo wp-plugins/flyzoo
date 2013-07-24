@@ -7,24 +7,24 @@ Tested up to: 3.5.1
 Stable tag: 0.1.0
 License: GPLv2 
 
-Free, Elegant Chat & Social Widget to Engage your Users! 
+Free, Stylish Chat & Social Widget to Engage your Users! 
 
 
 
 == Description == 
-Flyzoo is a cloud-based Live Chat & Social Widget to engage your users and unleash the social power of your blog, e-commerce or personal website!
+Flyzoo is a cloud-based Live Chat, Group Chat and Social Widget to engage your users and unleash the social power of your blog, e-commerce or personal website!
 
 ####Features####
 
 * Live Chat with Real-time Visitor Insights (New!)
 * Public and Private Group Chatrooms
-* Social Comments with Realtime Notifications
+* Customizable Messages Online/Offline/Welcome/Login
+* Social Comments with Live Streaming
+* Realtime Notifications
 * Chats can be moved around the screen and are automatically re-opened while browsing the site!
 * Gamification with Points, Badge and Rewards to boost engagement and Referral
 * User Profiles
-* Customizable Messages Online/Offline/Welcome/Login
 * Administration Dashboard 
-* Realtime notifications
 * ...and much more!
 
 
@@ -61,7 +61,7 @@ Accelerating word of mouth has never been so easy.
 
 ####Languages####
 
-The widget is availble in: English, Español, Italiano
+The widget is available in: English, Español, Italiano
 
 
 == Installation ==
@@ -116,7 +116,7 @@ though we suggest to upgrade to the latest jQuery version if possible.
 
 = Can I suggest a feature?  =
 
-Sure, we are in Beta now. We love feedbacks so let's get in touch!
+Sure, we are in Beta now. We love feedbacks so let's keep in touch!
 
 == Changelog ==
 
