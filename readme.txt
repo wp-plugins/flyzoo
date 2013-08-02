@@ -64,6 +64,10 @@ The widget is available in: English, Español, Italiano
 
 == Installation ==
 
+Full, illustrated instructions, can be found here:
+
+[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 **1) Create your account on Flyzoo.co**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/joinbeta
@@ -85,9 +89,7 @@ The widget is available in: English, Español, Italiano
 
 8. Launch the [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) to customize your widget!
 
-Full instructions can be found here:
 
-[Flyzoo Support >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 == Screenshots ==
