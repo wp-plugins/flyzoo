@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: add-on, banckle, casengo, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, collaboration, collaborative, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, email, extension, extensions, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, online conversion, online customer chat, online live chat, online support, page, pages, plugin, plugin chat, plugins, snap engage, social chat, social media, socialmedia, software, support, support category, support chat, support desk, support software, support tool, template, visitor chat, web, webchat, widget, widgets, wordpress live chat, WordPress Plugin, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, community
+Tags: banckle, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, collaboration, collaborative, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, email, extension, extensions, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, online conversion, online customer chat, online live chat, online support, page, pages, plugin, plugin chat, plugins, snap engage, social chat, social media, socialmedia, software, support, support category, support chat, support desk, support software, support tool, template, visitor chat, web, webchat, widget, widgets, wordpress live chat, WordPress Plugin, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, community
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
@@ -43,17 +43,14 @@ All the relevant informations are available, real-time, at a glance:
 * Referrer
 
 
-####Group Chats and Comments####
+####Group Chats and Page Comments####
 
 Nobody likes ghost towns: a new visitor can see who is online, find an advice from comments, start a conversation with an operator or join a discussion on a chat room!
 
 ####Gamify your Website!####
 
-Boost word of mouth and increase traffic with Flyzoo’s out-of-the-box rewarding system.
-Offer Points, Badges ad Rewards to your fans for their social activity and
-encourages your users to refer new visitors.
-
-
+Increase traffic and referral with Flyzoo’s out-of-the-box gamification system.
+Offer Points, Badges and Rewards to your most active users for their social activity and encourage your users to refer new visitors.
 
 [Flyzoo.co for details >>](http://www.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
