@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, collaboration, collaborative, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, email, extension, extensions, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, online conversion, online customer chat, online live chat, online support, page, pages, plugin, plugin chat, plugins, snap engage, social chat, social media, socialmedia, software, support, support category, support chat, support desk, support software, support tool, template, visitor chat, web, webchat, widget, widgets, wordpress live chat, WordPress Plugin, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support, widget, ecommerce, live, comments, forums, chat widget, gamification, comments, community
+Tags: banckle, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, email, extension, extensions, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, online conversion, online customer chat, online live chat, online support, page, pages, plugin, plugin chat, plugins, snap engage, social chat, social media, socialmedia, software, support, support category, support chat, support desk, support software, support tool, template, visitor chat, web, webchat, widget, widgets, wordpress live chat, WordPress Plugin, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, widget, ecommerce, live, comments, envolve, forum, chat widget, gamification, comments, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
@@ -18,7 +18,7 @@ Flyzoo is a cloud-based Live Chat, Group Chat and Social Widget to engage your u
 
 * Live Chat with Real-time Analitycs & Insights (New!)
 * Public and Private Group Chatrooms
-* Customizable Messages Online/Offline/Welcome/Login
+* Customizable Online, offline, welcome and login messages
 * Social Comments with Live Streaming
 * Realtime Notifications
 * Chats can be moved around the screen and are automatically re-opened while browsing the site!
@@ -50,7 +50,7 @@ Nobody likes ghost towns: a new visitor can see who is online, find an advice fr
 ####Gamify your Website!####
 
 Increase traffic and referral with Flyzoo’s out-of-the-box gamification system.
-Offer Points, Badges and Rewards to your most active users for their social activity and encourage your users to refer new visitors.
+Offer Points, Badges and Rewards to your most active users for their social activity and encourage them to refer new visitors.
 
 [Flyzoo.co for details >>](http://www.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -92,9 +92,9 @@ Full, illustrated instructions, can be found here:
 
 == Screenshots ==
 1. One-to-one private Chats to engage users. 
-2. You can create cool floating group chats for guest and registered users.
-3. Real-time Visitor Insights for Administrators! 
-4. Social commenting with realtime notifications.
+2. You can create cool floating chat rooms for guests and registered users.
+3. Real-time Visitor Insights for Administrators. 
+4. Social comments with realtime notifications and like/dislike system.
 5. Points, badges and rewards: gamify your website!
 6. Dashboard: configure notification, messages and manage users.
 
@@ -107,9 +107,9 @@ after the Beta, and offer premium plans for advanced features.
 
 = System Requirements?  =
 
-Flyzoo makes extensive use of the JQuery library.
+Flyzoo makes extensive use of the jQuery library.
 If your site is not running jQuery, Flyzoo will load it automatically.
-If your site is running JQuery, Flyzoo supports JQuery 1.3.1+ along with jQuery UI 1.8.24+, 
+If your site is running jQuery, Flyzoo supports jQuery 1.3.1+ along with jQuery UI 1.8.24+, 
 though we suggest to upgrade to the latest jQuery version if possible. 
 
 = Can I suggest a feature?  =
