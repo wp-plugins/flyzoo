@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, live, comments, envolve, chat widget, gamification, points, rewards, community, engagement, buddypress, realtime
+Tags: Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, customer support, widget
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
@@ -109,6 +109,12 @@ Full, illustrated instructions, can be found here:
 
 Yes! We are currently in Beta and the product is free. We'll also keep the product free
 after the Beta, and offer premium plans for advanced features. 
+
+= How do I create a new Chatroom? =
+
+Just log into the widget (on your site) using your administrative account,
+then click on the "CHATS" icon on the widget and here you'll find the "CREATE NEW CHAT" button.
+Only the administrator and site operators are allowed to create chatrooms!
 
 = System Requirements?  =
 
