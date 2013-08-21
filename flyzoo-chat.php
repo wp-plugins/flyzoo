@@ -2,8 +2,8 @@
     /*
       Plugin Name: Flyzoo Chat & Social Widget
       Plugin URI: http://www.flyzoo.co/
-      Description: Elegant <strong>Chat</strong> and <strong>Social Widget</strong> to engage, keep and grow your visitors!
-      Version: 0.1.0
+      Description: Stylish <strong>Group Chats</strong>, <strong>Private Chats</strong> and <strong>Social Widget</strong> to rock your website!
+      Version: 0.2.0
       Author: Andrea De Santis
       Author URI: http://www.flyzoo.co/
       License: GPL2
@@ -81,19 +81,20 @@
 
 
         <div style="float: left; width: 280px; padding: 10px; background-color:#f8f8f8; border-radius: 8px;margin-top: 5px;">
-            <h3>Free, Elegant Chat and Social Widget <br />to rock your website!</h3>
+            <h3>The Stylish Chat and Social Widget <br />to rock your website!</h3>
 
             <h4>Features</h4>
             <ul>
-                <li>One-to-one private chats: great for your community or Live Support!</li>
-                <li>Group Chatrooms</li>
-                <li>Realtime Visitor Insights: current page, referrer, campaign tracking...</li>
-                <li>Social Commenting</li>
-                <li>Social Sharing</li>
+                <li>Get started in less than 5 minutes!</li> 
+                <li>FAST, Facebook-like message delivery with confirmation</li>
+                <li>Users list with realtime Analitycs & Insights for Administrators [New!]</li>
+                <li>Customizable online, offline, welcome and login messages</li>
+                <li>Floating windows with auto re-load while browsing the site</li>
+                <li>Social Comments with Live Streaming and notifications</li>
+                <li>Gamification with Points, Badge and Rewards to boost engagement and Referral</li>
                 <li>User Profiles</li>
-                <li>Realtime Notifications</li>
-                <li>Points, Badge and Rewards</li>
-                <li>... and much more!</li>
+                <li>Advanced Administration Dashboard </li>
+                <li>...and much more!</li>
             </ul>
 
             Discover more on <a href="http://www.flyzoo.co?utm_source=wp-plugin">Flyzoo Website</a>!
@@ -112,7 +113,7 @@
 
             <p class="fz-span">
                 You'll receive a Flyzoo Application ID right after account creation, or you can get it later
-                from the  <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> under the SETUP > WEBSITE MENU<br /><br />
+                from the  <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> under the SETUP > WEBSITE menu<br /><br />
                 Enter your Flyzoo Application ID
                 <input type="text" name="FlyzooApplicationID" id="FlyzooApplicationID" value="<?php echo(get_option("FlyzooApplicationID")); ?>" maxlength="999" />
                 <input type="submit" value="<?php echo(_e("Save Changes")) ?>" />
