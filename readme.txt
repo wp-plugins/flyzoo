@@ -1,7 +1,7 @@
 ﻿=== Stylish Live Chat & Social Widget ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, customer support, widget
+Tags: banckle, category, Chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, live, comments, envolve, chat widget, gamification, points, rewards, community, engagement, buddypress, realtime
 Requires at least: 2.0.2
 Tested up to: 3.5.1
 Stable tag: 0.1.0
@@ -12,17 +12,16 @@ Free, Stylish Chat & Social Widget to Engage your Users!
 
 
 == Description == 
-Flyzoo is a cloud-based Live Chat, Group Chat and Social Widget to engage your users and build a community around your blog, e-commerce or personal website!
+Flyzoo is a cloud-based (hosted) Social Widget providing Private Chats, Group Chats, Commenting and Gamification to engage your users and build a community around your blog, e-commerce or personal website!
 
 ####Features####
 
-* Ready in 5 minutes
-* FAST, Facebook-like message delivery with confirmation!
-* User list with realtime Analitycs & Insights for Administrators [New!]
+* Get started in less than 5 minutes!
+* FAST, Facebook-like message delivery with confirmation
+* Users list with realtime Analitycs & Insights for Administrators [New!]
 * Customizable online, offline, welcome and login messages
 * Floating windows with auto re-load while browsing the site
-* Social Comments with Live Streaming
-* Realtime Notifications  
+* Social Comments with Live Streaming and notifications
 * Gamification with Points, Badge and Rewards to boost engagement and Referral
 * User Profiles
 * Advanced Administration Dashboard 
