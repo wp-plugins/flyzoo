@@ -16,7 +16,7 @@ Flyzoo is a cloud-based (hosted) Private Chat, Group Chat and Social Widget to e
 
 ####Features####
 
-* Get Ready in less than 5 minutes
+* Get started in less than 5 minutes
 * FAST, Facebook-like message delivery with confirmation!
 * User list with realtime Analitycs & Insights for Administrators [New!]
 * Customizable online, offline, welcome and login messages
