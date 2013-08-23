@@ -12,7 +12,7 @@ Free, Stylish Chat & Social Widget to Engage your Users!
 
 
 == Description == 
-Flyzoo is a cloud-based (hosted) Private Chat, Group Chat and Social Widget to engage your users and build a community around your blog, e-commerce or personal website!
+Flyzoo is a cloud-based (hosted) Private Chats, Chatrooms and Social Widget to engage your users and build a community around your blog, e-commerce or personal website!
 
 ####Features####
 
@@ -128,6 +128,9 @@ though we suggest to upgrade to the latest jQuery version if possible.
 Sure, we are in Beta now. We love feedbacks so let's keep in touch!
 
 == Changelog ==
+
+= 0.2 =
+* 08.21.2013 - Verified support for 3.6.0, updated features list.
 
 = 0.1 =
 * 07.20.2013 - First WordPress release :)
