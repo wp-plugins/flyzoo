@@ -130,7 +130,7 @@ Sure, we are in Beta now. We love feedbacks so let's keep in touch!
 == Changelog ==
 
 = 0.2 =
-* 08.21.2013 - Verified support for 3.6.0, updated features list.
+* 08.23.2013 - Verified support for 3.6.0, updated features list.
 
 = 0.1 =
 * 07.20.2013 - First WordPress release :)
