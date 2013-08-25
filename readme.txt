@@ -12,7 +12,8 @@ Free, Stylish Chat & Social Widget to Engage your Users!
 
 
 == Description == 
-Flyzoo is a cloud-based (hosted) Private Chats, Chatrooms and Social Widget to engage your users and build a community around your blog, e-commerce or personal website!
+Flyzoo is a cloud-based (hosted) widget providing Chatrooms, Private Chats and other cool Social Features to engage your users.
+Great for blogs, e-commerces or personal websites!
 
 ####Features####
 
@@ -114,18 +115,25 @@ after the Beta, and offer premium plans for advanced features.
 
 Just log into the widget (on your site) using your administrative account,
 then click on the "CHATS" icon on the widget and here you'll find the "CREATE NEW CHAT" button.
-Only the administrator and site operators are allowed to create chatrooms!
+Note: only the administrator and site operators are allowed to create chatrooms!
 
 = System Requirements?  =
 
-Flyzoo makes extensive use of the jQuery library.
+Flyzoo requires the jQuery library.
 If your site is not running jQuery, Flyzoo will load it automatically.
 If your site is running jQuery, Flyzoo supports jQuery 1.3.1+ along with jQuery UI 1.8.24+, 
 though we suggest to upgrade to the latest jQuery version if possible. 
 
+= Will the widget slow down my site? =
+
+No. The widget is loaded asynchronously right after your main content has been loaded.
+
 = Can I suggest a feature?  =
 
-Sure, we are in Beta now. We love feedbacks so let's keep in touch!
+Yes of course. We love feedbacks so let's keep in touch!
+
+
+
 
 == Changelog ==
 
