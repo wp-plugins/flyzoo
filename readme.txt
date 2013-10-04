@@ -7,7 +7,7 @@ Tested up to: 3.6.0
 Stable tag: 0.2.0
 License: GPLv2 
 
-Free, Stylish Chat & Social Widget to Engage your Users! 
+The Stylish Chat & Social Widget to Engage your Users! 
 
 
 
@@ -148,6 +148,9 @@ Yes of course. We love feedbacks so let's keep in touch!
 
 
 == Changelog ==
+
+= 0.2.1 =
+* 10.04.2013 - Improved chatroom resize, added support for French, Russian, Chinese and German
 
 = 0.2 =
 * 08.23.2013 - Verified support for 3.6.0, updated features list.
