@@ -2,8 +2,8 @@
     /*
       Plugin Name: Flyzoo Chat & Social Widget
       Plugin URI: http://www.flyzoo.co/
-      Description: Stylish <strong>Group Chats</strong>, <strong>Private Chats</strong> and <strong>Social Widget</strong> to rock your website!
-      Version: 0.2.0
+      Description: Flyzoo - Stylish <strong>Group Chats</strong>, <strong>Private Chats</strong> and <strong>Social Platform</strong> to rock your website!
+      Version: 0.2.1
       Author: Andrea De Santis
       Author URI: http://www.flyzoo.co/
       License: GPL2

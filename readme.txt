@@ -4,15 +4,15 @@ Donate link:
 Tags: banckle, category, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, comments, envolve, chat widget, gamification, points, rewards, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.6.0
-Stable tag: 0.2.0
+Stable tag: 0.2.1
 License: GPLv2 
 
-Free, Stylish Chat & Social Widget to Engage your Users! 
+The Stylish Chat & Social Platform to Engage your Users! 
 
 
 
 == Description == 
-Flyzoo is a cloud-based (hosted) widget providing Chatrooms, Private Chats and other cool Social Features to engage your users.
+Flyzoo is a cloud-based (hosted) platform providing Chatrooms, Private Chats and other cool Social Features to engage your users.
 Great for blogs, e-commerces or personal websites!
 
 ####Features####
@@ -108,8 +108,9 @@ Full, illustrated instructions, can be found here:
 
 = Is it free? =
 
-Yes! We are currently in Beta and the product is free. We'll also keep the product free
-after the Beta, and offer premium plans for advanced features. 
+We are currently in Beta and the product is free. Of course we'll introduce
+premium plans for advanced features soon, but we'll also keep a free
+version of Flyzoo for small sites.
 
 = How do I create a new Chatroom? =
 
@@ -128,6 +129,18 @@ though we suggest to upgrade to the latest jQuery version if possible.
 
 No. The widget is loaded asynchronously right after your main content has been loaded.
 
+= After I remove and delete the plugin it still shows on the frontend, how do i remove it completely? =
+
+Please try the following:
+
+- refresh your browser's cache
+- if you are using a caching plugin please force a cache refresh
+
+this should solve the issue in 99% of cases.
+
+Otherwise, please check that the script has not been embedded directly into
+some .php file (footer.php for instance).
+
 = Can I suggest a feature?  =
 
 Yes of course. We love feedbacks so let's keep in touch!
@@ -137,8 +150,11 @@ Yes of course. We love feedbacks so let's keep in touch!
 
 == Changelog ==
 
-= 0.2 =
+= 0.2.1 =
+* 10.05.2013 - Improved chatroom resize, added support for French, Russian, Chinese and German
+
+= 0.2.0 =
 * 08.23.2013 - Verified support for 3.6.0, updated features list.
 
-= 0.1 =
+= 0.1.0 =
 * 07.20.2013 - First WordPress release :)
