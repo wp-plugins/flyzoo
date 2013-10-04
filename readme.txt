@@ -128,6 +128,18 @@ though we suggest to upgrade to the latest jQuery version if possible.
 
 No. The widget is loaded asynchronously right after your main content has been loaded.
 
+= After I remove and delete the plugin it still shows on the frontend, how do i remove it completely? =
+
+Please try the following:
+
+- refresh your browser's cache
+- if you are using a caching plugin please force a cache refresh
+
+this should solve the issue in 99% of cases.
+
+Otherwise, please check that the script has not been embedded directly into
+some .php file (footer.php for instance).
+
 = Can I suggest a feature?  =
 
 Yes of course. We love feedbacks so let's keep in touch!
