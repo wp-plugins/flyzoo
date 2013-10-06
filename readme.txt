@@ -7,7 +7,7 @@ Tested up to: 3.6.0
 Stable tag: 0.2.0
 License: GPLv2 
 
-The Stylish Chat & Social Widget to Engage your Users! 
+Stylish Live Chat & Social Widget to Engage your Users! 
 
 
 
@@ -63,7 +63,7 @@ Offer Points, Badges and Rewards to your most active users for their social acti
 
 ####Languages####
 
-The widget is available in: English, Español, Italiano
+The widget is available in: English, Español, Italiano, Russian, Chinese, German, French
 
 
 == Installation ==
