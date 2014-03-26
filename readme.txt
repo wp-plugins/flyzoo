@@ -1,32 +1,31 @@
-﻿=== Stylish Live Chat & Social Widget ===
+﻿=== Live Support & Group Chats ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, category, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, comments, envolve, chat widget, gamification, points, rewards, community, engagement
+Tags: banckle, chat, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, contact chat, customer support, feedback, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp,  olark, online chat, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, visitor chat,  webchat, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, group chat, chatroom, customer support, e-commerce, envolve, chatwee, chat widget
 Requires at least: 2.0.2
-Tested up to: 3.6.0
-Stable tag: 0.2.1
-License: GPLv2 
+Tested up to: 3.8.1
+Stable tag: 1.0.0
+License: GPLv2 SS
 
-The Stylish Chat & Social Platform to Engage your Users! 
+Live Support & Group Chats
 
 
 
 == Description == 
-Flyzoo is a cloud-based (hosted) platform providing Chatrooms, Private Chats and other cool Social Features to engage your users.
-Great for blogs, e-commerces or personal websites!
+Flyzoo is a cloud-based (hosted), powerful and affordable Live Support and Group Chats platform for blogs, e-commerces and personal websites!
+
 
 ####Features####
 
 * Get started in less than 5 minutes
-* FAST, Facebook-like message delivery with confirmation!
-* User list with realtime Analitycs & Insights for Administrators [New!]
-* Customizable online, offline, welcome and login messages
+* Fast, Facebook-like message delivery 
+* Eye-catching, responsive layout on Smartphones
+* Customizable online, offline and login messages
 * Floating windows with auto re-load while browsing the site
-* Social Comments with Live Streaming
-* Realtime Notifications  
-* Gamification with Points, Badge and Rewards to boost engagement and Referral
+* Single Sign On for WordPress/BuddyPress
 * User Profiles
-* Advanced Administration Dashboard 
+* Realtime Insights for Operators (PRO Plan)
+* Customize Colors (WOW and PRO Plans)
 * ...and much more!
 
 Step by step instructions can be found here
@@ -34,12 +33,10 @@ Step by step instructions can be found here
 [How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
-####Live Chat - Cool for your community, great for your business####
+####Live Support Chat - Cool for your community, great for your business####
 
-Unleash your website's social power with stylish, floating Private Chats and have fun with your users.
-
-A must-have for e-commerces: pick the best prospects and engage your customers with Real-time visitor insights to provide the best Live Support ever.
-All the relevant informations are available, real-time, at a glance:
+A must-have for e-commerces: pick the best prospects and engage your customers with Realtime visitor insights to provide the best Live Support ever.
+All the relevant informations are available, realtime, at a glance:
 
 * Current visited page URL and Title
 * Pageviews
@@ -49,32 +46,37 @@ All the relevant informations are available, real-time, at a glance:
 * Referrer
 
 
-####Group Chats and Page Comments####
+####Group Chats####
 
-Nobody likes ghost towns: a new visitor can see who is online, find an advice from comments, start a conversation with an operator or join a discussion on a chat room!
+Nobody likes ghost towns: a new visitor can see who is online, find an advice from other users or start a conversation with an operator!
 
-####Gamify your Website!####
-
-Increase traffic and referral with Flyzoo’s out-of-the-box gamification system.
-Offer Points, Badges and Rewards to your most active users for their social activity and encourage them to refer new visitors.
-
-[Flyzoo.co for details >>](http://www.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* A group chat can be private or public
+* Customizable bad word filter
+* Multiple Group Chats (WOW &amp; PRO Plans)
+* Users can start private convertations with other users
+* Users can move, resize and minimize the chats
+* Emojis
+* Operators can Ban users and remove comments
+* Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
+* Sound Notifications
+* Users can update their profile and upload avatars
+* Responsive Support
 
 
 ####Languages####
 
-The widget is available in: English, Español, Italiano
+The widget is available in: English (...other languages coming soon!)
 
 
 == Installation ==
 
 Full, illustrated instructions, can be found here:
 
-[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account on Flyzoo.co**
 
-1. Enter your email, choose a password and a username at http://www.flyzoo.co/joinbeta
+1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=wow&t=12
 2. Enter your website address to get your Flyzoo Application ID
 
 **2) Install the Plugin**
@@ -97,33 +99,23 @@ Full, illustrated instructions, can be found here:
 
 
 == Screenshots ==
-1. One-to-one private Chats to engage users. 
-2. You can create cool floating chat rooms for guests and registered users.
-3. Real-time Visitor Insights for Administrators. 
-4. Social comments with realtime notifications and like/dislike system.
-5. Points, badges and rewards: gamify your website!
-6. Dashboard: configure notification, messages and manage users.
+1. Live Support Chat with Realtime Insights 
+2. Users can move, resize and minimize the chats.
+3. Chatrooms with emoji, sound notifications and media embeds! 
+4. Responsive support for mobile devices.
+5. Colors and features are customizable.
+
 
 == Frequently Asked Questions ==
 
 = Is it free? =
 
-We are currently in Beta and the product is free. Of course we'll introduce
-premium plans for advanced features soon, but we'll also keep a free
-version of Flyzoo for small sites.
+Our FREE PLAN is great for small and personal websites and we also offer PREMIUM PLANS with advanced features.
 
 = How do I create a new Chatroom? =
 
-Just log into the widget (on your site) using your administrative account,
-then click on the "CHATS" icon on the widget and here you'll find the "CREATE NEW CHAT" button.
-Note: only the administrator and site operators are allowed to create chatrooms!
-
-= System Requirements?  =
-
-Flyzoo requires the jQuery library.
-If your site is not running jQuery, Flyzoo will load it automatically.
-If your site is running jQuery, Flyzoo supports jQuery 1.3.1+ along with jQuery UI 1.8.24+, 
-though we suggest to upgrade to the latest jQuery version if possible. 
+Just log into the dashboard [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) go under the
+CHATS menu and click on "Add New Chatroom"
 
 = Will the widget slow down my site? =
 
@@ -143,18 +135,13 @@ some .php file (footer.php for instance).
 
 = Can I suggest a feature?  =
 
-Yes of course. We love feedbacks so let's keep in touch!
+Yes, of course. We love feedbacks so let's keep in touch!
 
 
 
 
 == Changelog ==
 
-= 0.2.1 =
-* 10.05.2013 - Improved chatroom resize, added support for French, Russian, Chinese and German
+= 1.0.0 =
+* 03.23.2014 - Official Plugin for Flyzoo V2.0 Released!
 
-= 0.2.0 =
-* 08.23.2013 - Verified support for 3.6.0, updated features list.
-
-= 0.1.0 =
-* 07.20.2013 - First WordPress release :)
