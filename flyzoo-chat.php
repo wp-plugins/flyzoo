@@ -1,6 +1,6 @@
 <?php
         /*
-          Plugin Name: Flyzoo - Amazing Live Support & Group Chats
+          Plugin Name: Flyzoo - Live Support & Group Chats
           Plugin URI: http://www.flyzoo.co/
           Description: Flyzoo is a cloud-based (hosted), powerful and affordable Live Support and Group Chats platform for blogs, e-commerces and personal websites!
           Version: 1.0.0

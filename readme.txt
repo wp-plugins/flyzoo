@@ -7,7 +7,7 @@ Tested up to: 3.8.1
 Stable tag: 1.0.0
 License: GPLv2 SS
 
-Live Support & Group Chats
+Flyzoo - Live Support & Group Chats
 
 
 
