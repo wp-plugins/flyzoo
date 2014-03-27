@@ -1,7 +1,7 @@
 ﻿=== Live Support & Group Chats ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, chat, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, contact chat, customer support, feedback, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp,  olark, online chat, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, visitor chat,  webchat, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, group chat, chatroom, customer support, e-commerce, envolve, chatwee, chat widget
+Tags: banckle, category, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, comments, envolve, chat widget, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.8.1
 Stable tag: 1.0.0
@@ -30,7 +30,7 @@ Flyzoo is a cloud-based (hosted), powerful and affordable Live Support and Group
 
 Step by step instructions can be found here
 
-[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-and-social-widget-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ####Live Support Chat - Cool for your community, great for your business####
