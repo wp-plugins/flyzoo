@@ -1,7 +1,7 @@
 ﻿=== Live Support & Group Chats ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, chat, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, contact chat, customer support, feedback, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp,  olark, online chat, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, visitor chat,  webchat, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, group chat, chatroom, customer support, e-commerce, envolve, chatwee, chat widget
+Tags: chat, live support
 Requires at least: 2.0.2
 Tested up to: 3.8.1
 Stable tag: 1.0.0
@@ -143,5 +143,5 @@ Yes, of course. We love feedbacks so let's keep in touch!
 == Changelog ==
 
 = 1.0.0 =
-* 03.23.2014 - Official Plugin for Flyzoo V2.0 Released!
+* 03.27.2014 - Official Plugin for Flyzoo V2.0 Released!
 
