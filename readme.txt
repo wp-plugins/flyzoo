@@ -143,5 +143,5 @@ Yes, of course. We love feedbacks so let's keep in touch!
 == Changelog ==
 
 = 1.0.0 =
-* 03.23.2014 - Official Plugin for Flyzoo V2.0 Released!
+* 03.27.2014 - Official Plugin for Flyzoo V2.0 Released!
 
