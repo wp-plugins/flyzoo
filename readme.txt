@@ -1,26 +1,27 @@
-﻿=== Live Support & Group Chats ===
+﻿=== Live Support, Chat rooms & Private Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, customer support, live chat, live chat software, live support, live chat widget, live help, live support software, livechat, livehelp, olark, online support, plugin chat, social chat, support chat, support software, group chat
+Tags: chat, chat button, chat live, chat module, chat online, chat plugin, chatroom, community, buddypress,  chat software, chat support, chat wordpress, customer support, live chat, live chat software, live support, live chat widget, live help, live support software, livechat, livehelp, olark, online support, plugin chat, social chat, support chat, support software, group chat
 Requires at least: 2.0.2
 Tested up to: 3.8.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 SS
 
-Flyzoo - Live Support & Group Chats
+Flyzoo Chat - Powerful Live Support, Chat rooms and Private Chat!
 
 
 
 == Description == 
-Flyzoo is a cloud-based (hosted), powerful and affordable Live Support and Group Chats platform for blogs, e-commerces and personal websites!
+Flyzoo provides complete and powerful Live Support, Chat rooms and Private Chat platform to rock your website! Get started with a FREE PLAN just in 5 minutes :)
 
 
 ####Features####
 
-* Get started in less than 5 minutes
-* Fast, Facebook-like message delivery 
-* Eye-catching, responsive layout on Smartphones
+* Get started with a FREE PLAN, in less than 5 minutes
 * Customizable online, offline and login messages
+* Eye-catching, responsive layout on Smartphones
+* Cloud-based (hosted)
+* Fast, facebook-like message delivery 
 * Floating windows with auto re-load while browsing the site
 * Single Sign On for WordPress/BuddyPress
 * User Profiles
@@ -46,15 +47,15 @@ All the relevant informations are available, realtime, at a glance:
 * Referrer
 
 
-####Group Chats####
+####Chat rooms####
 
 Nobody likes ghost towns: a new visitor can see who is online, find an advice from other users or start a conversation with an operator!
 
-* A group chat can be private or public
+* A chat room can be private or public
 * Customizable bad word filter
-* Multiple Group Chats (WOW &amp; PRO Plans)
+* Create multiple chat rooms on your site (WOW &amp; PRO Plans)
 * Users can start private convertations with other users
-* Users can move, resize and minimize the chats
+* Windows can be moved, resized and minimized
 * Emojis
 * Operators can Ban users and remove comments
 * Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
@@ -101,7 +102,7 @@ Full, illustrated instructions, can be found here:
 == Screenshots ==
 1. Live Support Chat with Realtime Insights 
 2. Users can move, resize and minimize the chats.
-3. Chatrooms with emoji, sound notifications and media embeds! 
+3. Chat rooms with emoji, sound notifications and media preview! 
 4. Responsive support for mobile devices.
 5. Colors and features are customizable.
 
@@ -141,6 +142,9 @@ Yes, of course. We love feedbacks so let's keep in touch!
 
 
 == Changelog ==
+
+= 1.0.1 =
+* 03.28.2014 - Improved signup procedure
 
 = 1.0.0 =
 * 03.27.2014 - Official Plugin for Flyzoo V2.0 Released!

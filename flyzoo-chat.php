@@ -1,9 +1,9 @@
 <?php
         /*
-          Plugin Name: Flyzoo - Live Support & Group Chats
+          Plugin Name: Flyzoo - Live Support, Chat rooms & Private Chat
           Plugin URI: http://www.flyzoo.co/
-          Description: Flyzoo is a cloud-based (hosted), powerful and affordable Live Support and Group Chats platform for blogs, e-commerces and personal websites!
-          Version: 1.0.0
+          Description: Stylish and powerful Live Support, Chat rooms & Private Chat platform to rock your website! Get started with a FREE PLAN just in 5 minutes :)
+          Version: 1.0.1
           Author: Andrea De Santis
           Author URI: http://www.flyzoo.co/
           License: GPL2
@@ -24,6 +24,17 @@
           Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
          */
     
+         register_uninstall_hook(__FILE__, 'flyzoo_chat_uninstall');
+
+         function flyzoo_chat_uninstall() {
+    if(get_option('FlyzooApplicationID')) {
+	    delete_option( 'FlyzooApplicationID');
+	}
+     if(get_option('FlyzooPoweredBy')) {
+	    delete_option( 'FlyzooPoweredBy');
+	}
+}
+
        function flyzoo_get_wp_userid()
       {
             $user = wp_get_current_user();
@@ -119,7 +130,7 @@
             }
     
             public function adminMenu() {
-                add_options_page ("Flyzoo for WP", "Flyzoo for WP", "administrator", "flyzoo-chat", array
+                add_options_page ("Flyzoo Chat for WP", "Flyzoo Chat for WP", "administrator", "flyzoo-chat", array
                     ( &$this, "createAdminPage" )
                 );
     
@@ -139,20 +150,24 @@
 <div id="flyzoo-options" style="width:880px;margin-top:10px;">
 
     <div style="float: left; width: 300px;">
-        <?php echo '<img style="border-radius:5px;" src="' . plugins_url( 'images/logo.jpg' , __FILE__ ) . '" > ';?>
+        <?php 
+            echo '<a target="_blank" href="http://www.flyzoo.co?utm_source=wp-plugin">';
+            echo '<img style="border-radius:5px;border:0px;" src="' . plugins_url( 'images/logo.jpg' , __FILE__ ) . '" > ';
+             echo '</a>';
+            ?>
         <?php
-            if ($code !='') {
+           //  if ($code !='') {
                 echo '<a target="_blank" href="http://dashboard.flyzoo.co?utm_source=wp-plugin">';
                 echo '<img style="border:0px;margin-top:5px;border-radius:5px;" src="' . plugins_url( 'images/dashboard.jpg' , __FILE__ ) . '" > ';
                 echo '</a>';
-            }
+           // }
                 echo '<a target="_blank" href="http://www.flyzoo.co/support?utm_source=wp-plugin-help">';
                 echo '<img style="border:0px;margin-top:5px; margin-bottom:5px;border-radius:5px;" src="' . plugins_url( 'images/support.jpg' , __FILE__ ) . '" > ';
                 echo '</a>';
             
         ?>
 
-
+        <!-- 
         <div style="float: left; width: 280px; padding: 10px; background-color:#f8f8f8; border-radius: 8px;margin-top: 5px;">
             <h3>The Amazing Chat Platform<br />to rock your website!</h3>
 
@@ -172,6 +187,7 @@
 
             Discover more on <a href="http://www.flyzoo.co?utm_source=wp-plugin">Flyzoo Website</a>!
         </div>
+        -->
     </div>
     <div style="float: left; margin-left: 10px; width: 500px; background-color:#f8f8f8; padding: 10px; border-radius: 5px;">
         <h1>Get Started!</h1>
@@ -193,17 +209,13 @@
             </p>
             <p class="fz-span">
            <input type="checkbox" id="FlyzooPoweredBy" name="FlyzooPoweredBy" <?php echo (get_option("FlyzooPoweredBy")==true)?'checked="checked"':''?>>
-							    Check this box to acknowledge there is a 'powered by Flyzoo' link on Flyzoo. <br />
-                  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<strong>The widget will not show up if this is left un-checked!</strong>
-                                <br /> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;(You can remove this link by upgrading to a PRO account.)
-                 </p>
-             <input type="submit" value="<?php echo(_e("Save Changes")) ?>" />
+							    <strong>Required</strong> I acknowledge there is a 'powered by Flyzoo' link on the widget. <br />
+            </p>
+           
+             <input type="submit" value="<?php echo(_e("Save Changes")) ?>" /><br /> <br /> 
         </form>
         <h3>3) Verify the script installation</h3>
-        <p class="fz-span">Almost done :) You need to verify your installation to confirm that you are the
-        website's owner and perform administrative tasks on the widget.<br /> </br>
-             You can verify your install right after account creation, or you can do it later
-                using the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> under the SETUP > WEBSITE menu.<br /><br />
+        <p class="fz-span">Almost done :) Verify your installation from the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> under the SETUP > WEBSITE menu.<br /><br />
         </p>
         <h3>4) Done!</h3>
         <div class="fz-span">Go to the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> to manage your widget.
