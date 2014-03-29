@@ -1,7 +1,7 @@
 ﻿=== Live Support, Chat rooms & Private Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat button, chat live, chat module, chat online, chat plugin, chatroom, community, buddypress,  chat software, chat support, chat wordpress, customer support, live chat, live chat software, live support, live chat widget, live help, live support software, livechat, livehelp, olark, online support, plugin chat, social chat, support chat, support software, group chat
+Tags: banckle, category, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, comments, envolve, chat widget, gamification, points, rewards, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.8.1
 Stable tag: 1.0.1
