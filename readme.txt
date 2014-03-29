@@ -29,7 +29,7 @@ Flyzoo provides complete and powerful Live Support, Chat rooms and Private Chat 
 * Customize Colors (WOW and PRO Plans)
 * ...and much more!
 
-Step by step instructions can be found here
+Step by step instructions can be found here:
 
 [How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
