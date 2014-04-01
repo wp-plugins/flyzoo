@@ -1,6 +1,6 @@
 <?php
         /*
-          Plugin Name: Flyzoo - Live Support, Chat rooms & Private Chat
+          Plugin Name: Flyzoo Chat - Live Support, Chat rooms & Private Chat
           Plugin URI: http://www.flyzoo.co/
           Description: Stylish and powerful Live Support, Chat rooms & Private Chat platform to rock your website! Get started with a FREE PLAN just in 5 minutes :)
           Version: 1.0.1
@@ -232,7 +232,7 @@
            $e = '';
            $code = get_option('FlyzooApplicationID');
     
-           if (get_option('FlyzooPoweredBy')!=true) return;
+           //if (get_option('FlyzooPoweredBy')!=true) return;
     
 
            $e .='<!-- Flyzoo Script V2 -->'
