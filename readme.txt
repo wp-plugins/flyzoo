@@ -1,29 +1,29 @@
 ﻿=== Flyzoo Chat - Live Support & Social Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, e-commerce, ecommerce, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support,  woocommerce, comments, envolve, chat widget, community, engagement
+Tags: banckle, iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, IM Chat, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support,  woocommerce, comments, envolve, chat widget
 Requires at least: 2.0.2
 Tested up to: 3.8.1
 Stable tag: 1.0.1
 License: GPLv2 SS
 
-Flyzoo Chat - Powerful Live Support, Chat rooms and Private Chat!
+Flyzoo Chat - Powerful Live Support, Group Chat and Private Chat!
 
 
 
 == Description == 
-Flyzoo provides a complete chat platform for Live Support, Chat rooms and Private Chat!
+Flyzoo provides a cloud-based (hosted), powerful and affordable chat platform with Live Support, Group Chats and Private Chats!
 
 
 ####Features####
 
 * Customizable online, offline and login messages
-* Eye-catching, responsive chat layout on Smartphones
+* Eye-catching, responsive chat layout
 * Fast, facebook-like chat message delivery 
 * Floating chats with auto re-load while browsing the site
 * Single Sign On for WordPress/BuddyPress
 * User Profiles
-* Track visitors in real-time (PRO Plan)
+* Monitor and engage visitors in real-time (PRO Plan)
 * Customize chat colors (WOW and PRO Plans)
 * Cloud-based (hosted)
 * ...and much more!
@@ -48,7 +48,7 @@ All the relevant informations are available, real-time, at a glance:
 
 ####Chat rooms####
 
-Nobody likes ghost towns: a new visitor can see who is online, find an advice from other users or start a chat with an operator!
+Nobody likes ghost towns: a new visitor can see who is online, chat with other users or start a live support session with an operator!
 
 * A chat room can be private or public
 * Customizable bad word filter
