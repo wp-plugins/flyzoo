@@ -1,7 +1,7 @@
-﻿=== Flyzoo Chat - Live Support & Social Chat ===
+﻿=== Chat Flyzoo - Live Support & Group Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: banckle, iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, IM Chat, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support,  woocommerce, comments, envolve, chat widget
+Tags: chat, live support, support chat, group chat, chatroom
 Requires at least: 2.0.2
 Tested up to: 3.8.1
 Stable tag: 1.0.1
