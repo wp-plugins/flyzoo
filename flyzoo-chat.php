@@ -2,8 +2,8 @@
         /*
           Plugin Name: Flyzoo Chat - Live Support, Chat rooms & Private Chat
           Plugin URI: http://www.flyzoo.co/
-          Description: Stylish and powerful Live Support, Chat rooms & Private Chat platform to rock your website! Get started with a FREE PLAN just in 5 minutes :)
-          Version: 1.0.1
+          Description: Flyzoo Chat is a sleek and powerful chat platform with Live Support Chat, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
+          Version: 1.1.0
           Author: Andrea De Santis
           Author URI: http://www.flyzoo.co/
           License: GPL2
@@ -27,12 +27,10 @@
          register_uninstall_hook(__FILE__, 'flyzoo_chat_uninstall');
 
          function flyzoo_chat_uninstall() {
-    if(get_option('FlyzooApplicationID')) {
-	    delete_option( 'FlyzooApplicationID');
-	}
-     if(get_option('FlyzooPoweredBy')) {
-	    delete_option( 'FlyzooPoweredBy');
-	}
+
+    if(get_option('FlyzooApplicationID')) {  delete_option( 'FlyzooApplicationID'); }
+    if(get_option('FlyzooPoweredBy')) {  delete_option( 'FlyzooPoweredBy'); }
+    if(get_option('FlyzooApiEnabled')) {  delete_option( 'FlyzooApiEnabled'); }
 }
 
        function flyzoo_get_wp_userid()
@@ -127,6 +125,8 @@
              function setOptions(){
                 register_setting( 'flyzoo-options', 'FlyzooApplicationID' );
                 register_setting( 'flyzoo-options', 'FlyzooPoweredBy' );
+                register_setting( 'flyzoo-options', 'FlyzooApiEnabled' );
+            
             }
     
             public function adminMenu() {
@@ -213,15 +213,24 @@
             </p>
            
              <input type="submit" value="<?php echo(_e("Save Changes")) ?>" /><br /> <br /> 
-        </form>
-        <h3>3) Verify the script installation</h3>
+                      <h3>3) Verify the script installation</h3>
         <p class="fz-span">Almost done :) Verify your installation from the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> under the SETUP > WEBSITE menu.<br /><br />
         </p>
         <h3>4) Done!</h3>
-        <div class="fz-span">Go to the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> to manage your widget.
+        <div class="fz-span">Go to the <a target="_blank" href="http://dashboard.flyzoo.co/?utm_source=wp-plugin">Flyzoo Dashboard</a> to manage your widget.    </div>
+            <br /><br />
+       <h1>Options</h1>
+ 
+        <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php echo (get_option("FlyzooApiEnabled")==true)?'checked="checked"':''?>>
+							    <strong>Enable Single Sign On</strong> Check this to allow users log into the chat with their existing WordPress Account.<br />
+            </p><br />
+                <input type="submit" value="<?php echo(_e("Save Changes")) ?>" /><br /> <br /> 
+     
+      </form>
 
 
-        </div>
+
+    
     </div>
 </div>
 <?php
@@ -246,6 +255,9 @@
     
                echo ($e);
     
+             
+               if (get_option('FlyzooApiEnabled')!=true) return;
+      
         $api = '<script type="text/javascript">'
               .'var FlyzooApi = { };'
               .'FlyzooApi.UserId = ' .  json_encode(flyzoo_get_wp_userid()) .';'  

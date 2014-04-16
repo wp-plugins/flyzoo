@@ -1,32 +1,33 @@
 ﻿=== Flyzoo Chat - Live Support & Group Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, IM Chat, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, zopim, boldchat, casengo, rumbletalk, help,  live support, group chat, chatroom, discussion, customer support,  woocommerce, comments, envolve, chat widget
+Tags: iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, IM Chat, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support,  woocommerce, comments, chat widget
 Requires at least: 2.0.2
-Tested up to: 3.8.1
-Stable tag: 1.0.1
+Tested up to: 3.9.0
+Stable tag: 1.1.0
 License: GPLv2 SS
 
-Flyzoo Chat - Powerful Live Support, Group Chat and Private Chat!
+Flyzoo Chat - Powerful Live Support and Community Chat!
 
 
 
 == Description == 
-Flyzoo provides a cloud-based (hosted), powerful and affordable chat platform with Live Support, Group Chats and Private Chats!
+Whether you are running an e-commerce, a community or just a blog, Flyzoo can fit your chat needs and increase your website engagement.
+
+Flyzoo Chat is a sleek and powerful chat platform with Live Support Chat, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
 
 
 ####Features####
 
-* Cloud-based: all chat communications are handled by our servers and won't impact your database!
 * Customizable online, offline and login messages
 * Eye-catching, responsive chat layout
 * Smooth, facebook-like chat message delivery 
 * Floating chats with auto re-load while browsing the site
 * Single Sign On for WordPress/BuddyPress
 * User Profiles
-* Monitor and engage visitors in real-time (PRO Plan)
+* Monitor and engage visitors in real time (PRO Plan)
 * Customize chat colors (WOW and PRO Plans)
-
+* Cloud-based
 * ...and much more!
 
 Step by step instructions:
@@ -36,8 +37,8 @@ Step by step instructions:
 
 ####Live Support Chat: increase sales and conversions####
 
-A must-have for your e-commerce: monitor your visitors with real-time tracking and invite your best prospects to chat.
-All the relevant informations are available, real-time, at a glance:
+A must-have for your e-commerce: monitor your visitors with real time tracking and invite your best prospects to chat.
+All the relevant informations are available, real time, at a glance:
 
 * Current visited page URL and Title
 * Pageviews
@@ -100,7 +101,7 @@ Full, illustrated instructions, can be found here:
 
 
 == Screenshots ==
-1. Live Support Chat with Real-time Visitors Tracking
+1. Live Support Chat with Real time Visitors Tracking
 2. Users can move, resize and minimize chats.
 3. Chat rooms with emoji, sound notifications and media preview! 
 4. Responsive chat for mobile devices.
@@ -142,6 +143,9 @@ Yes, of course. We love feedbacks so let's keep in touch!
 
 
 == Changelog ==
+
+= 1.1.0 =
+* 04.15.2014 - Added a feature to make Single Sign On integration optional, improved infrastructure and chat message delivery
 
 = 1.0.1 =
 * 03.28.2014 - Improved signup procedure
