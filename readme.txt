@@ -1,33 +1,56 @@
-﻿=== Flyzoo Chat - Live Support & Group Chat ===
+=== Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: iphone live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, IM Chat, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support,  woocommerce, comments, chat widget
+Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support, chat widget
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.1.0
-License: GPLv2 SS
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo Chat - Powerful Live Support and Community Chat!
+
+Flyzoo Live Chat - Engage your visitors with a sleek and powerful chat platform!
 
 
 
 == Description == 
-Whether you are running an e-commerce, a community or just a blog, Flyzoo can fit your chat needs and increase your website engagement.
 
-Flyzoo Chat is a sleek and powerful chat platform with Live Support Chat, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing chat experience for your e-commerce, community or blog.
 
 
-####Features####
+Engage your visitors proactively with **realtime monitoring**, help your customers with **live support chat** and **increase sales**. 
 
-* Customizable online, offline and login messages
-* Eye-catching, responsive chat layout
-* Smooth, facebook-like chat message delivery 
+Build a community around your content with topic related **group chats** where members can also start **one-to-one private conversations**!
+
+Get started in just 5 minutes.
+
+
+####Flyzoo Live Chat - Core Features####
+
+* **Easy but Powerful:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
+
+* **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
+
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! You can customize headers, pop up messages and add images to match your marketing needs
+
+* **Eye-catching, sleek interface:** You love great design and we do too. Flyzoo has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
+
+* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
+
 * Floating chats with auto re-load while browsing the site
+
 * Single Sign On for WordPress/BuddyPress
+
 * User Profiles
-* Monitor and engage visitors in real time (PRO Plan)
-* Customize chat colors (WOW and PRO Plans)
-* Cloud-based
+
+* Monitor and engage visitors in real time **(PRO Plan)**
+
+* Customize chat colors **(WOW and PRO Plans)**
+
+* Chat History **(WOW and PRO Plans)**
+
+* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to enquires!
+
 * ...and much more!
 
 Step by step instructions:
@@ -37,20 +60,24 @@ Step by step instructions:
 
 ####Live Support Chat: increase sales and conversions####
 
-A must-have for your e-commerce: monitor your visitors with real time tracking and invite your best prospects to chat.
-All the relevant informations are available, real time, at a glance:
+Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-* Current visited page URL and Title
-* Pageviews
-* Campaign (UTM source, medium, terms...)
+Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing and offer the best **live support** experience to **increase sales**.
+
+All the most important informations are available, at a glance:
+
+* Current page visited by the user with URL and Title
+* Total Pageviews
+* Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
 * Keywords 
 * Returning visitor
-* Referrer
+
+Invite your prospects to chat and get the most out of your  social media and pay-per-click campaigns!
 
 
 ####Chat rooms####
 
-Nobody likes ghost towns: a new visitor can see who is online, chat with other users or start a live support session with an operator!
+Nobody likes ghost towns: a new visitor can see who is online, start a **one-to-one chat** with another user or a **live support** session with an operator!
 
 * A chat room can be private or public
 * Customizable bad word filter
@@ -67,7 +94,7 @@ Nobody likes ghost towns: a new visitor can see who is online, chat with other u
 
 ####Languages####
 
-The chat widget is available in English (...other languages coming soon!)
+The chat widget is available in English (...other languages coming in late March, 2014)
 
 
 == Installation ==
@@ -112,7 +139,7 @@ Full, illustrated instructions, can be found here:
 
 = Is it free? =
 
-Our FREE PLAN is great for small and personal websites and we also offer PREMIUM PLANS with advanced features.
+Currently we offer both free and **Premium** plans with 14-days free trial.
 
 = How do I create a new Chat room? =
 
@@ -132,8 +159,7 @@ Please try the following:
 
 this should solve the issue in 99% of cases.
 
-Otherwise, please check that the chat script has not been embedded directly into
-some .php file (footer.php for instance).
+Otherwise, please check that the chat script has not been embedded directly into some .php file (footer.php for instance).
 
 = Can I suggest a feature?  =
 
@@ -145,7 +171,7 @@ Yes, of course. We love feedbacks so let's keep in touch!
 == Changelog ==
 
 = 1.1.0 =
-* 04.15.2014 - Added a feature to make Single Sign On integration optional, improved infrastructure and chat message delivery
+* 04.17.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
 
 = 1.0.1 =
 * 03.28.2014 - Improved signup procedure
