@@ -15,17 +15,16 @@ Flyzoo Live Chat - Engage your visitors with a sleek and powerful chat platform!
 
 == Description == 
 
-[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing chat experience for your e-commerce, community or blog.
-
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing chat experience for your e-commerce,
+community or blog. Get started in just 5 minutes!
 
 Engage your visitors proactively with **realtime monitoring**, help your customers with **live support chat** and **increase sales**. 
 
 Build a community around your content with topic related **group chats** where members can also start **one-to-one private conversations**!
 
-Get started in just 5 minutes.
-
 
 ####Flyzoo Live Chat - Core Features####
+
 
 * **Easy but Powerful:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
 
