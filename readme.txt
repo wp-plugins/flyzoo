@@ -28,7 +28,7 @@ Build a community around your content with topic related **group chats** where m
 
 * **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
 
-* **Powerful** Flyzoo Chat is a cloud based, hosted solution  build to latest technologies to provide a smooth chat experience
+* **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience!
 
 * **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
 
