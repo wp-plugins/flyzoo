@@ -140,15 +140,15 @@ Full, illustrated instructions, can be found here:
 
 = Is it free? =
 
-Currently we offer both free and **Premium** plans with 14-days free trial. Please support us, our Live Chat Premium plans have a brutally honest pricing :)
+Currently we offer both free and **Premium** plans with 14-days free trial. Please support us, our **Chat** Premium plans have a brutally honest pricing :)
 
 = How do I go online for my users =
 
 Just do the following:
 
-1) Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
-2) Click on MENU
-3) A window will show up, click on "Welcome, Guest 1234 - Log in to change your name!"
+1. Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
+2. Click on MENU
+3. A window will show up, click on "Welcome, Guest 1234 - Log in to change your name!"
 
 = What is the Verification Process and why do I have to run it? =
 
