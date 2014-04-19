@@ -26,7 +26,9 @@ Build a community around your content with topic related **group chats** where m
 ####Flyzoo Live Chat - Core Features####
 
 
-* **Easy but Powerful:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
+* **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
+
+* **Powerful** Flyzoo Chat is a cloud based, hosted solution  build to latest technologies to provide a smooth chat experience
 
 * **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
 
@@ -138,7 +140,25 @@ Full, illustrated instructions, can be found here:
 
 = Is it free? =
 
-Currently we offer both free and **Premium** plans with 14-days free trial.
+Currently we offer both free and **Premium** plans with 14-days free trial. Please support us, our Live Chat Premium plans have a brutally honest pricing :)
+
+= How do I go online for my users =
+
+Just do the following:
+
+1) Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
+2) Click on MENU
+3) A window will show up, click on "Welcome, Guest 1234 - Log in to change your name!"
+
+= What is the Verification Process and why do I have to run it? =
+
+By running the verification process we can verify that you are the owner of the domain,
+thus we can allow you to perform administrative tasks from the widget (like ban users and remove messages from the chatrooms,
+for instance).
+
+= How do I recover my password =
+
+[Click here to recovery your password>>](http://widget.flyzoo.co/account/recovery)
 
 = How do I create a new Chat room? =
 
