@@ -1,15 +1,15 @@
-=== Flyzoo Live Chat  ===
+=== Flyzoo Chat  ===
 Contributors: Andrea De Santis
 Donate link:
 Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support, chat widget
 Requires at least: 2.0.2
 Tested up to: 3.9.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo Live Chat - Chat with your visitors with a sleek and powerful live chat platform!
+Flyzoo Chat - Chat with your visitors with a sleek and powerful live chat platform!
 
 
 
@@ -28,7 +28,7 @@ Build a community around your content with topic related **group chats** where m
 
 * **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
 
-* **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience!
+* **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
 
 * **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
 
@@ -50,7 +50,7 @@ Build a community around your content with topic related **group chats** where m
 
 * Chat History **(WOW and PRO Plans)**
 
-* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to enquires!
+* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests!
 
 * ...and much more!
 
@@ -73,7 +73,7 @@ All the most important informations are available, at a glance:
 * Keywords 
 * Returning visitor
 
-Invite your prospects to chat and get the most out of your  social media and pay-per-click campaigns!
+Invite your prospects to chat and get the most out of your social media and pay-per-click campaigns!
 
 
 ####Chat rooms####
@@ -95,18 +95,18 @@ Nobody likes ghost towns: a new visitor can see who is online, start a **one-to-
 
 ####Languages####
 
-The chat widget is available in English (...other languages coming in late March, 2014)
+The chat widget is available in English (...other languages coming in May, 2014)
 
 
 == Installation ==
 
 Full, illustrated instructions, can be found here:
 
-[How to install Flyzoo on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account on Flyzoo.co**
 
-1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=free&t=12
+1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=go&t=12
 2. Enter your website address to get your Flyzoo Application ID
 
 **2) Install the Plugin**
@@ -138,11 +138,19 @@ Full, illustrated instructions, can be found here:
 
 == Frequently Asked Questions ==
 
+= Do you offer support? =
+YES. We really care about our customers and we **always reply to support requests**.
+
 = Is it free? =
+We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
+All our plans are discounted up to 33% for yearly subscriptions.
+Check out pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-Currently we offer both free and **Premium** plans with 14-days free trial. Please support us, our **Chat** Premium plans have a brutally honest pricing :)
+= How do I buy a subscription? =
+After you sign up for the 14-days free trial, you can manage your subscription from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+You can pay your subscription using PayPal!
 
-= How do I go online for my users =
+= How do I go online and chat with my users? =
 
 Just do the following:
 
@@ -156,7 +164,12 @@ By running the verification process we can verify that you are the owner of the 
 thus we can allow you to perform administrative tasks from the widget (like ban users and remove messages from the chatrooms,
 for instance).
 
-= How do I recover my password =
+
+= What if can't verify my website? =
+Please reach us on [Flyzoo Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
+
+
+= How do I recover my password? =
 
 [Click here to recovery your password>>](http://widget.flyzoo.co/account/recovery)
 
@@ -182,15 +195,16 @@ Otherwise, please check that the chat script has not been embedded directly into
 
 = Can I suggest a feature?  =
 
-Yes, of course. We love feedbacks so let's keep in touch!
+Yes, of course. We'd love to hear your feedback!
 
 
 
 
 == Changelog ==
 
-= 1.1.0 =
-* 04.17.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
+
+= 1.1.1 =
+* 04.25.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
 
 = 1.0.1 =
 * 03.28.2014 - Improved signup procedure

@@ -3,7 +3,7 @@
           Plugin Name: Flyzoo Live Chat
           Plugin URI: http://www.flyzoo.co/
           Description: Flyzoo Chat is a sleek and powerful chat platform with Live Support Chat, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
-          Version: 1.1.0
+          Version: 1.1.1
           Author: Andrea De Santis
           Author URI: http://www.flyzoo.co/
           License: GPL2
@@ -193,7 +193,7 @@
         <h1>Get Started!</h1>
         <h3>1) Create your account on Flyzoo</h3>
         <span class="fz-span">
-        Go to <a href="http://www.flyzoo.co/signup?s=free&t=12">Flyzoo Sign up</a> and create your account.
+        Go to <a href="http://www.flyzoo.co/signup?s=go&t=12">Flyzoo Sign up</a> and create your account.
         </span><br /><br />
         <h3>2) Enter your Flyzoo Application ID</h3>
 
