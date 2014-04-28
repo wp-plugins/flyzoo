@@ -1,7 +1,7 @@
-=== Flyzoo Chat  ===
+=== Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support, chat widget
+Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, widget, sidebar, plugin, live support, group chat, chatroom, discussion, customer support, chat widget
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.1.1
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo Live Chat - Chat with your visitors with an eye-catching and powerful live chat platform!
+The Amazing Live Support and Group Chats to rock your e-commerce, blog or community.
 
 
 
