@@ -1,7 +1,7 @@
 === Flyzoo Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: widget, plugin, admin, sidebar, android live chat, chat button, chat form, chat live, chat online, chat plugin, contact form, customer feedback, customer live chat, customer support software, free chat, free live chat, help desk, help desk software, helpdesk, iphone, iphone live chat, live chat, live chat button, live chat help, live chat module, live chat plugin, live chat software, live chat widget, live support, livechat, mobile live chat, online live chat, online support, website chat, wordpress chat
+Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce,  help,  live support, group chat, chatroom, discussion, customer support, chat widget
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.1.1
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo Chat - Chat with your visitors with a sleek and powerful live chat platform!
+Flyzoo Live Chat - Chat with your visitors with an eye-catching and powerful live chat platform!
 
 
 
@@ -130,8 +130,8 @@ Full, illustrated instructions, can be found here:
 
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
-2. Users can move, resize and minimize chats.
-3. Chat rooms with emoji, sound notifications and media preview! 
+2. Users can move, resize and minimize windows.
+3. Chat rooms with emoticons, sound notifications and link preview! 
 4. Responsive chat for mobile devices.
 5. Chat colors and features are customizable.
 
@@ -143,7 +143,7 @@ YES. We really care about our customers and we **always reply to support request
 
 = Is it free? =
 We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
-All our plans are discounted up to 33% for yearly subscriptions.
+Our plans are discounted up to 33% for yearly subscriptions.
 Check out pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I buy a subscription? =
@@ -156,16 +156,17 @@ Just do the following:
 
 1. Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
 2. Click on MENU
-3. A window will show up, click on "Welcome, Guest 1234 - Log in to change your name!"
+3. A window will show up, click on "Welcome, Guest (number) - Log in to change your name!"
 
 = What is the Verification Process and why do I have to run it? =
 
 By running the verification process we can verify that you are the owner of the domain,
 thus we can allow you to perform administrative tasks from the widget (like ban users and remove messages from the chatrooms,
-for instance).
+for instance). 
 
 
 = What if can't verify my website? =
+
 Please reach us on [Flyzoo Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
 
 
