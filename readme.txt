@@ -46,9 +46,9 @@ Build a community around your content with topic related **group chats** where m
 
 * Secure Connection (SSL/HTTPS)  **(WOW and PRO Plans)**
 
-* Monitor and engage visitors in real time **(PRO Plan)**
+* Monitor and engage visitors in real time **(PRO Plan)**: Know what your visitors are looking at where they come from to provide the best **live support** ever and **increase sales**
 
-* Customize chat colors **(WOW and PRO Plans)**
+* Customize window colors **(WOW and PRO Plans)**
 
 * Chat History **(WOW and PRO Plans)**
 
@@ -59,40 +59,6 @@ Build a community around your content with topic related **group chats** where m
 Step by step instructions:
 
 [How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
-
-####Live Support Chat: increase sales and conversions####
-
-Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
-
-Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing to provide a smarter **live support**.
-
-All the most important informations are available, at a glance:
-
-* Current page visited by the user with URL and Title
-* Total Pageviews
-* Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
-* Keywords 
-* Returning visitor
-
-Invite your prospects to chat and get the most out of your social media and pay-per-click campaigns!
-
-
-####Chat rooms####
-
-Nobody likes ghost towns: a new visitor can see who is online, start conversations with other users or a **live support** session with an operator!
-
-* Chat rooms can be private or public
-* Customizable bad word filter
-* Create multiple chat rooms on your site (WOW &amp; PRO Plans)
-* Users can start private chats with other users
-* Chat windows can be moved, resized and minimized
-* Rich set of emoticons
-* Operators can ban users and remove comments from chat rooms
-* Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
-* Sound Notifications
-* Users can update their profile and avatar
-* Responsive chat layout
 
 
 ####Languages####
@@ -206,8 +172,8 @@ Yes, of course. We'd love to hear your feedback!
 == Changelog ==
 
 = 1.2.0 =
-
 * 05.03.2014 - Introduced Secure Connection over HTTPS/SSL
+
 = 1.1.1 =
 * 04.25.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
 
