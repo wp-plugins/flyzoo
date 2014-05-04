@@ -1,4 +1,4 @@
-=== Flyzoo Live Chat  ===
+=== Flyzoo Chat  ===
 Contributors: Andrea De Santis
 Donate link:
 Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, widget, plugin, live support, group chat, chatroom, discussion, customer support, chat widget
@@ -9,34 +9,32 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-The Amazing Live Support and Group Chats to rock your e-commerce, blog or community.
+Chat and Live Support platform to rock your e-commerce, blog or community.
 
 
 
 == Description == 
 
-[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your e-commerce,
-community or blog. Get started in just 5 minutes!
+[Flyzoo Chat](http://www.flyzoo.co) adds an amazing **chat** experience to your e-commerce,
+community or blog. Engage your customers with **live support** and **increase sales** thanks to easy but effective **realtime visitor monitoring**. 
 
-Engage your customers proactively with **realtime monitoring** to provide a smart **live support** and **increase sales**. 
-
-Build a community around your content with topic related **group chats** where members can also start **one-to-one private conversations**!
+Build a community around your content with **group chats**! 
 
 
-####Flyzoo Live Chat####
+####Flyzoo Chat####
 
 
 * **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
 
 * **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
 
-* **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
+* **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
 * **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! You can customize headers, pop up messages and add images to match your marketing needs
 
 * **Eye-catching, sleek interface:** You love great design and we do too. Flyzoo has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
 
-* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
+* **Smooth, facebook-like chat message delivery:** [Flyzoo Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
 
 * Floating chats with auto re-load while browsing the site
 
@@ -59,6 +57,39 @@ Build a community around your content with topic related **group chats** where m
 Step by step instructions:
 
 [How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
+####Live Support: Chat with your customers to increase sales####
+
+Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Chat](http://www.flyzoo.co) is must-have for your business!
+
+Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing to provide a smarter **live support**.
+
+All the most important informations are available, at a glance:
+
+* Current page visited by the user with URL and Title
+* Total Pageviews
+* Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
+* Keywords 
+* Returning visitor
+
+Invite your best prospects to **chat** and get the most out of your social media and pay-per-click campaigns!
+
+
+####Chat rooms####
+
+Nobody likes ghost towns: a new visitor can see who is online, start conversations with other users or a **live support** session with an operator!
+
+* Chat rooms can be private or public
+* Customizable bad word filter
+* Create multiple chat rooms on your site (WOW &amp; PRO Plans)
+* Users can start private chats with other users
+* Chat windows can be moved, resized and minimized
+* Rich set of emoticons
+* Operators can ban users and remove comments from chat rooms
+* Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
+* Sound Notifications
+* Users can update their profile and avatar
+* Responsive chat layout
 
 
 ####Languages####
