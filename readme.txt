@@ -1,7 +1,7 @@
-=== Flyzoo Chat  ===
+=== Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, widget, plugin, live support, group chat, chatroom, discussion, customer support, chat widget
+Tags: chat, live support, support chat
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.2.0
@@ -15,18 +15,18 @@ Chat and Live Support platform to rock your e-commerce, blog or community.
 
 == Description == 
 
-[Flyzoo Chat](http://www.flyzoo.co) adds an amazing **chat** experience to your e-commerce,
+[Flyzoo Live Chat](http://www.flyzoo.co) adds an amazing **chat** experience to your e-commerce,
 community or blog. Engage your customers with **live support** and **increase sales** thanks to easy but effective **realtime visitor monitoring**. 
 
 Build a community around your content with **group chats**! 
 
 
-####Flyzoo Chat####
+####Flyzoo Live Chat####
 
 
 * **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
 
-* **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
+* **Powerful:** Flyzoo Live Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
@@ -34,7 +34,7 @@ Build a community around your content with **group chats**!
 
 * **Eye-catching, sleek interface:** You love great design and we do too. Flyzoo has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
 
-* **Smooth, facebook-like chat message delivery:** [Flyzoo Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
+* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
 
 * Floating chats with auto re-load while browsing the site
 
@@ -56,11 +56,11 @@ Build a community around your content with **group chats**!
 
 Step by step instructions:
 
-[How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 ####Live Support: Chat with your customers to increase sales####
 
-Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Chat](http://www.flyzoo.co) is must-have for your business!
+Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing to provide a smarter **live support**.
 
@@ -101,7 +101,7 @@ The chat widget is available in English (...other languages coming in May, 2014)
 
 Full, illustrated instructions, can be found here:
 
-[How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account on Flyzoo.co**
 
@@ -112,7 +112,7 @@ Full, illustrated instructions, can be found here:
  
 3. Upload the flyzoo-for-wordpress directory to the `/wp-content/plugins/` directory
 4. Activate the plugin through the 'Plugins' menu in WordPress
-5. Click 'Settings' and then 'Flyzoo Chat for WP'
+5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
 **3) Enter your Flyzoo Application ID**
@@ -153,7 +153,7 @@ You can pay your subscription using PayPal!
 
 Just do the following:
 
-1. Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
+1. Go on your website, locate the Flyzoo Live Chat widget on the bottom of the screen
 2. Click on MENU
 3. A window will show up, click on "Welcome, Guest (number) - Log in to change your name!"
 
@@ -166,7 +166,7 @@ for instance).
 
 = What if can't verify my website? =
 
-Please reach us on [Flyzoo Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
+Please reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
 
 
 = How do I recover my password? =
