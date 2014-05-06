@@ -171,7 +171,7 @@ Please reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), w
 
 = How do I recover my password? =
 
-[Click here to recovery your password>>](http://widget.flyzoo.co/account/recovery)
+[Click here to recovery your password>>](http://widget-a.flyzoo.co/account/recovery)
 
 = How do I create a new Chat room? =
 
