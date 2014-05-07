@@ -1,7 +1,7 @@
 === Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: clickdesk, formilla, chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, envolve, chat widget, buddypress, community, engagement
+Tags: chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, envolve, chat widget, buddypress, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.2.0
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-The amazing live chat platform for WordPress site.
+Live Support & Group Chats for WordPress site.
 
 
 
