@@ -1,7 +1,7 @@
 === Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: clickdesk, formilla, chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, web, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, comments, envolve, chat widget, community, engagement
+Tags: clickdesk, formilla, chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, envolve, chat widget, buddypress, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.2.0
@@ -9,40 +9,38 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-The amazing live chat platform for your e-commerce, community or blog!
+The amazing live chat platform for WordPress site.
 
 
 
 == Description == 
 
-[Flyzoo Live Chat](http://www.flyzoo.co) adds and amazing **live chat** experience to your WordPress site.
-Chat with your visitors with **live support** to **increase sales** and build a community around your content with **group chats**! 
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your WordPress site.
+Chat with your visitors with advanced **live support** to **increase sales** and build a community around your content with **group chats**! 
 
 
 ####Flyzoo Live Chat####
 
 
-* **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
+* **Get started in 5 minutes:** No coding skills required!
 
-* **Powerful:** Flyzoo Live Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
+* **Powerful:** Flyzoo Live Chat is a cloud-based, hosted solution build on the latest technologies to provide a smooth chat experience
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
-* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! You can customize headers, pop up messages and add images to match your marketing needs
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs
 
-* **Eye-catching, sleek interface:** You love great design and we do too. Flyzoo has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
+* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
 
-* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
+* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting!
 
-* Floating chats with auto re-load while browsing the site
+* **In-browser chat**: windows with auto re-load while browsing the site
 
-* Single Sign On for WordPress/BuddyPress
-
-* User Profiles
+* Single Sign On for WordPress/BuddyPress: allow you users to chat with ther existing WordPress account
 
 * Secure Connection (SSL/HTTPS)  **(WOW and PRO Plans)**
 
-* Monitor and engage visitors in real time **(PRO Plan)**: Know what your visitors are looking at where they come from to provide the best **live support** ever and **increase sales**
+* Monitor and engage visitors in real time **(PRO Plan)**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**
 
 * Customize window colors **(WOW and PRO Plans)**
 
