@@ -1,52 +1,46 @@
 === Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, customer live chat, android live chat, chat, chat button, chat live, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, customer support, feedback, help, help desk, helpdesk, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, olark, online chat, online customer chat, online live chat, online support, plugin chat, community, social chat, support, support category, support chat, support desk, support software, visitor chat, webchat, e-commerce, ecommerce, widget, sidebar, plugin, live support, group chat, chatroom, discussion, customer support, chat widget
+Tags: chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, widget, comments,wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, envolve, chat widget, buddypress, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.0
-Stable tag: 1.1.1
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-The Amazing Live Support and Group Chats to rock your e-commerce, blog or community.
+Live Support & Group Chats for your site.
 
 
 
 == Description == 
 
-[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing chat experience for your e-commerce,
-community or blog. Get started in just 5 minutes!
-
-Engage your visitors proactively with **realtime monitoring**, help your customers with **live support chat** and **increase sales**. 
-
-Build a community around your content with topic related **group chats** where members can also start **one-to-one private conversations**!
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your WordPress site.
+Chat with your visitors with advanced **live support** to **increase sales** and build a community around your content with **group chats**! 
 
 
-####Flyzoo Live Chat - Core Features####
+####Flyzoo Live Chat####
 
 
-* **Get started in 5 minutes:** No coding skills required! Just install the plugin and get your Flyzoo Application Id
+* **Get started in 5 minutes:** No coding skills required! Just install the **chat** plugin, and we'll handle all the heavy lifting for you!
 
-* **Powerful:** Flyzoo Chat is a cloud based, hosted solution build on the latest technologies to provide a smooth chat experience
+* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud based (hosted) platform, highly scalable and won't clutter your site database like self-hosted solutions!
 
-* **Multiple operators:** Incoming live support requests are automatically routed to the first available operator
+* **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
-* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! You can customize headers, pop up messages and add images to match your marketing needs
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs
 
-* **Eye-catching, sleek interface:** You love great design and we do too. Flyzoo has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
+* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
 
-* **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like most self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting.
+* **In-browser chat**: private chat windows with follow the user while he is browsing the site
 
-* Floating chats with auto re-load while browsing the site
+* Single Sign On for WordPress/BuddyPress: allow you users to chat with their existing WordPress account
 
-* Single Sign On for WordPress/BuddyPress
+* Secure Connection (SSL/HTTPS)  **(WOW and PRO Plans)**
 
-* User Profiles
+* Monitor and engage visitors in real time **(PRO Plan)**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**
 
-* Monitor and engage visitors in real time **(PRO Plan)**
-
-* Customize chat colors **(WOW and PRO Plans)**
+* Customize window colors **(WOW and PRO Plans)**
 
 * Chat History **(WOW and PRO Plans)**
 
@@ -56,14 +50,13 @@ Build a community around your content with topic related **group chats** where m
 
 Step by step instructions:
 
-[How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-
-####Live Support Chat: increase sales and conversions####
+####Live Support: Chat with your customers to increase sales####
 
 Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing and offer the best **live support** experience to **increase sales**.
+Know what your visitors are looking at with our intuitive **real time visitor monitoring**. See which product they are currently viewing to provide a smarter **live support**.
 
 All the most important informations are available, at a glance:
 
@@ -73,20 +66,20 @@ All the most important informations are available, at a glance:
 * Keywords 
 * Returning visitor
 
-Invite your prospects to chat and get the most out of your social media and pay-per-click campaigns!
+Invite your best prospects to **chat** and get the most out of your social media and pay-per-click campaigns!
 
 
 ####Chat rooms####
 
-Nobody likes ghost towns: a new visitor can see who is online, start a **one-to-one chat** with another user or a **live support** session with an operator!
+Nobody likes ghost towns: a new visitor can see who is online, start conversations with other users or a **live support** session with an operator!
 
-* A chat room can be private or public
+* Chat rooms can be private or public
 * Customizable bad word filter
 * Create multiple chat rooms on your site (WOW &amp; PRO Plans)
 * Users can start private chats with other users
 * Chat windows can be moved, resized and minimized
-* Emojis
-* Operators can Ban users and remove comments from chat rooms
+* Rich set of emoticons
+* Operators can ban users and remove comments from chat rooms
 * Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
 * Sound Notifications
 * Users can update their profile and avatar
@@ -102,7 +95,7 @@ The chat widget is available in English (...other languages coming in May, 2014)
 
 Full, illustrated instructions, can be found here:
 
-[How to install Flyzoo Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account on Flyzoo.co**
 
@@ -113,7 +106,7 @@ Full, illustrated instructions, can be found here:
  
 3. Upload the flyzoo-for-wordpress directory to the `/wp-content/plugins/` directory
 4. Activate the plugin through the 'Plugins' menu in WordPress
-5. Click 'Settings' and then 'Flyzoo Chat for WP'
+5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
 **3) Enter your Flyzoo Application ID**
@@ -154,7 +147,7 @@ You can pay your subscription using PayPal!
 
 Just do the following:
 
-1. Go on your website, locate the Flyzoo Chat widget on the bottom of the screen
+1. Go on your website, locate the Flyzoo Live Chat widget on the bottom of the screen
 2. Click on MENU
 3. A window will show up, click on "Welcome, Guest (number) - Log in to change your name!"
 
@@ -167,12 +160,12 @@ for instance).
 
 = What if can't verify my website? =
 
-Please reach us on [Flyzoo Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
+Please reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
 
 
 = How do I recover my password? =
 
-[Click here to recovery your password>>](http://widget.flyzoo.co/account/recovery)
+[Click here to recovery your password>>](http://widget-a.flyzoo.co/account/recovery)
 
 = How do I create a new Chat room? =
 
@@ -203,6 +196,8 @@ Yes, of course. We'd love to hear your feedback!
 
 == Changelog ==
 
+= 1.2.0 =
+* 05.03.2014 - Introduced Secure Connection over HTTPS/SSL
 
 = 1.1.1 =
 * 04.25.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
