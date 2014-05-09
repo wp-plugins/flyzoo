@@ -15,8 +15,9 @@ Live Support & Group Chats for your site.
 
 == Description == 
 
-[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your WordPress site.
-Chat with your visitors with advanced **live support** to **increase sales** and build a community around your content with **group chats**! 
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your website.
+Chat with your visitors with **live support chat** to **increase sales**.
+Build a community around your content with **group chats**! 
 
 
 ####Flyzoo Live Chat####
