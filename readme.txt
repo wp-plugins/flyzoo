@@ -14,9 +14,8 @@ Live Support & Group Chat for your site.
 
 
 == Description == 
-
-Chat with your customers with **live support chat** to **increase sales** and build a community around your content with **group chats**! 
 [Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your blog, e-commerce or community.
+Allow your visitors to chat with you live if they need support and build a community around your content with **group chats**! 
 
 ####Flyzoo Live Chat####
 
@@ -27,13 +26,13 @@ Chat with your customers with **live support chat** to **increase sales** and bu
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
-* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs.
 
 * **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
 
 * **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting!
 
-* **In-browser chat**: windows with auto re-load while browsing the site
+* **In-browser chat**: windows will auto re-load while browsing the site
 
 * Single Sign On for WordPress/BuddyPress: your users can login and chat with ther existing WordPress account
 
