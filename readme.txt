@@ -1,7 +1,7 @@
 === Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat module, chat online, chat plugin, chat software, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support category, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, envolve, chat widget, buddypress, community, engagement
+Tags: chat, chat module, chat online, chat plugin, chat software, ecommerce, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, shop, store, envolve, chat widget, buddypress, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.2.0
@@ -15,7 +15,7 @@ Live Support & Group Chat for your site.
 
 == Description == 
 [Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your blog, e-commerce or community.
-Allow your visitors to chat with you live if they need support and build a community around your content with **group chats**! 
+Help your customers with **live support chat** to **increase sales** and build and engage your community with **group chats**! 
 
 ####Flyzoo Live Chat####
 
