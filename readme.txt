@@ -1,7 +1,7 @@
 === Flyzoo Live Chat  ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat module, chat online, chat plugin, chat software, ecommerce, chat support, chat wordpress, plugin, comment, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, shop, store, envolve, chat widget, buddypress, community, engagement
+Tags: chat, chat module, chat online, chat plugin, chat software, ecommerce, chat support, chat wordpress, plugin, comments, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, shop, store, envolve, chat widget, buddypress, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.0
 Stable tag: 1.2.0
@@ -71,24 +71,24 @@ Invite your prospects to **chat** and get the most out of your social media and 
 
 ####Chat rooms####
 
-Nobody likes ghost towns: a new visitor can see who is online, start conversations with other users or a **live support** session with an operator!
+Nobody likes ghost towns: engage your community with topic-related **group chats**!
 
 * Chat rooms can be private or public
 * Customizable bad word filter
-* Create multiple chat rooms on your site (WOW &amp; PRO Plans)
-* Users can start private chats with other users
+* Multiple chat rooms on your site (WOW &amp; PRO Plans)
+* Users can start private conversations with other users
 * Chat windows can be moved, resized and minimized
 * Rich set of emoticons
-* Operators can ban users and remove comments from chat rooms
+* Operators can ban users and remove comments 
 * Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
 * Sound Notifications
 * Users can update their profile and avatar
-* Responsive chat layout
+* Responsive layout
 
 
 ####Languages####
 
-The chat widget is available in English (...other languages coming in May, 2014)
+Flyzoo chat widget is currently available in English (...other languages coming in May, 2014!)
 
 
 == Installation ==
