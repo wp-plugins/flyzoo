@@ -189,7 +189,7 @@ Otherwise, please check that the chat script has not been embedded directly into
 
 = Can I suggest a feature?  =
 
-Yes, of course. We'd love to hear your feedback!
+We really care about your feedback and work hard to improve Flyzoo Chat, so your feedback is welcome!
 
 
 
@@ -197,7 +197,7 @@ Yes, of course. We'd love to hear your feedback!
 == Changelog ==
 
 = 1.2.0 =
-* 05.03.2014 - Introduced Secure Connection over HTTPS/SSL
+* 05.03.2014 - New feature: Secure Connection over HTTPS/SSL
 
 = 1.1.1 =
 * 04.25.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
