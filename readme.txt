@@ -54,7 +54,7 @@ Step by step instructions:
 
 ####Live Support: Chat with your customers####
 
-Chatters are four times more likely to convert than a regular website visitor: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
+Live chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Know what your visitors are looking at with intuitive **real time visitor monitoring**.
 
