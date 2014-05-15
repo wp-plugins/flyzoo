@@ -3,7 +3,7 @@ Contributors: Andrea De Santis
 Donate link:
 Tags: chat, chat module, chat online, chat plugin, chat software, ecommerce, chat support, chat wordpress, plugin, comments, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, widgets, wordpress live chat, zendesk, zendesk chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, e-commerce, quickchat, shop, store, envolve, chat widget, community, engagement
 Requires at least: 2.0.2
-Tested up to: 3.9.0
+Tested up to: 3.9.1
 Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,7 +34,7 @@ Help your customers with **live support chat** to **increase sales** and build a
 
 * **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting!
 
-* **Tab Sync**:  When you work in multiple browser windows (or tabs) all the chat windows are synchronized so you can talk from any tab. 
+* **Tab Sync**: When you work in multiple browser windows (or tabs) all the chat windows are synchronized so you can talk from any tab. 
 
 * **In-browser chat**: chat windows will auto reload while browsing the site
 
