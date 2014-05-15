@@ -34,6 +34,8 @@ Help your customers with **live support chat** to **increase sales** and build a
 
 * **Smooth, facebook-like chat message delivery:** [Flyzoo Live Chat](http://www.flyzoo.co) is cloud based platform, highly scalable and won't clutter your site database like self-hosted solutions. Just the enable the plugin, and we'll handle all the heavy lifting!
 
+* **Tab Sync**:  When you work in multiple browser windows (or tabs) all the chat windows are synchronized so you can talk from any tab. 
+
 * **In-browser chat**: chat windows will auto reload while browsing the site
 
 * Single Sign On for WordPress/BuddyPress: users can log in and chat using their existing WordPress account
