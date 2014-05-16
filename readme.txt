@@ -9,13 +9,13 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Amazing Live Chat for your blog, e-commerce or community.
+Amazing Chat for your blog, e-commerce or community.
 
 
 
 == Description == 
-[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your e-commerce, blog or community.
-Help your customers with **live support chat** to **increase sales** and build and engage your community with **group chats**! 
+[Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **live chat** experience for your website.
+Help your customers with **live support** to **increase sales** and build and engage your community with **group chats**! 
 
 ####Flyzoo Live Chat####
 
