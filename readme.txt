@@ -4,7 +4,7 @@ Donate link:
 Tags: chat, chat plugin, sales, chat software, ecommerce, chat support, chat wordpress, plugin, comments, contact, contact button, contact chat, contact form, contact plugin, contact us, contactform, social platform, customer support, feedback, help, help desk, helpdesk, html5, javascript, referral,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, zopim, boldchat, casengo, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, woocommerce, ecommerce, e-commerce, quickchat, shop, store, envolve, chat widget, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.1
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,7 +90,8 @@ Nobody likes ghost towns: engage your community with topic-related **group chats
 
 ####Languages####
 
-Flyzoo chat widget is currently available in English (...other languages coming in May, 2014!)
+Flyzoo chat widget is currently available in English, Spanish, French, Italian and German.
+Need another language? Let us know!
 
 
 == Installation ==
@@ -191,13 +192,17 @@ Otherwise, please check that the chat script has not been embedded directly into
 
 = Can I suggest a feature?  =
 
-We really care about your feedback and work hard to improve Flyzoo Chat, so your feedback is welcome!
+We really care about your feedback and work hard to improve Flyzoo, so your suggestions are welcome!
 
 
 
 
 == Changelog ==
 
+= 1.2.1 =
+* 05.19.2014 - New translations: Spanish, French, Italian and German
+	     - Improved users online counter
+             - Avatars served from a worldwide CDN to improve chat performance
 = 1.2.0 =
 * 05.03.2014 - New feature: Secure Connection over HTTPS/SSL
 
