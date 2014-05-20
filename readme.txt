@@ -90,7 +90,7 @@ Nobody likes ghost towns: engage your community with topic-related **group chats
 
 ####Languages####
 
-Flyzoo chat widget is currently available in English, Spanish, French, Italian and German.
+Flyzoo chat widget is available in English, Spanish, French, Italian and German.
 Need another language? Let us know!
 
 
