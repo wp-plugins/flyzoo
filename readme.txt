@@ -46,7 +46,7 @@ Help your customers with **live support** to **increase sales** and build and en
 
 * Chat history for operators **(WOW and PRO Plans)**
 
-* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests!
+* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests and fix issues within a few hours.
 
 * ...and much more!
 
