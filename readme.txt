@@ -15,7 +15,7 @@ Amazing Live Chat for your blog, e-commerce or community.
 
 == Description == 
 [Flyzoo Live Chat](http://www.flyzoo.co) offers an amazing **chat** experience for your website.
-Help your customers with **live support** to **increase sales** and build and engage your community with **group chats**! 
+Chat with your customers for **live support** to increase sales and engage your community with **group chats**! 
 
 ####Flyzoo Live Chat####
 
