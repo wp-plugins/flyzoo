@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Amazing Live Chat for your blog, e-commerce or community.
+Flyzoo provides an amazing chat experience for your e-commerce, blog or community!
 
 
 
