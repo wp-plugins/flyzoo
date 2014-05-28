@@ -90,13 +90,13 @@ Nobody likes ghost towns: engage your community with topic-related **group chats
 
 ####Languages####
 
-Flyzoo chat widget is available in English, Spanish, French, Portuguese, Italian and German.
+Chat is available in English, Spanish, French, Portuguese, Italian and German.
 Need another language? Let us know!
 
 
 == Installation ==
 
-Full, illustrated instructions, can be found here:
+Fully illustrated instructions can be found here:
 
 [How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -107,7 +107,7 @@ Full, illustrated instructions, can be found here:
 
 **2) Install the Plugin**
  
-3. Upload the flyzoo-for-wordpress directory to the `/wp-content/plugins/` directory
+3. Search and install the plugin from your WordPress Admin Dashboard
 4. Activate the plugin through the 'Plugins' menu in WordPress
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
@@ -139,11 +139,11 @@ YES. We really care about our customers and we **always reply to support request
 
 = Is it free? =
 We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
-Our plans are discounted up to 33% for yearly subscriptions.
-Check out pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+All plans are discounted up to 33% for yearly subscriptions!
+Check out the pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I buy a subscription? =
-After you sign up for the 14-days free trial, you can manage your subscription from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+Sign up for the 14-days free trial, then you'll be able to manage your subscription from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 You can pay your subscription using PayPal!
 
 = How do I go online and chat with my users? =
