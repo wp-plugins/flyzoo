@@ -27,7 +27,7 @@ Get started with [Flyzoo Live Chat](http://www.flyzoo.co) and add an amazing **l
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
-* **Powerful:** Flyzoo Live Chat is a cloud-based, hosted solution build on the latest technologies to provide a smooth chat experience. Just the enable the plugin, and we'll handle all the heavy lifting!
+* **Stop overloading your server!**  [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution build on the latest technologies to provide a smooth chat experience. Just the enable the plugin, and we'll handle all the heavy lifting!
 
 * **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs.
 
