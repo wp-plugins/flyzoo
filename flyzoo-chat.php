@@ -1,6 +1,6 @@
 <?php
         /*
-          Plugin Name: Flyzoo Live Chat
+          Plugin Name: Live Chat - Flyzoo
           Plugin URI: http://www.flyzoo.co/
           Description: Flyzoo Chat is a sleek and powerful chat platform with Live Support, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
           Version: 1.2.1
