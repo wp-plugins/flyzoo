@@ -21,9 +21,9 @@ Get started with [Flyzoo Live Chat](http://www.flyzoo.co) and add an amazing **l
 ####Flyzoo Live Chat####
 
 
-* **Stop overloading your server!** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution build on the latest technologies to provide a smooth chat experience. 
-
 * **Get started in 5 minutes:** Just instal the chat plugin, and we'll handle all the heavy lifting!
+
+* **Smooth chat experience** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
 
 * **Monitor and engage visitors in real time**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
 
