@@ -1,4 +1,4 @@
-=== Flyzoo Live Chat  ===
+=== Live Chat - Flyzoo  ===
 Contributors: Andrea De Santis
 Donate link:
 Tags: chat, chat plugin, sales, chat software, ecommerce, chat support, chat wordpress, plugin, comments, contact, contact form, contact plugin, contact us, customer support, feedback, help, help desk, helpdesk, html5, live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, media, messaging, snapengage,IM Chat, social, olark, online chat, conversion, online customer chat, online live chat, online support, plugin chat, snap engage, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, zopim, boldchat, clickdesk, rumbletalk, help,  live support, group chat, chatroom, discussion, sidebar, customer support, engage, woocommerce, leads, ecommerce, e-commerce, quickchat, shop, store, envolve, chat widget, community, engagement
