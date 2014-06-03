@@ -15,15 +15,15 @@ Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
 
 == Description == 
 
-Chat with your visitors for **live support** and engage your community with group chats. 
-Get started with [Flyzoo Live Chat](http://www.flyzoo.co) and add an amazing **live chat** experience to your website!
+
+Add an amazing **live chat** experience to your website just in 5 minutes: chat with your visitors for **live support** and engage your community in group chats.
 
 ####Flyzoo Live Chat####
 
 
-* **Get started in 5 minutes:** Just instal the chat plugin, and we'll handle all the heavy lifting!
+* **No coding skills required:** Just install the chat plugin, and we'll handle all the heavy lifting!
 
-* **Smooth chat experience** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
+* **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
 
 * **Monitor and engage visitors in real time**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
 
