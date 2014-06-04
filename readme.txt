@@ -164,7 +164,8 @@ for instance).
 
 = What if can't verify my website? =
 
-Please reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
+Please verify that your widget is on home page (root) of your site!
+Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
 
 
 = How do I recover my password? =
