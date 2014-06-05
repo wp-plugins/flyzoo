@@ -17,7 +17,7 @@ Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
 
 
 Add an amazing **chat** experience to your website: chat with your visitors for **live support** and engage your community in group chats.
-Fast, easy to install and customizable!
+Fast, easy to install and customize.
 
 ####Flyzoo Live Chat####
 
@@ -46,7 +46,7 @@ Fast, easy to install and customizable!
 
 * Customize window colors **(WOW and PRO Plans)**
 
-* Chat history for operators **(WOW and PRO Plans)**
+* Chat history **(available for operators on WOW and PRO Plans)**
 
 * **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests and fix issues within a few hours.
 
@@ -54,7 +54,7 @@ Fast, easy to install and customizable!
 
 Step by step instructions:
 
-[How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[Install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 ####Live Support: Chat with your customers####
 
