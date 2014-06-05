@@ -22,7 +22,7 @@ Fast, easy to install and customizable!
 ####Flyzoo Live Chat####
 
 
-* **No coding skills required:** Just install the chat plugin, and we'll handle all the heavy lifting!
+* **No coding skills required:** Just install the plugin, and we'll handle all the heavy lifting!
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
 
