@@ -166,21 +166,21 @@ for instance).
 = What if can't verify my website? =
 
 Please verify that your widget is on home page (root) of your site!
-Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you with the verification process!
+Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
 
 
-= How do I recover my password? =
+= How do I recover/change my password? =
 
-[Click here to recovery your password>>](http://widget-a.flyzoo.co/account/recovery)
+[Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
 
 = How do I create a new Chat room? =
 
-Just log into the dashboard [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) go under the
+Log into the dashboard [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) go under the
 CHATS menu and click on "Add New Chat room"
 
 = Will the chat widget slow down my site? =
 
-No. The widget is loaded asynchronously right after your main content has been loaded.
+No. The chat is loaded asynchronously after the main content.
 
 = After I remove and delete the chat plugin it still shows on the frontend, how do i remove it completely? =
 
@@ -205,7 +205,7 @@ We really care about your feedback and work hard to improve Flyzoo, so your sugg
 = 1.2.1 =
 * 05.19.2014 - New translations: Spanish, French, Italian and German
 	     - Improved users online counter
-             - Avatars served from a worldwide CDN to improve chat performance
+             - Avatars are now served from a worldwide CDN to improve chat performance
 = 1.2.0 =
 * 05.03.2014 - New feature: Secure Connection over HTTPS/SSL
 
