@@ -17,12 +17,12 @@ Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
 
 
 Add an amazing **chat** experience to your website: chat with your visitors for **live support** and engage your community in group chats.
-Fast, easy to install and customize.
+Easy to install and customize.
 
 ####Flyzoo Live Chat####
 
 
-* **No coding skills required:** Just install the plugin, and we'll handle all the heavy lifting!
+* **No coding skills required:** just install the plugin, and we'll do all the heavy lifting!
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
 
@@ -93,7 +93,7 @@ Nobody likes ghost towns: engage your community with topic-related **group chats
 ####Languages####
 
 Chat is available in English, Spanish, French, Portuguese, Italian and German.
-Need another language? Let us know!
+**coming soon: Russian** Need another language? Let us know!
 
 
 == Installation ==
