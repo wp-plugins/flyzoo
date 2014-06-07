@@ -24,15 +24,15 @@ Easy to install and customize.
 
 * **No coding skills required:** just install the plugin, and we'll do all the heavy lifting!
 
-* **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to provide a smooth chat experience without overloading your server. 
+* **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
 * **Monitor and engage visitors in real time**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
-* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your marketing needs.
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your brand style.
 
-* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer a unique, elegant look and feel that you can customize to match your brand style!
+* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer an elegant look and feel.
 
 * **Smooth, Facebook-like chat message delivery** 
 
