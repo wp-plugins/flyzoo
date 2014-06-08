@@ -42,7 +42,7 @@ Easy to install and customize.
 
 * Single Sign On for WordPress/BuddyPress: users can log in and chat using their existing WordPress account
 
-* Secure Connection (SSL/HTTPS): We provide automatic encryption for SSL based websites. **(WOW and PRO Plans)**
+* Secure Connection: We provide automatic encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
 * Customize window colors **(WOW and PRO Plans)**
 
