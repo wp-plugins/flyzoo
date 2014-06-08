@@ -58,7 +58,7 @@ Step by step instructions:
 
 ####Live Support: Chat with your customers####
 
-Live chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
+**Live chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Know what your visitors are looking at with intuitive **real time visitor monitoring**.
 
@@ -67,7 +67,6 @@ All the most important informations are available, at a glance:
 * Current page visited by the user with URL and Title
 * Total Pageviews
 * Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
-* Keywords 
 * Returning visitor
 
 Invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns!
@@ -75,19 +74,18 @@ Invite your prospects to **chat** and get the most out of your social media and 
 
 ####Chat rooms####
 
-Nobody likes ghost towns: engage your community with topic-related **group chats**!
+Nobody likes ghost towns: engage your community with a topic-related **chat**!
 
 * Chat rooms can be private or public
 * Customizable bad word filter
 * Multiple chat rooms on your site (WOW &amp; PRO Plans)
 * Users can start private conversations with other users
 * Chat windows can be moved, resized and minimized
-* Rich set of emoticons
-* Operators can ban users and remove comments 
-* Preview Media Links (Youtube, Vimeo, SoundCloud and more...)
+* Emoticons
+* Ban users and remove move comments 
+* Embed Media (Youtube, Vimeo, SoundCloud and more...)
 * Sound Notifications
-* Users can update their profile and avatar
-* Responsive layout
+* User profiles with avatars
 
 
 ####Languages####
