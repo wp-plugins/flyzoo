@@ -74,16 +74,16 @@ Invite your prospects to **chat** and get the most out of your social media and 
 
 ####Chat rooms####
 
-Nobody likes ghost towns: engage your community with a topic-related **chat**!
+Engage your community with a topic-related **chat**!
 
-* Chat rooms can be private or public
-* Customizable bad word filter
-* Multiple chat rooms on your site (WOW &amp; PRO Plans)
-* Users can start private conversations with other users
-* Chat windows can be moved, resized and minimized
+* Group Chat can be private or public
 * Emoticons
-* Ban users and remove move comments 
 * Embed Media (Youtube, Vimeo, SoundCloud and more...)
+* Ban users and remove move comments 
+* Customizable bad word filter
+* Multiple chats on your site (WOW &amp; PRO Plans)
+* Users can start private conversations with other users
+* Windows can be moved, resized and minimized
 * Sound Notifications
 * User profiles with avatars
 
