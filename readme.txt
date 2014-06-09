@@ -44,7 +44,7 @@ Easy to install and customize.
 
 * Secure Connection: We provide automatic encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
-* Customize window colors **(WOW and PRO Plans)**
+* Customize chat windows colors **(WOW and PRO Plans)**
 
 * Chat history **(available for operators on WOW and PRO Plans)**
 
@@ -56,36 +56,6 @@ Step by step instructions:
 
 [Install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-####Live Support: Chat with your customers####
-
-**Live chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
-
-Know what your visitors are looking at with intuitive **real time visitor monitoring**.
-
-All the most important informations are available, at a glance:
-
-* Current page visited by the user with URL and Title
-* Total Pageviews
-* Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
-* Returning visitor
-
-Invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns!
-
-
-####Chat rooms####
-
-Engage your community with a topic-related **chat**!
-
-* Group Chat can be private or public
-* Emoticons
-* Embed Media (Youtube, Vimeo, SoundCloud and more...)
-* Ban users and remove move comments 
-* Customizable bad word filter
-* Multiple chats on your site (WOW &amp; PRO Plans)
-* Users can start private conversations with other users
-* Windows can be moved, resized and minimized
-* Sound Notifications
-* User profiles with avatars
 
 
 ####Languages####
