@@ -16,8 +16,8 @@ Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
 == Description == 
 
 
-Add an amazing **chat** experience to your website: chat with your visitors for **live support** and engage your community in group chats.
-Easy to install and customize.
+Chat with your visitors for **live support** and engage your community in group chats.
+Add an amazing **chat** experience to your website: [Flyzoo Live Chat](http://www.flyzoo.co) is cloud-based, easy to install and to customize!
 
 ####Flyzoo Live Chat####
 
