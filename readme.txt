@@ -76,10 +76,10 @@ Invite your prospects to **chat** and get the most out of your social media and 
 
 Engage your community with a topic-related **chat**!
 
-* Group Chat can be private or public
+* Private or public chats
 * Emoticons
 * Embed Media (Youtube, Vimeo, SoundCloud and more...)
-* Ban users and remove move comments 
+* Ban users and remove comments 
 * Customizable bad word filter
 * Multiple chats on your site (WOW &amp; PRO Plans)
 * Users can start private conversations with other users
