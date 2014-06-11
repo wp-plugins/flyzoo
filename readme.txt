@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
+Flyzoo offers an amazing chat experience for your WordPress site.
 
 
 
@@ -17,7 +17,7 @@ Flyzoo offers an amazing chat experience for your e-commerce, blog or community!
 
 
 Chat with your visitors for **live support** and engage your community in group chats.
-Add an amazing **chat** experience to your website: [Flyzoo Live Chat](http://www.flyzoo.co) is cloud-based, easy to install and to customize!
+Add an amazing **chat** experience to your e-commerce, blog or community! 
 
 ####Flyzoo Live Chat####
 
