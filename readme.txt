@@ -22,7 +22,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 ####Flyzoo Live Chat####
 
 
-* **No coding skills required:** just install the plugin, and we'll do all the heavy lifting!
+* **No coding skills required** 
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
