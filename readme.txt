@@ -26,7 +26,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
-* **Monitor and engage visitors in real time**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
+* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
