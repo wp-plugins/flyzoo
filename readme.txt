@@ -19,11 +19,11 @@ Chat with your visitors for **live support** and engage your community in group 
 Add an amazing **chat** experience to your e-commerce, blog or community! 
 
 ####Flyzoo Live Chat####
-
-
-* **No coding skills required** 
+ 
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
+
+* **No coding skills required**
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
 
@@ -39,9 +39,9 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **In-browser chat**: chat windows will auto reload while browsing the site
 
-* Single Sign On for WordPress/BuddyPress: users can log in and chat using their existing WordPress account
+* Single Sign On: users can log in and chat using their existing WordPress credentials
 
-* Secure Connection: We provide automatic encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
+* Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
 * Customize window colors **(WOW and PRO Plans)**
 
