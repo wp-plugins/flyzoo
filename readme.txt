@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat plugin, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, zopim, boldchat,help,  live support, group chat, chatroom, discussion, sidebar, customer support, engage, woocommerce, ecommerce, e-commerce, shop, store, community, engagement
+Tags: chat, chat plugin, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, help, live support, group chat, chatroom, discussion, sidebar, customer support, engage, woocommerce, ecommerce, e-commerce, shop, store, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
@@ -14,7 +14,6 @@ Flyzoo offers an amazing chat experience for your WordPress site.
 
 
 == Description == 
-
 
 Chat with your visitors for **live support** and engage your community in group chats.
 Add an amazing **chat** experience to your e-commerce, blog or community! 
@@ -46,11 +45,9 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * Customize window colors **(WOW and PRO Plans)**
 
-* Chat history **(available for operators on WOW and PRO Plans)**
+* Chat history ** (available for operators on WOW and PRO Plans)**
 
 * **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests and fix issues within a few hours.
-
-* ...and much more!
 
 Step by step instructions:
 
@@ -60,16 +57,16 @@ Step by step instructions:
 
 **Live chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Know what your visitors are looking at with intuitive **real time visitor monitoring**.
+Know what your visitors are looking at with intuitive **real time visitor monitoring**,
+invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns.
 
 All the most important informations are available, at a glance:
 
 * Current page visited by the user with URL and Title
 * Total Pageviews
-* Know where your traffic is coming from: Referrer, Keywords and Campaign traffic data(UTM source, medium, terms...)
+* Referrer, Keywords and Campaign data (UTM source, medium, terms...)
 * Returning visitor
 
-Invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns!
 
 
 ####Chat rooms####
@@ -79,9 +76,9 @@ Engage your community with a topic-related **chat**!
 * Group Chat can be private or public
 * Emoticons
 * Embed Media (Youtube, Vimeo, SoundCloud and more...)
-* Ban users and remove move comments 
+* Ban users and remove comments 
 * Customizable bad word filter
-* Multiple chats on your site (WOW &amp; PRO Plans)
+* Multiple chat rooms on your site (WOW &amp; PRO Plans)
 * Users can start private conversations with other users
 * Windows can be moved, resized and minimized
 * Sound Notifications
@@ -96,7 +93,7 @@ Chat is available in English, Spanish, French, Portuguese, Italian and German.
 
 == Installation ==
 
-Fully illustrated instructions can be found here:
+Fully, illustrated instructions can be found here:
 
 [How to install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
