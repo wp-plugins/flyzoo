@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo offers an amazing chat experience for your WordPress site.
+Chat with your visitors on your WordPress site.
 
 
 
