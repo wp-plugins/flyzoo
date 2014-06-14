@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, support chat, plugin, widget
+Tags: chat, chat plugin, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, zopim, boldchat,help,  live support, group chat, chatroom, discussion, sidebar, customer support, engage, woocommerce, ecommerce, e-commerce, shop, store, community, engagement
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
