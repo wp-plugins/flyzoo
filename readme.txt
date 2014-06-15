@@ -39,7 +39,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **In-browser chat**: chat windows will auto reload while browsing the site
 
-* Single Sign On: users can log in and chat using their existing WordPress credentials
+* Single Sign On: users can log in and chat using their existing WordPress accounts
 
 * Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
@@ -47,7 +47,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * Chat history ** (available for operators on WOW and PRO Plans)**
 
-* **Customer Support:** We monitor the platform 24/7 and support our users 24/5. We always reply to support requests and fix issues within a few hours.
+* **Customer Support:** We always reply to support requests and fix issues within a few hours.
 
 Step by step instructions:
 
@@ -71,7 +71,7 @@ All the most important informations are available, at a glance:
 
 ####Chat rooms####
 
-Engage your community with a topic-related **chat**!
+Engage your community with a topic-related **chat room**!
 
 * Group Chat can be private or public
 * Emoticons
