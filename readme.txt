@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is the most complete chat platform for live support, one-to-one private chat, and community chat rooms!
+Flyzoo is a sleek chat platform for live support, one-to-one private chats, and community chat!
 
 
 
