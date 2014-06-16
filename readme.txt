@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a sleek chat platform for live support, one-to-one private chats, and community chat!
+Flyzoo is a sleek chat platform for live support, one-to-one private chats, and community chat.
 
 
 
@@ -43,7 +43,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
-* Customize window colors **(WOW and PRO Plans)**
+* Customizable window colors **(WOW and PRO Plans)**
 
 * Chat history ** (available for operators on WOW and PRO Plans)**
 
