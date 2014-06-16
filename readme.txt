@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a sleek chat platform for live support, one-to-one private chats, and community chat.
+Flyzoo is a complete chat platform for live support, one-to-one private chats, and community chat.
 
 
 
@@ -25,7 +25,9 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **No coding skills required**
 
-* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales**  **(PRO Plan)**
+* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
+
+* Customizable window colors
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
@@ -41,11 +43,11 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * Single Sign On: users can chat using their existing WordPress accounts
 
-* Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
+* SSL Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites.
 
-* Customizable window colors **(WOW and PRO Plans)**
 
-* Chat history ** (available for operators on WOW and PRO Plans)**
+
+* Chat history ** 
 
 * **Customer Support:** We always reply to support requests and fix issues within a few hours.
 
@@ -78,7 +80,7 @@ Engage your community with a topic-related **chat room**!
 * Embed Media (Youtube, Vimeo, SoundCloud and more...)
 * Ban users and remove comments 
 * Customizable bad word filter
-* Multiple chat rooms on your site (WOW &amp; PRO Plans)
+* Multiple chat rooms on your site 
 * Users can start private conversations with other users
 * Windows can be moved, resized and minimized
 * Sound Notifications
