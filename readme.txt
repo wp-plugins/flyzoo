@@ -39,7 +39,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **In-browser chat**: chat windows will auto reload while browsing the site
 
-* Single Sign On: users can log in and chat using their existing WordPress accounts
+* Single Sign On: users can chat using their existing WordPress accounts
 
 * Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites. **(WOW and PRO Plans)**
 
