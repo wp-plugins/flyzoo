@@ -88,7 +88,7 @@ Engage your community with a topic-related **chat room**!
 ####Languages####
 
 Chat is available in English, Spanish, French, Portuguese, Italian and German.
-**coming soon: Russian** Need another language? Let us know!
+**coming soon: Russian and Slovak** Need another language? Let us know!
 
 
 == Installation ==
