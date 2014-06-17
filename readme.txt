@@ -27,7 +27,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
 
-* Customizable window colors
+* **Customizable colors & features**
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
@@ -45,9 +45,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * SSL Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites.
 
-
-
-* Chat history ** 
+* Chat history 
 
 * **Customer Support:** We always reply to support requests and fix issues within a few hours.
 
