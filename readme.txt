@@ -88,7 +88,7 @@ Engage your community with a topic-related **chat room**!
 ####Languages####
 
 Chat is available in English, Spanish, French, Portuguese, Italian and German.
-**coming soon: Russian and Slovak** Need another language? Let us know!
+**Coming soon: Russian and Slovak**. Need another language? Let us know!
 
 
 == Installation ==
@@ -145,23 +145,20 @@ You can pay your subscription using PayPal!
 
 = How do I go online and chat with my users? =
 
-Just do the following:
-
-1. Go on your website, locate the Flyzoo Live Chat widget on the bottom of the screen
+1. Go on your website, locate the Chat widget at the bottom of the screen
 2. Click on MENU
-3. A window will show up, click on "Welcome, Guest (number) - Log in to change your name!"
+3. Click on "Login or signup" and enter the e-mail and password you used to join Flyzoo!
 
 = What is the Verification Process and why do I have to run it? =
 
 By running the verification process we can verify that you are the owner of the domain,
-thus we can allow you to perform administrative tasks from the widget (like ban users and remove messages from the chatrooms,
-for instance). 
+thus we can allow you to perform administrative tasks, like ban users and remove messages from chat rooms.
 
 
 = What if can't verify my website? =
 
-Please verify that your widget is on home page (root) of your site!
-Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
+Please check that your chat widget is on the home page (root) of your site, that your site is reachable and NOT
+in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
 
 
 = How do I recover/change my password? =
