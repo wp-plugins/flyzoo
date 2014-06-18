@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a complete chat platform for live support, one-to-one private chats, and community chat.
+Flyzoo is a chat platform for live support, one-to-one private chats, and community chat.
 
 
 
@@ -63,10 +63,9 @@ invite your prospects to **chat** and get the most out of your social media and 
 All the most important informations are available, at a glance:
 
 * Current page visited by the user with URL and Title
-* Total Pageviews
 * Referrer, Keywords and Campaign data (UTM source, medium, terms...)
 * Returning visitor
-
+* Total Pageviews
 
 
 ####Chat rooms####
@@ -75,12 +74,12 @@ Engage your community with a topic-related **chat room**!
 
 * Group Chat can be private or public
 * Emoticons
-* Embed Media (Youtube, Vimeo, SoundCloud and more...)
+* Embed media links (Youtube, Vimeo, SoundCloud and more...)
 * Ban users and remove comments 
 * Customizable bad word filter
 * Multiple chat rooms on your site 
-* Users can start private conversations with other users
-* Windows can be moved, resized and minimized
+* Users can start one-to-one (private) conversations with other users
+* Resize, move and minimize windows
 * Sound Notifications
 * User profiles with avatars
 
@@ -89,6 +88,7 @@ Engage your community with a topic-related **chat room**!
 
 Chat is available in English, Spanish, French, Portuguese, Italian and German.
 **Coming soon: Russian and Slovak**. Need another language? Let us know!
+
 
 
 == Installation ==
