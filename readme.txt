@@ -9,8 +9,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a chat platform for live support, one-to-one private chats, and community chat.
-
+Flyzoo is an chat platform providng live support with real time visitor monitoring and group chats for communities!
+Get started in just 5 minutes, no coding skills required. 
 
 
 == Description == 
@@ -23,8 +23,6 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
-* **No coding skills required**
-
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
 
 * **Customizable colors & features**
@@ -35,7 +33,7 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer an elegant look and feel.
 
-* **Smooth, Facebook-like chat message delivery** 
+* **Smooth, Facebook-like chat message delivery** with confirmation.
 
 * **Tab Sync**: When you work in multiple browser windows (or tabs) all the chat windows are synchronized so you can talk from any tab. 
 
