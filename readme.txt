@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 Flyzoo is a chat platform providing live support with real time visitor monitoring, and group chats for communities!
-Get started in just 5 minutes, no coding skills required. 
+Get started in just 5 minutes. 
 
 
 == Description == 
