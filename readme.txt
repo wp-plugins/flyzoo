@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat plugin, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, zopim, boldchat,help,  live support, group chat, chatroom, discussion, sidebar, customer support, engage, woocommerce, ecommerce, e-commerce, shop, store, community, engagement
+Tags: chat, chat plugin, chat room, group chat, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, help,  live support, group chat, chatroom, discussion, sidebar, engage, woocommerce,  ecommerce, e-commerce, shop, store, community, engagement, admin
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 Flyzoo is a chat platform providing live support with real time visitor monitoring, and group chats for communities!
-Get started in just 5 minutes. 
 
 
 == Description == 
@@ -37,13 +36,13 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Tab Sync**: When you work in multiple browser windows (or tabs) all the chat windows are synchronized so you can talk from any tab. 
 
-* **In-browser chat**: chat windows will auto reload while browsing the site
+* **In-browser chat:** chat windows will auto reload while browsing the site
 
-* Single Sign On: users can chat using their existing WordPress accounts
+* **Single Sign On:** users can chat using their existing WordPress accounts
 
-* SSL Secure Connection: We provide automatic chat encryption for HTTPS/SSL based websites.
+* **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
-* Chat history 
+* **Chat history** 
 
 * **Customer Support:** We always reply to support requests and fix issues within a few hours.
 
