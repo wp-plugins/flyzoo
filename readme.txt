@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, chat, chat button, chat link, chat live, chat module, chat online, chat operator, chat plugin, chat support, chat tool, Chat Widget, chatlive, comments, contact us, customer chat, free chat, free live chat, free live support, google, help desk chat, helpdesk, helpdesk chat, image, images, links, live chat, live chat button, live chat link, live chat plugin, live chat software, live chat support, live chat widget, live customer service, live customer support, live help, live help button, live help plugin, live help widget, live support, live support chat, live support plugin, live support software, live support widget, livechat, livechat widget, livehelp, livehelp button, livehelp software, olark, online chat, online customer chat, online customer support, online live chat, online support, page, plugin, plugin chat, post, posts, provide support, sidebar, sidebar chat, support chat, support software, flyzoo, twitter, visitor chat, web chat, widget, zendesk, zopim
+Tags: admin, chat, chat button, chat link, chat live, chat room, chat module, chat online, chat operator, chat plugin, chat support, chat tool, chatroom, chat widget, chatlive, comments, contact us, customer chat, free chat, free live chat, free live support, google, help desk chat, helpdesk, helpdesk chat, image, images, links, live chat, live chat button, live chat link, live chat plugin, live chat software, live chat support, live chat widget, live customer service, live customer support, live help, live help button, live help plugin, live help widget, live support, live support chat, live support plugin, live support software, live support widget, livechat, livechat widget, livehelp, livehelp button, livehelp software, olark, online chat, online customer chat, online customer support, online live chat, online support, page, plugin, plugin chat, post, posts, provide support, sidebar, sidebar chat, support chat, support software, flyzoo, twitter, visitor chat, web chat, widget, zendesk, zopim
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
@@ -56,8 +56,8 @@ Step by step instructions:
 
 **Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Know what your visitors are looking at with intuitive **real time visitor monitoring**,
-invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns.
+Talk to your website visitors in real time. See where they came from and what page they are on:
+invite customers to **chat** and get the most out of your social media and pay-per-click campaigns.
 
 All the most important informations are available, at a glance:
 
