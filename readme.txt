@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat plugin, chat room, group chat, chat support, chat wordpress, plugin, comments, contact, customer support, feedback,  live chat, live chat button, live chat software, live chat widget, live help, live support software, livechat, livehelp, messaging, online support, social chat, support, support chat, support desk, support software, support tool, visitor chat, webchat, widget, wordpress live chat, help,  live support, group chat, chatroom, discussion, sidebar, engage, woocommerce,  ecommerce, e-commerce, shop, store, community, engagement, admin
+Tags: admin, chat, chat button, chat link, chat live, chat module, chat online, chat operator, chat plugin, chat support, chat tool, Chat Widget, chatlive, comments, contact us, customer chat, free chat, free live chat, free live support, google, help desk chat, helpdesk, helpdesk chat, image, images, links, live chat, live chat button, live chat link, live chat plugin, live chat software, live chat support, live chat widget, live customer service, live customer support, live help, live help button, live help plugin, live help widget, live support, live support chat, live support plugin, live support software, live support widget, livechat, livechat widget, livehelp, livehelp button, livehelp software, olark, online chat, online customer chat, online customer support, online live chat, online support, page, plugin, plugin chat, post, posts, provide support, sidebar, sidebar chat, support chat, support software, flyzoo, twitter, visitor chat, web chat, widget, zendesk, zopim
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a complete chat platform great for live support, one-to-one private chats, and community chat.
+Flyzoo is a complete chat platform great for Live Support, one-to-one Private Chats, and Chat Rooms.
 
 
 == Description == 
@@ -19,13 +19,14 @@ Chat with your visitors for **live support** and engage your community in **chat
  
 
 ####Flyzoo Live Chat####
- 
+
+* **Get started in 5 minutes:** No coding skills required. Just install the widget and follow the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
+* **Customizable colors & features**
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
-
-* **Customizable colors & features**
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
@@ -45,15 +46,15 @@ Chat with your visitors for **live support** and engage your community in **chat
 
 * **Chat history** 
 
-* **Customer Support:** We always reply to support requests and fix issues within a few hours.
+* **Customer Support:** We ALWAYS reply to support requests to solve issues as soon as possible.
 
 Step by step instructions:
 
 [Install Flyzoo Live Chat on WordPress >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-####Live Support: Chat with your customers####
+####Live Support: Chat with your customers and increase sales####
 
-**Live chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
+**Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Know what your visitors are looking at with intuitive **real time visitor monitoring**,
 invite your prospects to **chat** and get the most out of your social media and pay-per-click campaigns.
