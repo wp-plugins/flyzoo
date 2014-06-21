@@ -15,7 +15,9 @@ Flyzoo is a complete chat platform great for Live Support, one-to-one Private Ch
 == Description == 
 
 Add an amazing **chat** experience to your e-commerce, blog or community!
-Chat with your visitors for **live support** and engage your community in **chat rooms**.
+Chat with your visitors for **live support** and engage your community in **chat rooms** where
+members can also start private conversations. 
+Flyzoo supports private chat, chat rooms, avatars, user list, words filtering, emoticons and much more. 
  
 
 ####Flyzoo Live Chat####
