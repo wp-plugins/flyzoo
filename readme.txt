@@ -15,16 +15,15 @@ Flyzoo is a complete chat platform great for Live Support, one-to-one Private Ch
 == Description == 
 
 Add an amazing **chat** experience to your e-commerce, blog or community!
-Chat with your visitors for **live support** and engage your community in **chat rooms** where
-members can also start private conversations. 
-Flyzoo supports private chat, chat rooms, avatars, user list, words filtering, emoticons and much more. 
+Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start private conversations. 
+Flyzoo supports private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
  
 
 ####Flyzoo Live Chat####
 
 * **Get started in 5 minutes:** No coding skills required. Just install the widget and follow the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Customizable colors & features**
+* **Customizable colors, layout & features**
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
@@ -36,7 +35,7 @@ Flyzoo supports private chat, chat rooms, avatars, user list, words filtering, e
 
 * **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer an elegant look and feel.
 
-* **Smooth, Facebook-like chat message delivery** with confirmation.
+* **Smooth, Facebook-like chat** with delivery confirmation.
 
 * **Tab Sync**: When you work in multiple browser windows (or tabs) all the windows are synchronized so you can talk from any tab. 
 
