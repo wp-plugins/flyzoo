@@ -24,6 +24,8 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Customizable colors, layout & features**
 
+* **Single Sign On:** users can chat using their existing WordPress accounts
+
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
@@ -39,8 +41,6 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 * **Tab Sync**: When you work in multiple browser windows (or tabs) all the windows are synchronized so you can talk from any tab. 
 
 * **In-browser chat:** windows will auto reload while browsing the site
-
-* **Single Sign On:** users can chat using their existing WordPress accounts
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
