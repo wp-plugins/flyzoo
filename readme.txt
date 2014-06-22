@@ -22,19 +22,19 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Get started in 5 minutes:** No coding skills required. Just install the widget and follow the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Customizable colors, layout & features**
+* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
 
-* **Single Sign On:** users can chat using their existing WordPress accounts
+* **Customize chat colors, widget layout & features**
+
+* **Single Sign On:** users can login and chat using their existing WordPress accounts
 
 * **Smooth chat experience:** [Flyzoo Live Chat](http://www.flyzoo.co) is a cloud-based, hosted solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
-
-* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
 
 * **Multiple operators:** Incoming **live support** requests are automatically routed to the first available operator
 
 * **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize headers, pop up messages and add images to match your brand style.
 
-* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer an elegant look and feel.
+* **Eye-catching, sleek interface:** You love great design and we do too. Our **chat** has been crafted to offer a sleek look and feel.
 
 * **Smooth, Facebook-like chat** with delivery confirmation.
 
