@@ -241,6 +241,7 @@
            $e = '';
            $code = get_option('FlyzooApplicationID');
     
+            if ($code == '') return;
            //if (get_option('FlyzooPoweredBy')!=true) return;
     
 
