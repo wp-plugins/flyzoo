@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Flyzoo is a complete chat platform great for Live Support, one-to-one Private Chats, and Chat Rooms.
+Flyzoo is a complete chat platform for Live Support, one-to-one Private Chats, and Chat Rooms.
 
 
 == Description == 
@@ -136,7 +136,7 @@ YES. We really care about our customers and we **always reply to support request
 = Is it free? =
 We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
 All plans are discounted up to 33% for yearly subscriptions!
-Check out the pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+Check out the chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I buy a subscription? =
 Sign up for the 14-days free trial, then you'll be able to manage your subscription from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
