@@ -14,9 +14,10 @@ Flyzoo is a complete live chat solution great for Live Support, one-to-one Priva
 
 == Description == 
 
-Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start private conversations. 
-Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
 Add an amazing **chat** experience to your e-commerce, blog or community!
+Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start one-to-one conversations. 
+Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
+
 
 ####Flyzoo Live Chat####
 
@@ -28,17 +29,15 @@ Add an amazing **chat** experience to your e-commerce, blog or community!
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Smooth chat experience:** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based, hosted chat solution built on the latest technologies to ensure a smooth chat experience without overloading your server. 
+* **Smooth chat experience:** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
-* **Multiple Operators:** Incoming **live support** chat requests are automatically routed to the first available operator
+* **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
 
 * **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
 
-* **Eye-catching** You love great design and we do too: our chat has been crafted to offer a sleek look and feel.
+* **Eye-catching:** You love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel.
 
-* **Fast chat message delivery** with confirmation!
-
-* **Tab Sync**: When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, moreover chat windows will reload while browsing the site.
+* **Tab Sync**: You can browse your site and chat at the same time. When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
