@@ -41,6 +41,8 @@ Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars,
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
+* **Chat rooms: ** Full-featured chat rooms with emoticons, moderation, media content preview and more...
+
 * **Chat history for Operators** 
 
 * **Customer Support:** We ALWAYS reply to support requests to solve issues as soon as possible.
@@ -62,22 +64,6 @@ All the most relevant visit data is available, at a glance:
 * Referrer, Keywords and Campaign data (UTM source, medium, terms...)
 * Returning visitor
 * Total Pageviews
-
-
-####Chat rooms####
-
-Engage your community in **group chats*!
-
-* Group Chat can be private or public
-* Emoticons
-* Embed media links (Youtube, Vimeo, SoundCloud and more...)
-* Ban users and remove comments 
-* Customizable bad word filter
-* Multiple chat rooms on your site 
-* Users can start one-to-one (private) conversations with other users
-* Resize, move and minimize windows
-* Sound Notifications
-* User profiles with avatars
 
 
 ####Languages####
