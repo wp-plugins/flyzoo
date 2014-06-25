@@ -41,7 +41,7 @@ Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars,
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
-* **Chat rooms: ** Full-featured chat rooms with emoticons, moderation, media content preview and more...
+* **Chat rooms:** Full-featured group chats with emoticons, moderation, media content preview and more...
 
 * **Chat history for Operators** 
 
@@ -55,15 +55,15 @@ Step by step instructions:
 
 **Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Meet your website visitors in real time. See where they came from and what page they are on:
-invite customers to **chat** and get the most out of your social media and pay-per-click campaigns.
+Meet your customers in real time. See where they came from and what page they are on:
+invite visitors to **chat** and get the most out of your social media and pay-per-click campaigns.
 
-All the most relevant visit data is available, at a glance:
+All the most relevant data is available at a glance:
 
 * Current page visited with URL and Title
 * Referrer, Keywords and Campaign data (UTM source, medium, terms...)
 * Returning visitor
-* Total Pageviews
+* Pageviews
 
 
 ####Languages####
