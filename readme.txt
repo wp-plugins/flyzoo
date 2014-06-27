@@ -29,7 +29,7 @@ Add an amazing **live support** and **group chat** experience to your e-commerce
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Smooth chat experience:** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Cloud-based, smooth chat experience:** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
 
