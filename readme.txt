@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, chat room, support, live chat, live support, group chat, support chat, website chat, chat plugin, customer chat, shop, free chat, widget
+Tags: admin, chat, facebook, free live chat, live chat, livechat, plugin, posts, twitter, widget, live support, group chat
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
