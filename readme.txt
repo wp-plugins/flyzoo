@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, chat, facebook, free live chat, live chat, livechat, plugin, posts, twitter, widget, live support, group chat
+Tags: admin, chat, facebook, free live chat, live chat, livechat, posts, support chat, comments, widget, live support, group chat
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.2.1
@@ -13,7 +13,7 @@ Flyzoo is a powerful Chat platform great for Live Support, Private Chats, and Gr
 
 == Description == 
 
-Add an amazing **live support** and **group chat** experience to your e-commerce, blog or community!
+Add an amazing **live support** and **group chat** experience to your e-commerce, blog or community.
 
 Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
 Chat with your visitors for **live support** to boost sales and increase engagement with **chat rooms**. 
