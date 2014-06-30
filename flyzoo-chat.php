@@ -2,8 +2,8 @@
         /*
           Plugin Name: Flyzoo Live Chat 
           Plugin URI: http://www.flyzoo.co/
-          Description: Flyzoo Chat is a sleek and powerful chat platform with Live Support, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
-          Version: 1.2.1
+          Description: Flyzoo Chat is a sleek and powerful chat platform fo Live Support, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
+          Version: 1.3.0
           Author: Andrea De Santis
           Author URI: http://www.flyzoo.co/
           License: GPL2
@@ -28,10 +28,10 @@
 
          function flyzoo_chat_uninstall() {
 
-    if(get_option('FlyzooApplicationID')) {  delete_option( 'FlyzooApplicationID'); }
-    if(get_option('FlyzooPoweredBy')) {  delete_option( 'FlyzooPoweredBy'); }
-    if(get_option('FlyzooApiEnabled')) {  delete_option( 'FlyzooApiEnabled'); }
-}
+            if(get_option('FlyzooApplicationID')) {  delete_option( 'FlyzooApplicationID'); }
+            if(get_option('FlyzooPoweredBy')) {  delete_option( 'FlyzooPoweredBy'); }
+            if(get_option('FlyzooApiEnabled')) {  delete_option( 'FlyzooApiEnabled'); }
+            }
 
        function flyzoo_get_wp_userid()
       {
@@ -107,6 +107,19 @@
       return '';
     }
     
+
+
+    function flyzoo_embed_chatroom( $atts ) {
+     
+
+     $embed = "<div id='flyzoo-embedded-chatroom' data-id='" . $atts['id'] . "' style='width:". $atts['width'] . "; height:" . $atts['height'] . ";'></div>";
+   
+     return $embed;
+     
+  }
+
+add_shortcode('flyzoo-embed-chatroom', 'flyzoo_embed_chatroom');
+
         class FlyzooWidget {
     
             protected $options;
