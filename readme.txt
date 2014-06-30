@@ -95,8 +95,8 @@ Fully, illustrated instructions can be found here:
 
 **3) Enter your Flyzoo Application ID**
 
-6. Enter your Flyzoo Application ID and save changes.
-7. Verify the correct script installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+6. Enter your Flyzoo Application ID
+7. Verify the script installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
 
