@@ -1,14 +1,14 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, analytics, plugin, free chat, widget, realtime
+Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, analytics, plugin, free chat, widget, admin, woocommerce
 Requires at least: 2.0.2
 Tested up to: 3.9.1
-Stable tag: 1.2.1
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is a powerful Chat platform great for Live Support, Private Chats, and Group Chats!
+Flyzoo is a Chat platform great for Live Support with Real time visitor monitoring, Private Chats, and Group Chats!
 
 
 == Description == 
@@ -43,7 +43,7 @@ Chat with your visitors for **live support** to boost sales and increase engagem
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
-* **Chat rooms:** Full-featured group chats with emoticons, moderation, media content preview and more...
+* **Chat rooms:** Full-featured group chats with emoticons, moderation, media content preview and more... you can also embed a chat room into the a page (PRO).
 
 * **Chat history for Operators** 
 
@@ -178,6 +178,10 @@ We really care about your feedback and work hard to improve Flyzoo, so your sugg
 
 == Changelog ==
 
+= 1.3.0 =
+* 06.30.2014 - NEW: Chatrooms are now embeddable into the page (PRO)
+             - NEW: Now it's possible to clean the chat room history right from the window 
+	     - IMPROVED: Reduced space and paddings to improve messages readability
 = 1.2.1 =
 * 05.19.2014 - New translations: Spanish, French, Italian and German
 	     - Improved users online counter
