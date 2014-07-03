@@ -17,7 +17,7 @@ Add an amazing **live support** and **group chat** experience to your e-commerce
 
 Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars, user list, bad words filtering, emoticons and much more... 
 
-Chat with your visitors for **live support** to boost sales and increase engagement with **chat rooms**. 
+Chat with your visitors for **live support** to boost sales and increase your community engagement with **chat rooms**. 
 
 
 
@@ -33,13 +33,13 @@ Chat with your visitors for **live support** to boost sales and increase engagem
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Cloud-based, smooth chat experience:** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Cloud-based** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
 
-* **Eye-catching:** You love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel.
+* **Eye-catching:** You love great design and we do too: Flyzoo chat has been crafted to offer a sleek look and feel.
 
-* **Tab Sync**: You can browse your site and chat at the same time. When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
+* **Tab Sync**: Browse your site and chat at the same time. When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
 
 * **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
 
