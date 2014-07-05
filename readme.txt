@@ -13,13 +13,13 @@ Live Support Chat with Real Time Visitor Monitoring, Private Chats, and Group Ch
 
 == Description == 
 
-Flyzoo is a sleek and affordable chat platform designed to cover all your chat needs, from Live Support to Group Chat!
+Flyzoo is a sleek and affordable chat platform designed to cover all your chat needs: add an amazing **live support** and **group chat** experience to your e-commerce, blog or community.
 
 Chat with your visitors for **live support** to boost sales and increase website engagement with **chat rooms**. 
 
 Features include real time visitor monitoring, private chat, floating and embeddable chat rooms, avatars, user list, bad words filtering, emoticons and much more... 
 
-Add an amazing **live support** and **group chat** experience to your e-commerce, blog or community.
+
 
 
 ####Flyzoo Live Chat####
