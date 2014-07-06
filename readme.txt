@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Live Support Chat with Real Time Visitor Monitoring, Private Chats, and Group Chats!
+A complete Chat Platform providing Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
 
 
 == Description == 
@@ -34,7 +34,7 @@ Features include real time visitor monitoring, private chat, floating and embedd
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Fast** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Fast:** cloud-based, hosted chat platform built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
 
