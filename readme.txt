@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, Chat, Facebook, free live chat, live chat, livechat, plugin, Post, posts, live support, twitter, widget
+Tags: admin, Chat, woocommerce, free live chat, live chat, livechat, plugin, Post, posts, live support, e-commerce, widget
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -34,7 +34,7 @@ Features include real time visitor monitoring, private chat, floating and embedd
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Cloud-based** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Fast** [Flyzoo Chat](http://www.flyzoo.co) is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
 
