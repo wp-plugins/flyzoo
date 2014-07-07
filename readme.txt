@@ -1,14 +1,14 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, Chat, woocommerce, free live chat, live chat, livechat, plugin, Post, posts, live support, e-commerce, widget
+Tags: admin, Chat, woocommerce, free live chat, live chat, livechat, plugin, Post, posts, live support, ecommerce, widget
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A complete Chat Platform providing Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
+Flyzoo is a Chat Platform providing Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
 
 
 == Description == 
