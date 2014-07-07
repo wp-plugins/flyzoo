@@ -24,7 +24,7 @@ Features include real time visitor monitoring, private chat, floating and embedd
 
 ####Flyzoo Live Chat####
 
-* **Get started in 5 minutes:** No coding skills required. Just install the chat widget and follow the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 5 minutes:** No coding skills required. Just install the chat and follow the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide the best **live support** ever and **increase sales** 
 
@@ -42,7 +42,7 @@ Features include real time visitor monitoring, private chat, floating and embedd
 
 * **Tab Sync**: Browse your site and chat at the same time. When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
 
-* **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based websites.
+* **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based sites.
 
 * **Chat rooms:** Full-featured group chats with emoticons, moderation, media content preview and more... chat rooms are also embeddable into the page (PRO).
 
