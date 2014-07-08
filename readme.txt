@@ -13,10 +13,11 @@ Flyzoo provides Live Support with Real Time Visitor Monitoring, Private Chats, a
 
 == Description == 
 
-Add an amazing **chat** experience to your e-commerce, blog or community!
-Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start one-to-one conversations. 
-Flyzoo supports real time visitor monitoring, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
+Flyzoo is an all-in-one chat solution to cover all your chat needs: chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start private conversations. 
 
+Features include: real time visitor monitoring, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
+
+Add an amazing **chat** experience to your e-commerce, blog or community!
 
 
 ####Flyzoo Live Chat####
