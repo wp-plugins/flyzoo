@@ -13,7 +13,7 @@ Flyzoo provides Live Support with Real Time Visitor Monitoring, Private Chats, a
 
 == Description == 
 
-Flyzoo is an all-in-one chat platform designed to cover all your chat needs.
+Flyzoo is an all-in-one chat platform offering a complete **Live Support** and **Group Chat** solution at a very affordable price.
 
 Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start private conversations. 
 
