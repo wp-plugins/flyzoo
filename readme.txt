@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, analytics, sidebar, chatroom, widget, admin, woocommerce
+Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, analytics, sidebar, chatroom, widget, plugin, customer
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -34,7 +34,7 @@ Features include: real time visitor monitoring, private chat, chat rooms, avatar
 
 * **Fast:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
-* **Multiple Operators:** **live support** chat requests are automatically routed to the first available operator
+* **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
 * **Eye-catching:** You love great design and we do too: Flyzoo chat has been crafted to offer a sleek look and feel.
 
