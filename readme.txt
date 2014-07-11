@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, analytics, sidebar, chatroom, widget, plugin, customer
+Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, post, sidebar, chatroom, widget, plugin, customer
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -56,7 +56,7 @@ Step by step instructions:
 
 **Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Meet and chat with your customers in real time. See where they came from and what page they are on:
+Meet your customers in real time. See where they came from and what page they are on:
 invite visitors to **chat** and get the most out of your social media and pay-per-click campaigns.
 
 Insightful data is available at a glance:
