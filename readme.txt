@@ -140,7 +140,7 @@ thus we can allow you to perform administrative tasks, like ban users and remove
 
 = What if can't verify my website? =
 
-Please check that your chat widget is on the home page (root) of your site, that your site is reachable and NOT
+Please check that your chat widget is on the home page (root) of your site, that the site is reachable and NOT
 in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
 
 
