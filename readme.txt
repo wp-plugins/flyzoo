@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, helpdesk, ecommerce, post, sidebar, chatroom, widget, plugin, customer
+Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, sidebar, chatroom, widget, plugin, customer
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -40,7 +40,7 @@ Features include: real time visitor monitoring, private chat, chat rooms, avatar
 
 * **Tab Sync**: Browse your site and chat at the same time. When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
 
-* **SSL Secure Connection:** We provide automatic chat encryption for HTTPS/SSL based sites.
+* **SSL Secure Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
 * **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... chat rooms are also embeddable into the page.
 
