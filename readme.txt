@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, wmpu, chatroom, widget, plugin, customer
+Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, wmpu, chatroom, widget, plugin, woocommerce
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -74,14 +74,13 @@ Chat is available in English, Spanish, French, Portuguese, Italian and German.
 **Coming soon: Russian and Slovak**. Need another language? Let us know!
 
 
-
 == Installation ==
 
 Fully, illustrated instructions can be found here:
 
 [How to install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-**1) Create your account on Flyzoo.co**
+**1) Create your account**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=go&t=12
 2. Enter your website address to get your Flyzoo Application ID
