@@ -15,7 +15,7 @@ Flyzoo provides Live Support with Real Time Visitor Monitoring, Private Chats, a
 
 Flyzoo is a complete chat solution offering **live support** with **real time visitor monitoring** and **group chat** at a very affordable price.
 
-Features include: online/offline messages, theme customization, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
+Features include: online/offline messages, color customization, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
 
 Chat with your visitors for **live support** and engage your community in **chat rooms** where members can also start private conversations. 
 
@@ -33,7 +33,7 @@ Chat with your visitors for **live support** and engage your community in **chat
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Fast:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Fast:** Flyzoo is a cloud-based, hosted chat platform built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
