@@ -30,7 +30,7 @@ Chat with your visitors for **live support** and engage your community in **chat
 
 * **Customizable chat colors, dock layout & features**
 
-* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
