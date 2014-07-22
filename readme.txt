@@ -13,7 +13,6 @@ Flyzoo provides Live Support with Real Time Visitor Monitoring, Private Chats, a
 
 == Description == 
 
-Chat with your customers for **live support** and engage your community in **chat rooms**.
 
 Flyzoo chat provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
@@ -22,8 +21,7 @@ All you need to chat on your site at a very affordable price!
 
 Features include: online/offline messages, color customization, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
 
-
-
+Chat with your customers for **live support** and engage your community in **chat rooms**.
 
 
 ####Flyzoo Live Chat####
