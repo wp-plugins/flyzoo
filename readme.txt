@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo provides Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
+Flyzoo is a chat platform great for Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
 
 
 == Description == 
@@ -68,7 +68,7 @@ Insightful data is available at a glance:
 * Current page visited with URL and Title
 * Referrer, Keywords and Campaign data (UTM source, medium, search terms...)
 * Returning visitor
-* Pageviews
+* Page Views
 
 
 ####Languages####
