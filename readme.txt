@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is a sleek chat platform for Live Support with Real Time Visitor Monitoring, Private Chats, and Group Chats!
+Flyzoo is a sleek chat platform for Live Support with Real Time Visitor Monitoring, Chat Rooms and Private Chats!
 
 
 == Description == 
