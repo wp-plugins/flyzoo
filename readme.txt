@@ -27,9 +27,9 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
-* **Customizable chat colors, dock layout & features**
-
 * **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
+
+* **Customizable chat colors, dock layout & features**
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
