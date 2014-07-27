@@ -130,7 +130,7 @@ You can pay your subscription using PayPal!
 
 1. Go on your website, locate the Chat widget at the bottom of the screen
 2. Click on MENU
-3. Click on "Login or signup" and enter the e-mail and password you used to join Flyzoo!
+3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo!
 
 = What is the Verification Process and why do I have to run it? =
 
