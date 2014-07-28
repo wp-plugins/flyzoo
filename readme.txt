@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is an amazing chat platform for Live Support with Real Time Visitor Monitoring, Group Chat Rooms and Private Chats!
+Flyzoo is a sleek chat platform for Live Support with Real Time Visitor Monitoring, Group Chat Rooms and Private Chats!
 
 
 == Description == 
@@ -27,7 +27,7 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
-* **Customizable online, offline messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
+* **Customizable online, offline and login messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
 
 * **Customizable chat colors, dock layout & features**
 
@@ -107,7 +107,7 @@ Fully, illustrated instructions can be found here:
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
 2. Users can move, resize and minimize windows.
-3. Chat rooms with emoticons, sound notifications and media content preview! 
+3. Chat rooms with emoticons, sound notifications and media content preview.
 4. Responsive chat on mobile devices.
 5. Chat colors and features are customizable.
 
@@ -115,7 +115,7 @@ Fully, illustrated instructions can be found here:
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-YES. We really care about our customers and we **always reply to support requests**.
+YES. We really care about our customers and we **always reply to support requests**. [Flyzoo Chat - Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
 We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
