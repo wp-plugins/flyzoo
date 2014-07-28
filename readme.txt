@@ -106,7 +106,7 @@ Fully, illustrated instructions can be found here:
 
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
-2. Users can move, resize and minimize windows.
+2. Move, resize and minimize chat windows.
 3. Chat rooms with emoticons, sound notifications and media content preview.
 4. Responsive chat on mobile devices.
 5. Chat colors and features are customizable.
