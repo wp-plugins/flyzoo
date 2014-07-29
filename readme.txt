@@ -13,7 +13,7 @@ Flyzoo is an amazing chat platform for Live Support with Real Time Visitor Monit
 
 == Description == 
 
-All you need to chat on your site: chat with your customers for **live support** and engage your community in **chat rooms**.
+All you need to chat on your website: chat with your customers for **live support** and engage your community in **chat rooms**.
 
 Flyzoo chat provides a **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
@@ -39,7 +39,7 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Eye-catching:** You love great design and we do too: Flyzoo chat has been crafted to offer a sleek look and feel.
 
-* **Tab Sync**: Browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and private chat windows will be reloaded if you move to another page.
+* **Tab Sync**: Users can browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and chat windows will be reloaded when you move to another page.
 
 * **SSL Secure Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
