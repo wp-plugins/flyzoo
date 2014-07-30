@@ -23,7 +23,7 @@ Features include: online/offline messages, color customization, private chat, ch
 
 ####Flyzoo Live Chat####
 
-* **Get started in 5 minutes:** No coding skills required. Just install the plugin and complete the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 5 minutes, no coding skills required:** install the plugin and complete the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
@@ -33,7 +33,7 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Single Sign On:** users can login and chat using their existing WordPress accounts
 
-* **Performance:** Flyzoo is a cloud-based, hosted chat platform built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
