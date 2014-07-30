@@ -43,11 +43,14 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **SSL Secure Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
-* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... chat rooms are also embeddable into the page.
+* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... 
+
+* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
 
 * **Customer Support:** We always reply to support requests to solve issues as soon as possible.
 
 * **Chat history for Operators** 
+
 
 Step by step instructions:
 
