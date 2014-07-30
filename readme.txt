@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, admin, chatroom, widget, plugin, shop
+Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, admin, chatroom, widget, plugin, woocommerce, store
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -95,11 +95,11 @@ Fully, illustrated instructions can be found here:
 **3) Enter your Flyzoo Application ID**
 
 6. Enter your Flyzoo Application ID
-7. Verify the script installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+7. Verify the script installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
 
-8. Launch the [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) to customize your widget!
+8. Launch the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) to customize your widget!
 
 
 
