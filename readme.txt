@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, admin, chatroom, widget, plugin, woocommerce, store
+Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, admin, chatroom, widget, plugin, woocommerce
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -15,7 +15,7 @@ Flyzoo is an amazing chat platform for Live Support with Real Time Visitor Monit
 
 All you need to chat on your website: chat with your customers for **live support** and engage your community in **chat rooms**.
 
-Flyzoo chat provides a **live support** solution with **real time visitor monitoring** for your e-commerce
+Flyzoo chat provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
 Features include: online/offline messages, color customization, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more... 
@@ -45,9 +45,9 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... chat rooms are also embeddable into the page.
 
-* **Chat history for Operators** 
-
 * **Customer Support:** We always reply to support requests to solve issues as soon as possible.
+
+* **Chat history for Operators** 
 
 Step by step instructions:
 
