@@ -37,9 +37,9 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
-* **Eye-catching:** You love great design and we do too: Flyzoo chat has been crafted to offer a sleek look and feel.
+* **Eye-catching:** You love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel.
 
-* **Tab Sync**: Users can browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab, and chat windows will be reloaded when you move to another page.
+* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab. Chat windows will be reloaded when you move to another page.
 
 * **SSL Secure Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
@@ -61,7 +61,7 @@ Step by step instructions:
 **Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Meet your customers in real time. See where they came from and what page they are on:
-invite visitors to **chat** and get the most out of your social media and pay-per-click campaigns.
+invite visitors to **chat**, provide the best **live support** ever and close more sales!
 
 Insightful data is available at a glance:
 
