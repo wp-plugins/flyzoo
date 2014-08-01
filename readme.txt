@@ -151,7 +151,7 @@ in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.
 
 [Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
 
-= How do I create a new Chat room? =
+= How do I create a chat room? =
 
 Log into the dashboard [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) go under the
 CHATS menu and click on "Add New Chat room"
