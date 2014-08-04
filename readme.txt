@@ -47,7 +47,7 @@ Features include: online/offline messages, color customization, private chat, ch
 
 * **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
 
-* **Customer Support:** We always reply to support requests to solve issues as soon as possible.
+* **Top Level Customer Support:** We always reply to support requests to solve issues as soon as possible.
 
 * **Chat history for Operators** 
 
@@ -86,7 +86,7 @@ Fully, illustrated instructions can be found here:
 **1) Create your account**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=go&t=12
-2. Enter your website address to get your Flyzoo Application ID
+2. Enter your site address click next to get your Flyzoo Application ID
 
 **2) Install the Plugin**
  
