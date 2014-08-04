@@ -58,7 +58,7 @@ Step by step instructions:
 
 ####Live Support: Chat with your customers and increase sales####
 
-**Live support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
+**Support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Meet your customers in real time. See where they came from and what page they are on:
 invite visitors to **chat**, provide the best **live support** ever and close more sales!
@@ -91,7 +91,7 @@ Fully, illustrated instructions can be found here:
 **2) Install the Plugin**
  
 3. Search and install the plugin from your WordPress Admin 
-4. Activate the chat widget from the Plugins menu in WordPress
+4. Activate the chat widget from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
