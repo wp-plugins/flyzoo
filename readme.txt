@@ -20,6 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: online/offline messages, color customization, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more! 
 
+We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -102,7 +103,7 @@ Fully, illustrated instructions can be found here:
 
 **4) Done!**
 
-8. Launch the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) to customize your widget!
+8. Customize your chat widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 
 
