@@ -32,7 +32,7 @@ We offer affordable chat plans, **starting as low as $2.9/month** with 14-days f
 
 * **Customizable chat colors, dock layout & features**
 
-* **Single Sign On:** users can login and chat using their existing WordPress accounts
+* **Single Sign On:** login and chat using existing WordPress accounts
 
 * **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
@@ -42,7 +42,7 @@ We offer affordable chat plans, **starting as low as $2.9/month** with 14-days f
 
 * **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab. Chat windows will be reloaded when you move to another page.
 
-* **SSL Secure Connection:** automatic chat encryption for HTTPS/SSL based sites.
+* **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
 * **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... 
 
