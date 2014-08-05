@@ -24,7 +24,7 @@ We offer affordable chat plans, **starting as low as $2.9/month** with 14-days f
 
 ####Flyzoo Live Chat####
 
-* **Get started in 5 minutes, no coding skills required:** install the plugin and complete the verification process. [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 5 minutes, no coding skills required**  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
@@ -44,9 +44,9 @@ We offer affordable chat plans, **starting as low as $2.9/month** with 14-days f
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites.
 
-* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview and more... 
+* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview.
 
-* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
+* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans).
 
 * **Top Level Customer Support:** We always reply to support requests to solve issues as soon as possible.
 
