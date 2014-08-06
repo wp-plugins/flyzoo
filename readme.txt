@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include:  color customization, online/offline greeting messages, private chat, chat rooms, avatars, user list, words filtering, emoticons and much more! 
 
-We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial!
+Flyzoo offers affordable chat plans, **starting as low as $2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -32,7 +32,7 @@ We offer affordable chat plans, **starting as low as $2.9/month** with 14-days f
 
 * **Customizable chat colors, dock layout & features**
 
-* **Single Sign On:** login and chat using existing WordPress accounts
+* **Single Sign On:** login and chat using WordPress accounts
 
 * **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
 
