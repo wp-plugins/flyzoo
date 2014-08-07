@@ -74,8 +74,8 @@ Insightful data is available at a glance:
 
 ####Languages####
 
-Chat is available in English, Spanish, French, Portuguese, Italian and German.
-**Coming soon: Russian and Slovak**. Need another language? Let us know!
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi)
+Need another language? Let us know!
 
 
 == Installation ==
