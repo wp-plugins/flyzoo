@@ -24,13 +24,13 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 ####Flyzoo Live Chat####
 
-* **Get started in 5 minutes, no coding skills required**  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 5 minutes, no coding skills required** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
-* **Customizable greetings messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! Customize chat headers, pop up messages and add images to match your brand style.
+* **Customizable greetings messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! 
 
-* **Customizable chat colors, dock layout & features**
+* **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style.
 
 * **Single Sign On:** login and chat using WordPress accounts
 
