@@ -41,7 +41,7 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Eye-catching:** You love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
-* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab. Chat windows will be reloaded when you move to another page.
+* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, all the chat windows are synchronized and reloaded when you move to another page!
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
