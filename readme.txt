@@ -24,33 +24,34 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 ####Flyzoo Live Chat####
 
+
 * **Get started in 5 minutes, no coding skills required** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
 * **Customizable greetings messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! 
 
-* **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style.
+* **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
 
 * **Single Sign On:** login and chat using WordPress accounts
 
-* **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server. 
+* **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
-* **Eye-catching:** You love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel.
+* **Eye-catching:** You love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
 * **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows (or tabs) all the windows are synchronized so you can chat from any tab. Chat windows will be reloaded when you move to another page.
 
-* **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites.
+* **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
 * **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview.
 
-* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans).
+* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
 
-* **Top Level Customer Support:** We always reply to support requests to solve issues as soon as possible.
+* **Top Level Customer Support:** We always reply to support requests to solve issues as soon as possible
 
-* **Chat history for Operators** 
+* **Chat History** 
 
 
 Step by step instructions:
