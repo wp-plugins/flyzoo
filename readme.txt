@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live chat, live support, group chat, support chat, help desk, ecommerce, post, admin, chatroom, widget, plugin, comments
+Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, comments
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -18,7 +18,7 @@ Chat with your customers for **live support** and engage your community in **cha
 All you need to rock your website: Flyzoo chat provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
-Features include: color customization, online/offline greeting messages, private chat, chat rooms, avatars, user list, moderation, emoticons and much more! 
+Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
 Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-days free trial!
 
@@ -76,6 +76,7 @@ Insightful data is available at a glance:
 ####Languages####
 
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi)
+
 Need another language? Let us know!
 
 
