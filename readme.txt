@@ -89,7 +89,7 @@ Fully, illustrated instructions can be found here:
 **1) Create your account**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=go&t=12
-2. Enter your site address click next to get your Flyzoo Application ID
+2. Enter your site address, click next and get your Flyzoo Application ID
 
 **2) Install the Plugin**
  
@@ -101,7 +101,7 @@ Fully, illustrated instructions can be found here:
 **3) Enter your Flyzoo Application ID**
 
 6. Enter your Flyzoo Application ID
-7. Verify the script installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+7. Verify the installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
 
@@ -112,10 +112,10 @@ Fully, illustrated instructions can be found here:
 
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
-2. Move, resize and minimize chat windows.
-3. Chat rooms with emoticons, sound notifications and media content preview.
-4. Responsive chat on mobile devices.
-5. Chat colors and features are customizable.
+2. Move, resize and minimize chat windows
+3. Chat rooms with emoticons, sound notifications and media content preview
+4. Responsive chat on mobile devices
+5. Chat colors and features are customizable
 
 
 == Frequently Asked Questions ==
