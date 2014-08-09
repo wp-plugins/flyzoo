@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is the all-in-one chat platform great for Live Support with Real Time Visitor Monitoring, Group Chat and Private Chats!
+The all-in-one chat platform great for Live Support with Real Time Visitor Monitoring, Group Chat and Private Chats!
 
 
 == Description == 
@@ -75,7 +75,7 @@ Insightful data is available at a glance:
 
 ####Languages####
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi)
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi).
 
 Need another language? Let us know!
 
