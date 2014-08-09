@@ -8,14 +8,14 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is the all-in-one chat platform great for Live Support with Real Time Visitor Monitoring, Group Chat Rooms and Private Chats!
+Flyzoo is the all-in-one chat platform great for Live Support with Real Time Visitor Monitoring, Group Chat and Private Chats!
 
 
 == Description == 
 
 Chat with your customers for **live support** and engage your community in **chat rooms**.
 
-All you need to rock your website: Flyzoo chat provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
+All you need to rock your website: Flyzoo provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
@@ -27,9 +27,9 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Get started in 5 minutes, no coding skills required** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Real time visitor monitoring**: Know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
+* **Real time visitor monitoring**: know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
 
-* **Customizable greetings messages:** Welcome your visitors and invite them to chat live or contact you while you're offline! 
+* **Customizable greetings messages:** welcome your visitors and invite them to chat live or contact you while you're offline! 
 
 * **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
 
@@ -39,17 +39,17 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
-* **Eye-catching:** You love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
+* **Eye-catching:** you love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
 * **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, all the chat windows are synchronized and reloaded when you move to another page!
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
-* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview
+* **Group Chat:** full-featured group chats with emoticons, moderation, media content preview
 
 * **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
 
-* **Top Level Customer Support:** We always reply to support requests to solve issues as soon as possible
+* **Top Level Customer Support:** we always reply to support requests to solve issues as soon as possible
 
 * **Chat History** 
 
