@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, facebook
+Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, woocommerce
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -41,7 +41,7 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Eye-catching:** you love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
-* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, all the chat windows are synchronized and reloaded when you move to another page!
+* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, chat windows are synchronized and reloaded when you move to another page!
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
@@ -51,7 +51,7 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Top Level Customer Support:** we always reply to support requests to solve issues as soon as possible
 
-* **Chat History** 
+* **Private Chat & Group Chat History** 
 
 
 Step by step instructions:
