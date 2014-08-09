@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, comments
+Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, facebook
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -35,7 +35,7 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **Single Sign On:** login and chat using WordPress accounts
 
-* **Performance:** Flyzoo is a cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * **Multiple Operators:** **live support** requests are automatically routed to the first available operator
 
@@ -45,7 +45,7 @@ Flyzoo offers affordable chat plans, starting as low as **$2.9/month** with 14-d
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
-* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview.
+* **Group Chat:** Full-featured group chats with emoticons, moderation, media content preview
 
 * **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
 
