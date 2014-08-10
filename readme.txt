@@ -15,7 +15,7 @@ The all-in-one chat platform great for Live Support with Real Time Visitor Monit
 
 Chat with your customers for **live support** and engage your community in **chat rooms**.
 
-All you need to rock your website: Flyzoo provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
+All you need to rock your website! Flyzoo provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
@@ -27,7 +27,7 @@ Flyzoo offers a powerful chat at an affordable price, starting as low as **$2.9/
 
 * **Get started in 5 minutes, no coding skills required** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Real time visitor monitoring**: know what your visitors are looking for and where they come from to provide **customer support** and **increase sales** 
+* **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
 
 * **Customizable greetings messages:** welcome your visitors and invite them to chat live or contact you while you're offline! 
 
