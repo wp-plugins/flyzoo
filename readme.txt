@@ -25,7 +25,7 @@ Flyzoo offers a powerful chat at an affordable price, starting as low as **$2.9/
 ####Flyzoo Live Chat####
 
 
-* **Get started in 5 minutes, no coding skills required** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 5 minutes, no coding skills required!** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
 
@@ -82,7 +82,7 @@ Need another language? Let us know!
 
 == Installation ==
 
-Fully, illustrated instructions can be found here:
+Instructions can be found here:
 
 [How to install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
