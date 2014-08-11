@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo offers a powerful chat at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
+Get a powerful chat at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -67,7 +67,7 @@ invite visitors to **chat**, provide the best **live support** ever and close mo
 
 Insightful data is available at a glance:
 
-* Current page visited with URL and Title
+* Current visited page with URL and Title
 * Referrer, Keywords and Campaign data (UTM source, medium, search terms...)
 * Returning visitor
 * Page Views
