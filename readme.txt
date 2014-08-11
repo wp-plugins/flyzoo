@@ -94,14 +94,14 @@ Instructions can be found here:
 **2) Install the Plugin**
  
 3. Search and install the plugin from your WordPress Admin 
-4. Activate the chat widget from the Plugins menu
+4. Activate the chat plugin from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
 **3) Enter your Flyzoo Application ID**
 
 6. Enter your Flyzoo Application ID
-7. Verify the installation from [Flyzoo.co>>](http://www.flyzoo.co) or from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+7. Verify the installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
 
@@ -121,10 +121,10 @@ Instructions can be found here:
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-YES. We really care about our customers and we **always reply to support requests**. [Flyzoo Chat - Support >>](http://www.flyzoo.co/support)
+SURE! We really care about our customers and we **always reply to support requests**. [Flyzoo Chat - Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
-We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your subscription at any time!
+We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
 All plans are discounted up to 33% for yearly subscriptions!
 Check out the chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -161,9 +161,9 @@ CHATS menu and click on "Add New Chat room"
 
 = Will the chat widget slow down my site? =
 
-No. The chat is loaded asynchronously after the main content.
+No. The chat is loaded asynchronously after your main content.
 
-= After I remove and delete the chat plugin it still shows on the frontend, how do i remove it completely? =
+= After I remove and delete the chat plugin it still shows on the frontend, how do I remove it completely? =
 
 Please try the following:
 
