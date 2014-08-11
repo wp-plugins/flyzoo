@@ -124,7 +124,7 @@ Fully, illustrated instructions can be found here:
 YES. We really care about our customers and we **always reply to support requests**. [Flyzoo Chat - Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
-We offer affordable plans, **starting as low as $2.9/month** with 14-days free trial.
+We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your subscription at any time!
 All plans are discounted up to 33% for yearly subscriptions!
 Check out the chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -134,9 +134,9 @@ You can pay your subscription using PayPal!
 
 = How do I go online and chat with my users? =
 
-1. Go on your website, locate the Chat widget at the bottom of the screen
+1. Visit your website, locate the chat widget at the bottom of the page
 2. Click on MENU
-3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo!
+3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
 
 = What is the Verification Process and why do I have to run it? =
 
