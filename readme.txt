@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo provides a powerful chat at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
+Flyzoo provides a powerful **live chat** at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -77,7 +77,7 @@ Insightful data is available at a glance:
 
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi).
 
-Need another language? Let us know!
+Coming soon: Vietnamese - Need another language? Let us know!
 
 
 == Installation ==
