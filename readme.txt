@@ -47,9 +47,9 @@ Flyzoo provides a powerful **live chat** at an affordable price, starting as low
 
 * **Group Chat:** full-featured group chats with emoticons, moderation, media content preview
 
-* **Embeddable Group chats**: a chat room can be quickly embedded into the page with a shortcode (PRO Plans)
+* **Embeddable Group chats**: embed a chatroom into a page with a shortcode (PRO Plans)
 
-* **Top Level Customer Support:** we always reply to support requests to solve issues as soon as possible
+* **Amazing Customer Support:** we always reply to support requests to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
 * **Private Chat & Group Chat History** 
 
