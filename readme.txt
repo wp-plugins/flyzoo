@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, woocommerce, widget, plugin, shortcode 
+Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, woocommerce, widget, plugin
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo provides a powerful **live chat** at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
+Flyzoo provides a powerful **live chat** platform at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -47,7 +47,7 @@ Flyzoo provides a powerful **live chat** at an affordable price, starting as low
 
 * **Group Chat:** full-featured group chats with emoticons, moderation, media content preview
 
-* **Embeddable Group chats**: embed a chatroom into a page with a shortcode (PRO Plans)
+* **Embeddable Group chats**: embed a chat room into a page with a shortcode (PRO Plans)
 
 * **Customer Support:** we always reply to support requests to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
@@ -108,8 +108,6 @@ Instructions can be found here:
 **4) Done!**
 
 8. Customize your chat widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
-
-
 
 
 == Screenshots ==
