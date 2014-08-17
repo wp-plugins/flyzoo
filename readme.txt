@@ -37,7 +37,7 @@ Flyzoo offers an amazing **live chat** platform at an affordable price, starting
 
 * **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
-* **Multiple Operators:** **live support** requests are automatically routed to the first available operator
+* **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
 
 * **Eye-catching:** you love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
