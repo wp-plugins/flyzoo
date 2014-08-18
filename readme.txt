@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo offers an amazing **live chat** platform at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
+Flyzoo offers a **live chat** platform at an affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
