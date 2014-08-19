@@ -150,7 +150,7 @@ Please check that your chat widget is on the home page (root) of your site, that
 in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
 
 
-= How do I recover/change my password? =
+= How do I recover or change my password? =
 
 [Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
 
