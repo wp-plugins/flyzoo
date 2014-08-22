@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, woocommerce
+Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, shortcode
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -138,15 +138,10 @@ You can pay your subscription using PayPal!
 2. Click on MENU
 3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
 
-= What is the Verification Process and why do I have to run it? =
-
-By running the verification process we can verify that you are the owner of the domain,
-thus we can allow you to perform administrative tasks, like ban users and remove messages from chat rooms.
-
 
 = What if can't verify my website? =
 
-Please check that your chat widget is on the home page (root) of your site, that the site is reachable and NOT
+The chat widget must be placed on the home page (root) of your site, your site must be reachable and NOT
 in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
 
 
@@ -154,14 +149,9 @@ in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.
 
 [Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
 
-= How do I create a chat room? =
+= Will the chat slow down my site? =
 
-Log into the dashboard [Flyzoo Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) go under the
-CHATS menu and click on "Add New Chat room"
-
-= Will the chat widget slow down my site? =
-
-No. The chat is loaded asynchronously after your main content.
+No. The chat is loaded asynchronously after your main content and our servers handle all the real time chat communications!
 
 = After I remove and delete the chat plugin it still shows on the frontend, how do I remove it completely? =
 
