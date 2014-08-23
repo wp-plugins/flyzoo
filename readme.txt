@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, free chat, chatroom, customer support, help desk, ecommerce, post, admin, widget, plugin, shortcode
+Tags: chat, live support, live chat, group chat, support chat, free chat, chatroom, customer support, help desk, ecommerce, post, admin, widget, plugin, free chat
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -147,7 +147,7 @@ in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.
 
 = Will the chat slow down my site? =
 
-No. The chat is loaded asynchronously after your main content and our servers handle all the real time chat communications!
+No. The chat is loaded asynchronously after your main content, and our servers will handle all the real time chat workload.
 
 = After I remove and delete the chat plugin it still shows on the frontend, how do I remove it completely? =
 
