@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: chat, live support, live chat, group chat, support chat, chatroom, help desk, ecommerce, post, admin, widget, plugin, shortcode
+Tags: chat, live support, live chat, group chat, support chat, free chat, chatroom, customer support, help desk, ecommerce, post, admin, widget, plugin, shortcode
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -75,22 +75,18 @@ Insightful data is available at a glance:
 
 ####Languages####
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi).
-
-Coming soon: Vietnamese.
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese.
 
 Need another language for the chat interface? Let us know!
 
 
 == Installation ==
 
-Instructions can be found here:
-
 [How to install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account**
 
-1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=go&t=12
+1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=wow&t=12
 2. Enter your site address, click next and get your Flyzoo Application ID
 
 **2) Install the Plugin**
@@ -121,7 +117,7 @@ Instructions can be found here:
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-SURE! We really care about our customers and we **always reply to support requests**. [Flyzoo Chat - Support >>](http://www.flyzoo.co/support)
+SURE! We really care about our customers and we **always reply to support requests**. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
 We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
