@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, Chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, Post, support chat, widget
+Tags: admin, Chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, post, support chat, widget
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -91,7 +91,7 @@ Need another language for the chat interface? Let us know!
 
 **2) Install the Plugin**
  
-3. Search and install the plugin from your WordPress Admin 
+3. Install the chat plugin from your WordPress Admin 
 4. Activate the chat plugin from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
