@@ -25,7 +25,7 @@ An amazing **chat** platform at a very affordable price, starting as low as **$2
 ####Flyzoo Live Chat####
 
 
-* **Get started in 3 minutes or less**: No coding skills required! [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 2 minutes or less**: No coding skills required! [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
 
@@ -87,18 +87,18 @@ Need another language for the chat interface? Let us know!
 **1) Create your account**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=wow&t=12
-2. Enter your site address, click next and get your Flyzoo Application ID
+2. Enter your website address, click next and copy your Flyzoo Application ID
 
 **2) Install the Plugin**
  
-3. Install the chat plugin from your WordPress Admin 
-4. Activate the chat plugin from the Plugins menu
+3. Install the plugin from your WordPress Admin 
+4. Activate the plugin from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
 **3) Enter your Flyzoo Application ID**
 
-6. Enter your Flyzoo Application ID
+6. Paste your Flyzoo Application ID
 7. Verify the installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
