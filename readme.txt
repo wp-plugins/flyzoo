@@ -20,7 +20,7 @@ and **group chats** with **one-to-one chats** for your community.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo offers an amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** with 14-days free trial!
+An amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
@@ -110,7 +110,7 @@ Need another language for the chat interface? Let us know!
 1. Live Support Chat with Real time Visitors Tracking
 2. Move, resize and minimize chat windows
 3. Chat rooms with emoticons, sound notifications and media content preview
-4. Responsive chat on mobile devices
+4. Responsive layout on mobile devices
 5. Chat colors and features are customizable
 
 
