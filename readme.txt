@@ -41,7 +41,7 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Eye-catching:** you love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
 
-* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, chat windows are synchronized and reloaded when you move to another page!
+* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, chat windows are synchronized
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
