@@ -25,13 +25,13 @@ Flyzoo offers an amazing **chat** platform at a very affordable price, starting 
 ####Flyzoo Live Chat####
 
 
-* **Get started in 5 minutes, no coding skills required!** [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 3 minutes or less**: No coding skills required! [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
 
-* **Customizable greetings messages:** welcome your visitors and invite them to chat live or contact you while you're offline! 
-
 * **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
+
+* **Customizable greetings messages:** welcome your visitors and invite them to chat live or contact you while you're offline! 
 
 * **Single Sign On:** login and chat using WordPress accounts
 
@@ -154,7 +154,7 @@ No. The chat is loaded asynchronously after your main content, and our servers w
 Please try the following:
 
 - refresh your browser's cache
-- if you are using a caching plugin please force a cache refresh
+- if you are using a wp caching plugin please, force a refresh
 
 this should solve the issue in 99% of cases.
 
