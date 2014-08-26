@@ -160,7 +160,7 @@ Please try the following:
 
 this should solve the issue in 99% of cases.
 
-Otherwise, please check that the chat script has not been embedded directly into some .php file (footer.php for instance).
+Otherwise, please check that you haven't embedded the chat script into some .php file (like footer.php for instance).
 
 = Can I suggest a feature?  =
 
