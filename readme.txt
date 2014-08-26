@@ -67,7 +67,7 @@ Step by step instructions:
 Meet your customers in real time. See where they came from and what page they are on:
 invite visitors to **chat**, provide the best **live support** ever and close more sales!
 
-Insightful data is available at a glance:
+Real time data available at a glance:
 
 * Current visited page with URL and Title
 * Referrer, Keywords and Campaign data (UTM source, medium, search terms...)
