@@ -16,13 +16,11 @@ The amazing chat platform for Live Support, Group Chat and Private Chats!
 All you need to rock your website! Flyzoo provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
-Flyzoo offers an amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** with 14-days free trial!
-
 Chat with your customers for **live support** and engage your community in **chat rooms**.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-
+Flyzoo offers an amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
