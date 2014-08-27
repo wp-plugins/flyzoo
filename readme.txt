@@ -20,18 +20,18 @@ Chat with your customers for **live support** and build your community in **chat
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo offers an amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** with 14-days free trial!
+Flyzoo offers an amazing **chat** platform at a very affordable price, starting as low as **$2.9/month** - with 14-days free trial!
 
 ####Flyzoo Live Chat####
 
 
-* **Get started in 2 minutes or less**: No coding skills required! [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 2 minutes or less**: [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
 
 * **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
 
-* **Customizable greetings messages:** welcome your visitors and invite them to chat live or contact you while you're offline! 
+* **Customizable greetings messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
 * **Single Sign On:** login and chat using WordPress accounts
 
@@ -97,9 +97,9 @@ Need another language for the chat interface? Let us know!
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
-**3) Enter your Flyzoo Application ID**
+**3) Verify the Chat installation**
 
-6. Paste your Flyzoo Application ID
+6. Enter your Flyzoo Application ID
 7. Verify the installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
