@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, Chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, post, support chat, widget, woocommerce
+Tags: admin, Chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, post, support chat, widget, contact form
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -67,10 +67,11 @@ invite visitors to **chat**, provide the best **live support** ever and close mo
 
 Real time data available at a glance:
 
-* Current visited page with URL and Title
 * Referrer, Keywords and Campaign data (UTM source, medium, search terms...)
-* Returning visitor
 * Page Views
+* Current visited page with URL and Title
+* Returning visitor
+
 
 
 ####Languages####
