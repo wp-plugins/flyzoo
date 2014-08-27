@@ -16,7 +16,7 @@ The amazing chat platform for Live Support, Group Chat and Private Chats!
 All you need to rock your website! Flyzoo provides a complete **live support** solution with **real time visitor monitoring** for your e-commerce
 and **group chats** with **one-to-one chats** for your community. 
 
-Chat with your customers for **live support** and engage your community in **chat rooms**.
+Chat with your customers for **live support** and build your community in **chat rooms**.
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
