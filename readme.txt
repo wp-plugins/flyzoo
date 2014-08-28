@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, post, support chat, widget, support
+Tags: admin, chat, chatroom, customer support, ecommerce, free chat, group chat, help desk, live chat, live support, plugin, post, support chat, widget, contact
 Requires at least: 2.0.2
 Tested up to: 3.9.1
 Stable tag: 1.3.0
@@ -45,9 +45,7 @@ Grab this amazing **chat** platform at a very affordable price, starting as low 
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
-* **Group Chat:** full-featured group chats with emoticons, moderation, media content preview
-
-* **Embeddable Group chats**: embed a chat room into a page with a shortcode (PRO Plans)
+* **Embeddable Group Chat:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
 
 * **Customer Support:** we always reply to support requests to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
