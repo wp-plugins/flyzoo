@@ -39,7 +39,7 @@ Flyzoo offers an amazing **chat** platform at a very affordable price, starting 
 
 * **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
 
-* **Eye-catching:** you love great design and we do too, Flyzoo chat has been crafted to offer a sleek look and feel
+* **Eye-catching:** you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
 * **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, chat windows are synchronized
 
@@ -118,7 +118,7 @@ Need another language for the chat interface? Let us know!
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-SURE! We really care about our customers and we **always reply to support requests**. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
+SURE! We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
 We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
