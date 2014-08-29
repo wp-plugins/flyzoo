@@ -119,13 +119,13 @@ Need another language for the chat interface? Let us know!
 SURE! We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
-We offer affordable chat plans, **starting as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
+We offer affordable subscriptions, starting **as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
 All plans are discounted up to 33% for yearly subscriptions!
-Check out the chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+Check out Flyzoo Chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I buy a subscription? =
-Sign up for the 14-days free trial, then you'll be able to manage your subscription from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-You can pay your subscription using PayPal!
+After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 
 = How do I go online and chat with my users? =
 
