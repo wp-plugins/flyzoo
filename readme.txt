@@ -13,7 +13,7 @@ The amazing chat platform for Live Support, Group Chat and Private Chats!
 
 == Description == 
 
-Flyzoo provides an amazing **chat** solution great for you blog, e-commerce or community.
+Flyzoo provides an amazing **chat** solution for you e-commerce, community or blog.
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
