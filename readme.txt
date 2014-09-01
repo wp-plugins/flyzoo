@@ -64,7 +64,8 @@ invite visitors to **chat**, provide the best **live support** ever and close mo
 
 Real time data available at a glance:
 
-* Referrer, Keywords and Campaign data (UTM source, medium, search terms...)
+* Referrer
+* Keywords and Campaign data (UTM source, medium, search terms...)
 * Page Views
 * Current visited page with URL and Title
 * Returning visitor
@@ -97,7 +98,7 @@ Need another language for the chat interface? Let us know!
 **3) Verify the Chat installation**
 
 6. Enter your Flyzoo Application ID
-7. Verify the installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+7. Verify the chat installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **4) Done!**
 
@@ -115,7 +116,7 @@ Need another language for the chat interface? Let us know!
 == Frequently Asked Questions ==
 
 = Do you offer support? =
-SURE! We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
+Sure! We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = Is it free? =
 We offer affordable subscriptions, starting **as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
