@@ -26,7 +26,7 @@ Flyzoo offers an amazing **chat** experience at a very affordable price, startin
 
 * **Get started in 2 minutes or less**: [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Real time visitor monitoring**: know your visitors to improve your **customer support** and **increase sales** 
+* **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
 * **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
 
