@@ -8,7 +8,7 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat platform for Live Support and Group Chat! 
+The amazing chat platform for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
 
 
 == Description == 
