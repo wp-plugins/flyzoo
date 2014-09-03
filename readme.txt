@@ -33,7 +33,7 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Single Sign On:** login and chat using WordPress accounts
 
-* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast **chat** message delivery without overloading your server
 
 * **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
 
