@@ -45,7 +45,7 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Embeddable Group Chat:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
 
-* **Customer Support:** we always reply to support requests to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
+* **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
 * **Private Chat & Group Chat History** 
 
