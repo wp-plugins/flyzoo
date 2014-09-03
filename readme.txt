@@ -19,7 +19,6 @@ Chat with your customers for **live support** with **real time visitor monitorin
 
 Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
 
-Flyzoo offers an amazing **chat** experience at a very affordable price, starting as low as **$2.9/month** with 14-days free trial.
 
 ####Flyzoo Live Chat####
 
