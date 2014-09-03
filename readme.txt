@@ -50,7 +50,7 @@ Features include: color customization, online & offline greeting messages, priva
 * **Private Chat & Group Chat History** 
 
 
-Step by step instructions:
+Install Flyzoo Chat Plugin - Step by step instructions:
 
 [How to Install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
