@@ -23,7 +23,7 @@ Features include: color customization, online & offline greeting messages, priva
 ####Flyzoo Live Chat####
 
 
-* **Get started in 2 minutes or less**: [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Get started in 2 minutes or less**: no coding skills required [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
