@@ -100,7 +100,7 @@ Need another language for the chat interface? Let us know!
 
 **4) Done!**
 
-8. Customize your chat widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
+8. Customize your chat features and colors from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 
 == Screenshots ==
