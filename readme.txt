@@ -27,13 +27,13 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
-* **Customizable chat colors, dock layout & features:** Customize colors, chat window headers, pop up messages and add images to match your brand style
+* **Customizable chat colors, dock layout & features:** customize colors, chat window headers, pop up messages and add images to match your brand style
 
 * **Customizable greetings messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
 * **Single Sign On:** login and chat using existing WordPress accounts
 
-* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* **Performance:** cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
 
