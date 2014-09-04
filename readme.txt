@@ -31,7 +31,7 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Customizable greetings messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
-* **Single Sign On:** login and chat using WordPress accounts
+* **Single Sign On:** login and chat using existing WordPress accounts
 
 * **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast **chat** message delivery without overloading your server
 
@@ -64,11 +64,10 @@ invite visitors to **chat**, provide the best **live support** ever and close mo
 Real time data available at a glance:
 
 * Referrer
+* Current visited page with URL and Title
 * Keywords and Campaign data (UTM source, medium, search terms...)
 * Page Views
-* Current visited page with URL and Title
 * Returning visitor
-
 
 
 ####Languages####
