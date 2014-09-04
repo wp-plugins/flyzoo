@@ -13,7 +13,7 @@ The amazing chat platform for Live Support and Group Chat! All you need to engag
 
 == Description == 
 
-Flyzoo provides an amazing **chat** solution for you e-commerce, community or blog.
+Flyzoo provides an amazing chat solution for you e-commerce, community or blog.
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
@@ -33,7 +33,7 @@ Features include: color customization, online & offline greeting messages, priva
 
 * **Single Sign On:** login and chat using existing WordPress accounts
 
-* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast **chat** message delivery without overloading your server
+* **Performance:** cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
 
@@ -59,7 +59,7 @@ Install Flyzoo Chat Plugin - Step by step instructions:
 **Support chat** has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Meet your customers, in real time. See where they came from and what page they are on:
-invite visitors to **chat**, provide the best **live support** ever and close more sales!
+invite visitors to chat, provide the best **live support** ever and close more sales!
 
 Real time data available at a glance:
 
