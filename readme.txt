@@ -13,11 +13,11 @@ The amazing chat platform for Live Support and Group Chat! All you need to engag
 
 == Description == 
 
-Flyzoo provides an amazing chat solution for you e-commerce, community or blog.
+Need an chat for your website? Flyzoo provides an amazing chat solution for you e-commerce, community or blog!
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
-Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more! 
+Features include: color customization, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more...
 
 
 ####Flyzoo Live Chat####
