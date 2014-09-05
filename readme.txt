@@ -8,12 +8,12 @@ Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat platform for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
+Need a chat for your website? Flyzoo is the perfect live chat solution for you e-commerce, community or blog!
 
 
 == Description == 
 
-Need a chat for your website? Flyzoo is an amazing live chat for you e-commerce, community or blog!
+The amazing chat platform for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
