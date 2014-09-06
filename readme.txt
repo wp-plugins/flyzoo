@@ -17,7 +17,7 @@ The live chat platform great for Live Support and Group Chat! All you need to en
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
-Features include: color customization, visitors monitoring, online & offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more...
+Features include: color customization, visitors monitoring, online/offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more...
 
 
 ####Flyzoo Live Chat####
