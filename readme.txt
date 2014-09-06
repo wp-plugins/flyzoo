@@ -13,7 +13,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-The amazing chat platform for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
+The live chat platform great for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
@@ -44,6 +44,8 @@ Features include: color customization, visitors monitoring, online & offline gre
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
 * **Embeddable Group Chat:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
+
+* **Popup Chat room:** chat rooms can be detached from the page and popup to an external window for a better user experience!
 
 * **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
