@@ -13,7 +13,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-The live chat platform great for Live Support and Group Chat! All you need to engage your visitors, ready in 2 minutes.
+The live chat platform great for Live Support and Group Chat! 
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
@@ -23,7 +23,7 @@ Features include: color customization, visitors monitoring, online/offline greet
 ####Flyzoo Live Chat####
 
 
-* **Get started in 2 minutes or less**: no coding skills required [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **No coding skills required:** get started in a few minutes [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
