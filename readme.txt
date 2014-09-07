@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: buddypress chat, chat tool, Chat Widget, customer support, free live chat, group chat, live chat, online live chat, online support, plugin chat, private message, web chat
+Tags: buddypress chat, chat tool, Chat Widget, customer support, free live chat, group chat, live chat, online live chat, online support, plugin chat, widget, chat
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -91,7 +91,7 @@ Need another language for the chat interface? Let us know!
 **2) Install the Plugin**
  
 3. Install the plugin from your WordPress Admin 
-4. Activate the plugin from the Plugins menu
+4. Activate it from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
 
