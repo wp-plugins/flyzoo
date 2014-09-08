@@ -13,7 +13,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-The live chat platform great for Live Support and Group Chat! 
+Flyzoo is a live chat platform great for Live Support and Group Chat! 
 
 Chat with your customers for **live support** with **real time visitor monitoring** and engage your community in **chat rooms**.
 
