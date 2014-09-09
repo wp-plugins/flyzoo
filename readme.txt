@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: buddypress, chat tool, Chat Widget, customer support, free live chat, group chat, live chat, online live chat, online support, plugin chat, widget, chat
+Tags: buddypress, live support, Chat Widget, customer support, free live chat, group chat, live chat, online live chat, online support, plugin chat, widget, chat
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
