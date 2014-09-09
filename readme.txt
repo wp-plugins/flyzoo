@@ -18,6 +18,7 @@ Chat with your customers for **live support** and engage your community in **cha
 Features include: color customization, real time visitors monitoring, online/offline greeting messages, private chat, group chat, avatars, chat history, moderation, emoticons and much more...
 
 
+
 ####Flyzoo Live Chat####
 
 
@@ -37,7 +38,7 @@ Features include: color customization, real time visitors monitoring, online/off
 
 * **Eye-catching:** you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
-* **Tab Sync**: browse your site and chat at the same time! When you chat from multiple browser windows or tabs, chat windows are synchronized
+* **Tab Sync**: browse your site and chat at the same time! 
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
