@@ -15,7 +15,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 Chat with your customers for **live support** and engage your community in **chat rooms**.
 
-Features include: color customization, real time visitors monitoring, online/offline greeting messages, private chat, chat rooms, avatars, chat history, moderation, emoticons and much more...
+Features include: color customization, real time visitors monitoring, online/offline greeting messages, private chat, group chat, avatars, chat history, moderation, emoticons and much more...
 
 
 ####Flyzoo Live Chat####
