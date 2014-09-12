@@ -17,7 +17,7 @@ Chat with your customers for **live support** and engage your community in **cha
 
 Features include: color customization, real time visitors monitoring, online/offline greeting messages, private chat, group chat, avatars, chat history, moderation, emoticons and much more...
 
-All you need to chat on your site at a very affordable price!
+All you need to chat at a very affordable price!
 
 ####Flyzoo Live Chat####
 
