@@ -13,9 +13,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-Flyzoo has all you need to chat on your website! Chat with your customers for **live support** and engage your community in **chat rooms**.
-
-Features include: in-browser chat, color customization, real time visitors monitoring, online/offline greeting messages, private chat, group chat, avatars, chat history, moderation, emoticons and much more...
+Chat with your customers for live support and engage your community in chat rooms. All you need to chat on your website!
 
 
 ####Flyzoo Live Chat####
@@ -43,11 +41,13 @@ Features include: in-browser chat, color customization, real time visitors monit
 
 * **Embeddable Group Chat:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
 
-* **Popup Chat room:** chat rooms can be detached from the page and popup to an external window for a better user experience!
+* **Popup Group Chat:** chat rooms can be detached from the page and popup to an external window for a better user experience!
 
 * **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
 * **Private Chat & Group Chat History** 
+
+* **Multilanguage**
 
 
 Install Flyzoo Chat Plugin - Step by step instructions:
@@ -79,7 +79,7 @@ Need another language for the chat interface? Let us know!
 
 == Installation ==
 
-[How to install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[Install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 **1) Create your account**
 
