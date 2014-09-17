@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, live support, plugin, customer support, live chat, group chat, free chat, support chat, helpdesk, online support, comments, widget, live help, chat, community
+Tags: free live chat, admin, live support, plugin, customer support, live chat, group chat, support chat, helpdesk, online support, comments, widget, live help, chat, community
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -120,24 +120,29 @@ Need another language for the chat interface? Let us know!
 
 == Frequently Asked Questions ==
 
-= Do you offer support? =
-Sure! We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
-
-= Is it free? =
-We offer affordable subscriptions, starting **as low as $2.9/month** with 14-days free trial. You can cancel, upgrade or downgrade your chat subscription at any time!
-All plans are discounted up to 33% for yearly subscriptions!
-Check out Flyzoo Chat pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
-= How do I buy a subscription? =
-After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
-
-= How do I go online and chat with my users? =
+= How do I go online and chat with my visitors? =
 
 1. Visit your website, locate the chat widget at the bottom of the page
 2. Click on MENU
 3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
 
+= Is that a free live chat? =
+
+Currently we don't offer free live chat plans, but take in account that our subscriptions are VERY affordable.
+
+With Flyzoo you can get the best live chat features starting **as low as $2.9/month** with 14-days free trial (no credit card required).
+You can cancel, upgrade or downgrade your chat subscription at any time.
+
+All plans are discounted up to 33% for yearly subscriptions!
+
+Check the pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
+= Do you offer customer support? =
+
+YES. We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
+
+= How do I buy a subscription? =
+After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = What if can't verify my website? =
 
