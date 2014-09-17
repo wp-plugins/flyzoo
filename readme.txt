@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: admin, live support, plugin, customer support, live chat, group chat, ecommerce,  support chat, helpdesk, online support, comments, widget, chat, community
+Tags: admin, live support, plugin, customer support, live chat, group chat, free chat,  support chat, helpdesk, online support, comments, widget, live help, chat, community
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -13,14 +13,17 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-Meet your customers and close more sales with live support chat.
+From social networks to online shops, from communities to blogs, Flyzoo is an amazing chat to rock your website.
 
-Build and engage your community thanks to **chat rooms** with **one-to-one private conversations**.
+Help your customers and close more sales with **live support** chat.
 
-From social networks to online shops, from communities to blogs, Flyzoo is an amazing chat for any website!
+Build and engage your community with **chat rooms** that also allows **one-to-one private chat** conversations.
+
+
 
 
 ####Flyzoo Live Chat####
+
 
 
 * **No coding skills required:** get started in a few minutes [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
@@ -43,7 +46,7 @@ From social networks to online shops, from communities to blogs, Flyzoo is an am
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
-* **Embeddable Group Chat:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
+* **Embedded Chat Room:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
 
 * **Popup Group Chat:** chat rooms can be detached from the page and popup to an external window for a better user experience!
 
