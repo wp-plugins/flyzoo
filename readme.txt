@@ -39,7 +39,7 @@ Build and engage your community with **chat rooms** that also allows **one-to-on
 
 * **Eye-catching:** you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
-* **Tab Sync**: browse your site and chat at the same time! 
+* **In-browser chat with Tab Sync**: browse your site and chat at the same time! 
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
 
@@ -127,7 +127,7 @@ Need another language for the chat interface? Let us know!
 
 Currently we don't offer free live chat plans, but take in account that our subscriptions are VERY affordable.
 
-With Flyzoo you can get the best live chat features starting **as low as $2.9/month** with 14-days free trial (no credit card required).
+With Flyzoo you can get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
 You can cancel, upgrade or downgrade your chat subscription at any time.
 
 All plans are discounted up to 33% for yearly subscriptions!
