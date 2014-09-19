@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: free live chat, admin, live support, plugin, customer support, live chat, group chat, support chat, helpdesk, online support, comments, widget, live help, chat, community
+Tags: free live chat, admin, live support, plugin, customer support, live chat, group chat, support chat, helpdesk, online support, Post, widget, live help, chat, community
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -123,7 +123,7 @@ Need another language for the chat interface? Let us know!
 2. Click on MENU
 3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
 
-The main button will turn from the "Leave a message" to the "We are online" mode!
+The main button will turn from the "Leave a message" to the "We are online" mode.
 
 = Is that a free live chat? =
 
