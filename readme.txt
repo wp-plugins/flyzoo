@@ -17,7 +17,7 @@ From social networks to online shops, from communities to blogs, Flyzoo is the p
 
 See who is on your site, help your customers and close more sales with **live support** chat.
 
-Build and engage your community with **chat rooms** that also allows **one-to-one private chat** conversations.
+Engage your community in **chat rooms** that also allows **one-to-one private chat** conversations.
 
 
 ####Flyzoo Live Chat####
