@@ -109,8 +109,8 @@ Need another language for the chat interface? Let us know!
 
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
-2. Move, resize and minimize chat windows
-3. Chat rooms with emoticons, sound notifications and media content preview
+2. Move, resize and minimize chat 
+3. Chat with emoticons, sound notifications and media content preview
 4. Responsive layout on mobile devices
 5. Chat colors and features are customizable
 
@@ -122,6 +122,8 @@ Need another language for the chat interface? Let us know!
 1. Visit your website, locate the chat widget at the bottom of the page
 2. Click on MENU
 3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
+
+The main button will turn from the "Leave a message" to the "We are online" mode!
 
 = Is that a free live chat? =
 
@@ -153,7 +155,7 @@ in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.
 
 = Will the chat slow down my site? =
 
-No. The chat is loaded asynchronously after your main content, and our servers will handle all the real time chat workload.
+No. The chat is loaded asynchronously after your main content, our servers will handle all the chat workload.
 
 = After I remove and delete the chat plugin it still shows on the frontend, how do I remove it completely? =
 
