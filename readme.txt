@@ -41,7 +41,7 @@ Engage your community in **chat rooms** that also allows **one-to-one private ch
 
 * **In-browser chat with Tab Sync**: browse your site and chat at the same time! 
 
-* **SSL Connection:** automatic chat encryption for HTTPS/SSL based sites
+* **SSL Connection:** automatic chat encryption for HTTPS/SSL based websites
 
 * **Embedded Chat Room:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
 
@@ -127,7 +127,7 @@ The main button will turn from the "Leave a message" to the "We are online" mode
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but take in account that our subscriptions are VERY affordable.
+Currently we don't offer free live chat plans, anyway our subscriptions are VERY affordable!
 
 With Flyzoo you can get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
 You can cancel, upgrade or downgrade your chat subscription at any time.
