@@ -23,7 +23,7 @@ Engage your community in **chat rooms** that also allows **one-to-one private ch
 ####Flyzoo Live Chat####
 
 
-* **Get started in a few minutes:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
@@ -51,7 +51,7 @@ Engage your community in **chat rooms** that also allows **one-to-one private ch
 
 * **Private Chat & Group Chat History** 
 
-* **Multilanguage**
+* **Multilanguage** 
 
 
 Install Flyzoo Chat Plugin - Step by step instructions:
