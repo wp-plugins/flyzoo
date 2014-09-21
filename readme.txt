@@ -26,7 +26,7 @@ See who is on your site, help your customers and close more sales with **live su
 
 * **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
 
-* **Customizable chat colors, dock layout & features:** customize colors, chat window headers, pop up messages and add images to match your brand style
+* **Customizable chat colors, dock layout & features:** customize colors, chat window headers, operators online/offline pop up messages 
 
 * **Customizable greetings messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
