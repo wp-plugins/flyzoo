@@ -75,7 +75,7 @@ Real time data available at a glance:
 
 ####Languages####
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese.
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese, Polish.
 
 Need another language for the chat interface? Let us know!
 
