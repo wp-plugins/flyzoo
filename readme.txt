@@ -24,7 +24,7 @@ See who is on your site, help your customers and close more sales with **live su
 
 * **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* **Real time visitor monitoring**: understand your visitors to improve **customer support** and **increase sales** 
+* **Real time visitor monitoring**: get actionable insights on who is visiting your website in real-time to improve **customer support** and **increase sales** 
 
 * **Customizable chat colors, dock layout & features:** customize colors, chat window headers, operators online/offline pop up messages 
 
