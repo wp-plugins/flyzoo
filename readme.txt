@@ -61,10 +61,10 @@ Install Flyzoo Chat Plugin - Step by step instructions:
 
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Meet your customers, in real time. See where they came from and what page they are on:
-invite visitors to chat, provide the best **live support** ever and close more sales!
+Meet your customers. See where they came from and what page they are on:
+invite visitors to chat, provide **live support** and close more sales!
 
-Real time data available at a glance:
+All the most important customer insights are available at a glance:
 
 * Referrer
 * Current visited page with URL and Title
