@@ -53,16 +53,15 @@ See who is on your site, help your customers and close more sales with **live su
 * **Multilanguage** 
 
 
-Install Flyzoo Chat Plugin - Step by step instructions:
+How to install Flyzoo Chat - Step by step instructions:
 
 [How to Install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-####Live Support: Chat with your customers and increase sales####
+####Live Support####
 
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Meet your customers. See where they came from and what page they are on:
-invite visitors to chat, provide **live support** and close more sales!
+Meet your customers, see where they came from and what page they are on: invite customers to chat, provide **live support** and close more sales!
 
 All the most important customer insights are available at a glance:
 
