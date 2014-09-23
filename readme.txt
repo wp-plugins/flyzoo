@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Andrea De Santis
 Donate link:
-Tags: free live chat, admin, live support, plugin, customer support, live chat, group chat, support chat, helpdesk, online support, Post, widget, live help, chat, community
+Tags: free live chat, admin, live support, plugin, ecommerce, live chat, group chat, support chat, social, online support, Post, widget, live help, chat, shortcode
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -53,9 +53,9 @@ See who is on your site, help your customers and close more sales with **live su
 * **Multilanguage** 
 
 
-How to install Flyzoo Chat - Step by step instructions:
+How to install Flyzoo Chat for WordPress
 
-[How to Install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 ####Live Support####
 
