@@ -206,7 +206,7 @@ add_shortcode('flyzoo-embed-chatroom', 'flyzoo_embed_chatroom');
         <h1>Get Started!</h1>
         <h3>1) Create your account on Flyzoo</h3>
         <span class="fz-span">
-        Go to <a href="http://www.flyzoo.co/signup?s=go&t=12">Flyzoo Sign up</a> and create your account.
+        Go to <a href="http://www.flyzoo.co/signup?s=wow&t=12">Flyzoo Sign up</a> and create your account.
         </span><br /><br />
         <h3>2) Enter your Flyzoo Application ID</h3>
 
