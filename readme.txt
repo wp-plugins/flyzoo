@@ -19,14 +19,12 @@ Engage your community in **chat rooms** that also allows **one-to-one private ch
 
 See who is on your site, help your customers and close more sales with **live support** chat.
 
-####Flyzoo Live Chat####
+####Flyzoo Live Chat - Features####
 
 
-* **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* **Real-time visitor monitoring**: get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
 
-* **Real-time visitor monitoring**: get actionable insights about who is visiting your website in real-time to improve **customer support** and **increase sales** 
-
-* **Customizable chat colors, dock layout & features:** customize colors, chat window headers, operators online/offline pop up messages 
+* **Customizable:** choose you chat window colors, dock layout & features, operators online/offline pop up messages 
 
 * **Greeting messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
@@ -49,6 +47,8 @@ See who is on your site, help your customers and close more sales with **live su
 * **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
 * **Private Chat & Group Chat History** 
+
+* **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Multilanguage** 
 
