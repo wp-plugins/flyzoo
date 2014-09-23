@@ -76,7 +76,7 @@ All the most important customer insights are available at a glance:
 
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese, Polish.
 
-Need another language for the chat interface? Let us know!
+Need another language? Write us know!
 
 
 == Installation ==
