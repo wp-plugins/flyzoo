@@ -86,11 +86,11 @@ Need another language? Write us know!
 **1) Create your account**
 
 1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=wow&t=12
-2. Enter your website address, click next and copy your Flyzoo Application ID
+2. Enter your website address, click next and get your Flyzoo Application ID
 
 **2) Install the Plugin**
  
-3. Install the plugin from your WordPress Admin 
+3. If you don't have the plugin yet, get it from your WordPress Admin
 4. Activate it from the Plugins menu
 5. Click 'Settings' and then 'Flyzoo Live Chat for WP'
  
