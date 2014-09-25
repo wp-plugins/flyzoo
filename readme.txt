@@ -24,6 +24,10 @@ See who is on your site, help your customers and close more sales with **live su
 
 * **Real-time visitor monitoring**: get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
 
+* **Embedded Chat Room:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
+
+* **Popup Group Chat:** chat rooms can be detached from the page and popup to an external window for a better user experience!
+
 * **Customizable:** choose you chat window colors, dock layout & features, operators online/offline pop up messages 
 
 * **Greeting messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
@@ -39,10 +43,6 @@ See who is on your site, help your customers and close more sales with **live su
 * **In-browser chat with Tab Sync**: browse your site and chat at the same time! 
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based websites
-
-* **Embedded Chat Room:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plans)
-
-* **Popup Group Chat:** chat rooms can be detached from the page and popup to an external window for a better user experience!
 
 * **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
 
