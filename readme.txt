@@ -22,17 +22,17 @@ See who is on your site, help your customers and close more sales with **live su
 ###Flyzoo Live Chat###
 
 
-* **Real-time visitor monitoring**: get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
-
-* **Embedded Chat Room:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
-
-* **Popup Group Chat:** chat rooms can be detached from the page and popup to an external window for a better user experience!
-
-* **Customizable:** choose you chat window colors, dock layout & features, operators online/offline pop up messages 
-
-* **Greeting messages:** welcome your visitors and invite them to chat or contact you while you're offline! 
-
 * **Single Sign On:** login and chat using existing WordPress accounts
+
+* **Live Support:** welcome your visitors and invite them to chat or contact you while you're offline! 
+
+* **Chat Rooms:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
+
+* **Real-time visitor monitoring:** get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
+
+* **Pop out Windows:** chat rooms can be detached from the page and pop up to an external window for a better user experience!
+
+* **Customizable:** choose you chat colors, dock layout & features, online/offline greeting messages and much more... 
 
 * **Performance:** cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
@@ -44,14 +44,14 @@ See who is on your site, help your customers and close more sales with **live su
 
 * **SSL Connection:** automatic chat encryption for HTTPS/SSL based websites
 
-* **Customer Support:** we always reply to solve issues as soon as possible  [Click here for customer support >>](http://www.flyzoo.co/support)
-
 * **Private Chat & Group Chat History** 
 
 * **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 * **Multilanguage** 
 
+
+[Click here for customer support >>](http://www.flyzoo.co/support)
 
 How to install Flyzoo Chat for WordPress
 
