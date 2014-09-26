@@ -19,8 +19,7 @@ Engage your community in **chat rooms** and **one-to-one chat** conversations.
 
 See who is on your site, help your customers and close more sales with **live support** chat.
 
-###Flyzoo Live Chat###
-
+###Flyzoo Live Chat###  
 
 * **Single Sign On:** login and chat using existing WordPress accounts
 
@@ -51,8 +50,8 @@ See who is on your site, help your customers and close more sales with **live su
 * **Multilanguage** 
 
 
-###Live Support Features###
---
+###Live Support Features###  
+
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Meet your customers, see where they came from and what page they are on: invite customers to chat, provide **live support** and close more sales!
@@ -66,8 +65,8 @@ All the most important customer insights are available at a glance:
 * Returning visitor
 
 
-####Languages####
---
+####Languages####  
+
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese, Polish.
 
 Need another language? Write us know!
