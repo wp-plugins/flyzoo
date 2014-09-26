@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
 Donate link:
-Tags: free live chat, admin, live support, plugin, woocommerce, live chat, group chat, support chat, social, online support, ecommerce, widget, live help, chat, Post
+Tags: free live chat, admin, live support, plugin, woocommerce, live chat, group chat, support chat, social, online support, ecommerce, widget, live help, chat, Post, customer support
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.3.0
@@ -73,7 +73,7 @@ Need another language? Write us know!
 
 
 ####Questions? Contact us!####
---
+
 [Click here for customer support >>](http://www.flyzoo.co/support)
 
 
