@@ -1,10 +1,10 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
-Donate link:
-Tags: chat, live chat, free live chat, admin, live support, plugin, group chat, support chat, social, online support, ecommerce, widget, live help, Post, customer support
-Requires at least: 2.0.2
-Tested up to: 4.0.0
-Stable tag: 1.4.0
+Tags: admin, Chat, customer support, ecommerce, free live chat, group chat, live chat, live help, live support, online support, plugin, Post, social, support chat, widget
+Donate link: http://www.flyzoo.co/
+Requires at least: 3.4
+Tested up to: 4.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,43 +12,28 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-From social networks to online shops, from communities to blogs, Flyzoo is the perfect live chat solution for your website!
+From social networks to online shops, from communities to blogs, Flyzoo is an amazing chat for your website!
 
-Engage your community in **chat rooms** and **one-to-one chat** conversations.
+Engage your community in chat rooms and private (one-to-one) chat conversations.
 
-See who is on your site, help your customers and close more sales with **live support** chat.
+See who is on your site, meet your customers and close more sales with **live support** chat.
 
 ###Flyzoo Live Chat###  
 
-
-* **Live Support:** welcome your visitors and invite them to chat or contact you while you're offline! 
-
-* **Chat Rooms:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
-
-* **Real-time Visitors Monitoring:** get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
-
-* **Pop out Windows:** chat rooms can be detached from the page and pop up to an external window for a better user experience!
-
-* **Customizable:** choose you chat colors, dock layout & features, online/offline greeting messages and much more... 
-
-* **Single Sign On:** login and chat using existing WordPress accounts
-
-* **Performance:** cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
-
-* **Multiple Operators and Moderators:** **live support** requests are automatically routed to the first available operator
-
-* **Eye-catching:** you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
-
-* **In-browser chat with Tab Sync**: browse your site and chat at the same time! 
-
-* **SSL Connection:** automatic chat encryption for HTTPS/SSL based websites
-
-* **Private Chat & Group Chat History** 
-
-* **Easy to setup:** no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
-* **Multilanguage** 
-
+* Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
+* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve **customer support** and **increase sales**
+* Live Support: welcome your visitors and invite them to chat or contact you while you're offline!
+* Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience!
+* Customizable: choose you chat colors, dock layout & features, online/offline greeting messages and much more...
+* Single Sign On: login and chat using existing WordPress accounts
+* Performance: cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* Multiple Operators and Moderators: **live support** requests are automatically routed to the first available operator
+* Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
+* In-browser chat with Tab Sync: browse your site and chat at the same time!
+* SSL Connection: automatic chat encryption for HTTPS/SSL based websites
+* Private Chat & Group Chat History**
+* Easy to setup: no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* Multilanguage 
 
 ###Live Support Features###  
 
@@ -64,20 +49,15 @@ All the most important customer insights are available at a glance:
 * Page Views
 * Returning visitor
 
-
 ####Languages####  
 
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese.
 
 Need another language? Write us know!
 
-
 ####Questions? Contact us!####
 
 [Click here for customer support >>](http://www.flyzoo.co/support)
-
-
-
 
 == Installation ==
 
@@ -97,8 +77,7 @@ Need another language? Write us know!
 
 **Done!**
 
-Customize your live chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
-
+Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 == Screenshots ==
 1. Live Support Chat with Real time Visitors Tracking
@@ -106,7 +85,6 @@ Customize your live chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm
 3. Chat with emoticons, sound notifications and media content preview
 4. Responsive layout on mobile devices
 5. Chat colors and features are customizable
-
 
 == Frequently Asked Questions ==
 
@@ -136,7 +114,6 @@ YES. We really care about our customers and we **always** reply to support reque
 = How do I buy a subscription? =
 After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-
 = How do I recover or change my password? =
 
 [Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
@@ -160,35 +137,32 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 
 We really care about your feedback to improve Flyzoo, so your suggestions are welcome!
 
-
-
-
 == Changelog ==
 
 = 1.4.0 =
-(09.26.2014)
-
+09.26.2014
 * NEW: Chat from your site AND/OR from the WordPress Admin
 * NEW: Easier to install!
 * NEW: WP Logout turns the chat off
 
-= 1.3.0 =
-* 06.30.2014 - NEW: Chatrooms are now embeddable into the page (PRO)
-             - NEW: Now it's possible to clean the chat room history right from the window 
-	     - IMPROVED: Reduced space and paddings to improve messages readability
 = 1.2.1 =
-* 05.19.2014 - New translations: Spanish, French, Italian and German
-	     - Improved users online counter
-             - Avatars are now served from a worldwide CDN to improve chat performance
+05.19.2014
+* New translations: Spanish, French, Italian and German
+* Improved users online counter
+* Avatars are now served from a worldwide CDN to improve chat performance
+
 = 1.2.0 =
-* 05.03.2014 - New feature: Secure Connection over HTTPS/SSL
+05.03.2014 
+* New feature: Secure Connection over HTTPS/SSL
 
 = 1.1.1 =
-* 04.25.2014 - Now Single Sign On is optional, improved infrastructure and chat message delivery
+04.25.2014 
+* Now Single Sign On is optional, improved infrastructure and chat message delivery
 
 = 1.0.1 =
-* 03.28.2014 - Improved signup procedure
+03.28.2014
+* Improved signup procedure
 
 = 1.0.0 =
-* 03.27.2014 - Official Plugin for Flyzoo V2.0 Released!
-
+03.27.2014 
+* Official Plugin for Flyzoo Chat Released!
