@@ -28,7 +28,7 @@ See who is on your site, help your customers and close more sales with **live su
 
 * **Chat Rooms:** full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
 
-* **Real-time visitor monitoring:** get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
+* **Real-time Visitors Monitoring:** get actionable insights about who is visiting your website to improve **customer support** and **increase sales** 
 
 * **Pop out Windows:** chat rooms can be detached from the page and pop up to an external window for a better user experience!
 
@@ -52,7 +52,7 @@ See who is on your site, help your customers and close more sales with **live su
 
 
 ###Live Support Features###
-
+--
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
 Meet your customers, see where they came from and what page they are on: invite customers to chat, provide **live support** and close more sales!
@@ -67,14 +67,14 @@ All the most important customer insights are available at a glance:
 
 
 ####Languages####
-
+--
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese, Polish.
 
 Need another language? Write us know!
 
 
 ####Questions? Contact us!####
-
+--
 [Click here for customer support >>](http://www.flyzoo.co/support)
 
 
