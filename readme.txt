@@ -21,7 +21,6 @@ See who is on your site, help your customers and close more sales with **live su
 
 ###Flyzoo Live Chat###  
 
-* **Single Sign On:** login and chat using existing WordPress accounts
 
 * **Live Support:** welcome your visitors and invite them to chat or contact you while you're offline! 
 
@@ -32,6 +31,8 @@ See who is on your site, help your customers and close more sales with **live su
 * **Pop out Windows:** chat rooms can be detached from the page and pop up to an external window for a better user experience!
 
 * **Customizable:** choose you chat colors, dock layout & features, online/offline greeting messages and much more... 
+
+* **Single Sign On:** login and chat using existing WordPress accounts
 
 * **Performance:** cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
