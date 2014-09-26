@@ -51,12 +51,6 @@ See who is on your site, help your customers and close more sales with **live su
 * **Multilanguage** 
 
 
-[Click here for customer support >>](http://www.flyzoo.co/support)
-
-How to install Flyzoo Chat for WordPress
-
-[Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
 ###Live Support Features###
 
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
@@ -79,9 +73,17 @@ Chat is available in English, Spanish, French, Portuguese, Italian, German, Finn
 Need another language? Write us know!
 
 
+####Questions? Contact us!####
+
+[Click here for customer support >>](http://www.flyzoo.co/support)
+
+
+
+
 == Installation ==
 
-[Install Flyzoo Live Chat >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 
 **1) Create your account**
 
