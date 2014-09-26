@@ -1,7 +1,7 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
 Donate link:
-Tags: free live chat, admin, live support, plugin, woocommerce, live chat, group chat, support chat, social, online support, ecommerce, widget, live help, chat, Post, customer support
+Tags: free live chat, chat, live chat, admin, live support, plugin, group chat, support chat, social, online support, ecommerce, widget, live help, Post, customer support
 Requires at least: 2.0.2
 Tested up to: 4.0.0
 Stable tag: 1.4.0
@@ -68,7 +68,7 @@ All the most important customer insights are available at a glance:
 
 ####Languages####  
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Russian and Persian (Farsi). Coming soon: Vietnamese, Polish.
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese.
 
 Need another language? Write us know!
 
