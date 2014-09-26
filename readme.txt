@@ -4,7 +4,7 @@ Donate link:
 Tags: free live chat, admin, live support, plugin, woocommerce, live chat, group chat, support chat, social, online support, ecommerce, widget, live help, chat, Post, customer support
 Requires at least: 2.0.2
 Tested up to: 4.0.0
-Stable tag: 1.3.0
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,19 +87,15 @@ Need another language? Write us know!
 
 **1) Create your account**
 
-1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=wow&t=12
+1. Enter your email, choose a password and a username at http://www.flyzoo.co/signup?s=pro&t=12
 2. Enter your website address, click next and get your Flyzoo Application ID
 
 **2) Install the Plugin**
  
 3. Install and activate the plugin from your WordPress Admin
-4. Click 'Settings' and then 'Flyzoo Live Chat for WP'
- 
-
-**3) Verify the Chat installation**
-
+4. Click on Flyzoo Live Chat on the main menu
 5. Enter your Flyzoo Application ID
-6. Verify the chat installation from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 
 **Done!**
 
@@ -142,11 +138,6 @@ YES. We really care about our customers and we **always** reply to support reque
 = How do I buy a subscription? =
 After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-= What if can't verify my website? =
-
-The chat widget must be placed on the home page (root) of your site, your site must be reachable and NOT
-in maintenance mode. Reach us on [Flyzoo Live Chat Support>>](http://www.flyzoo.co/support), we'll help you to fix verification issues.
-
 
 = How do I recover or change my password? =
 
@@ -175,6 +166,12 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 
 
 == Changelog ==
+
+= 1.4.0 =
+(09.26.2014)
+
+* NEW: Chat from your site AND/OR from the WordPress Admin
+* NEW: Easier to install!
 
 = 1.3.0 =
 * 06.30.2014 - NEW: Chatrooms are now embeddable into the page (PRO)
