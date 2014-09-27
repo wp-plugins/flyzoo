@@ -53,7 +53,7 @@ All the most important customer insights are available at a glance:
 
 Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese.
 
-Need another language? Write us know!
+Need another language? Write us!
 
 ####Questions? Contact us!####
 
