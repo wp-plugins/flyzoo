@@ -1,6 +1,6 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
-Tags: admin, Chat, customer support, ecommerce, free live chat, group chat, live chat, live help, live support, online support, plugin, Post, social, support chat, widget
+Tags: admin, Chat, customer support, ecommerce, free live chat, group chat, live chat, live help, live support, online support, plugin, Post, social, support chat, widget, livechat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -71,7 +71,7 @@ Need another language? Write us!
 
 **1) Create your account**
 
-3. Signup at http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store
+3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
 4. Enter your website address, click next and get your Flyzoo Application ID
 5. Enter your Flyzoo Application ID
 
