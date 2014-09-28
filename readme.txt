@@ -12,11 +12,11 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-From social networks to online shops, from communities to blogs, Flyzoo is an amazing chat for your website!
+From social networks to online shops, from communities to web radios, Flyzoo is an amazing chat for your website!
 
 Engage your community in chat rooms and private (one-to-one) chat conversations.
 
-See who is on your site, meet your customers and close more sales with **live support** chat.
+Meet your customers and close more sales with **live support** chat.
 
 ###Flyzoo Live Chat###  
 
@@ -24,7 +24,7 @@ See who is on your site, meet your customers and close more sales with **live su
 
 * Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
 
-* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve customer support and increase sales
+* Real-time Visitors Monitoring: get actionable insights about who is visiting your website and improve customer support to increase sales
 
 * Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience!
 
