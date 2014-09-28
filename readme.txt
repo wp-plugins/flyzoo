@@ -1,6 +1,6 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
-Tags: admin, Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, support chat, widget, livechat
+Tags: admin, Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, support chat, widget, livechat, admin
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -111,10 +111,10 @@ The main button will turn from the "Leave a message" to the "We are online" mode
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, anyway our subscriptions are VERY affordable!
+Currently we don't offer free live chat plans, but our subscriptions are VERY affordable!
 
-With Flyzoo you can get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
-You can cancel, upgrade or downgrade your chat subscription at any time.
+Get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
+Cancel, upgrade or downgrade your chat subscription at any time.
 
 All plans are discounted up to 33% for yearly subscriptions!
 
@@ -156,7 +156,7 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 09.26.2014
 * NEW: Chat from your site AND/OR from the WordPress Admin
 * NEW: Easier to install!
-* NEW: WP Logout turns the chat off
+* NEW: WordPress Logout turns the chat off
 
 = 1.2.1 =
 05.19.2014
