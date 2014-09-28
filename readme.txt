@@ -20,11 +20,11 @@ See who is on your site, meet your customers and close more sales with **live su
 
 ###Flyzoo Live Chat###  
 
-* Live Support: welcome your visitors and invite them to chat or contact you while you're offline!
+* Live Support: welcome your visitors and proactively invite them to chat or contact you while you're offline!
 
 * Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
 
-* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve **customer support** and **increase sales**
+* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve customer support and increase sales
 
 * Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience!
 
