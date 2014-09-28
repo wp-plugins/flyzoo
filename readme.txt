@@ -20,19 +20,32 @@ See who is on your site, meet your customers and close more sales with **live su
 
 ###Flyzoo Live Chat###  
 
-* Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
-* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve **customer support** and **increase sales**
 * Live Support: welcome your visitors and invite them to chat or contact you while you're offline!
+
+* Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
+
+* Real-time Visitors Monitoring: get actionable insights about who is visiting your website to improve **customer support** and **increase sales**
+
 * Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience!
+
 * Customizable: choose you chat colors, dock layout & features, online/offline greeting messages and much more...
+
 * Single Sign On: login and chat using existing WordPress accounts
+
 * Performance: cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+
 * Multiple Operators and Moderators: **live support** requests are automatically routed to the first available operator
+
 * Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
+
 * In-browser chat with Tab Sync: browse your site and chat at the same time!
+
 * SSL Connection: automatic chat encryption for HTTPS/SSL based websites
+
 * Private Chat & Group Chat History**
+
 * Easy to setup: no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
 * Multilanguage 
 
 ###Live Support Features###  
