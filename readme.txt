@@ -12,7 +12,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your e-commerce, co
 
 == Description == 
 
-From social networks to online shops, from communities to web radios, Flyzoo is an amazing chat for your website!
+From social networks to online shops, from communities to blogs, Flyzoo is an amazing chat for your website!
 
 Engage your community in chat rooms and private (one-to-one) chat conversations.
 
@@ -49,7 +49,6 @@ Meet your customers and close more sales with **live support** chat.
 * Easy to setup: no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
-
 ###Live Support Features###  
 
 Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
@@ -61,7 +60,7 @@ All the most important customer insights are available at a glance:
 * Referrer
 * Current visited page with URL and Title
 * Keywords and Campaign data (UTM source, medium, search terms...)
-* Page Views
+* Page views
 * Returning visitor
 
 ####Languages####  
