@@ -1,6 +1,6 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
-Tags: admin, Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, posts, twitter, widget, livechat, comments
+Tags: Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, zopim, widget, livechat, customer support, ecommerce
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -34,7 +34,7 @@ Meet your customers and close more sales with **live support** chat.
 
 * Performance: cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
-* Multiple Operators and Moderators: **live support** requests are automatically routed to the first available operator
+* Multiple Operators and Moderators: live support requests are automatically routed to the first available operator
 
 * Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
@@ -42,11 +42,13 @@ Meet your customers and close more sales with **live support** chat.
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL based websites
 
-* Private Chat & Group Chat History**
+* Private Chat & Group Chat History
+
+* Multilanguage 
 
 * Easy to setup: no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-* Multilanguage 
+
 
 ###Live Support Features###  
 
