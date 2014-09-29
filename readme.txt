@@ -1,6 +1,6 @@
 === Flyzoo Live Chat ===
 Contributors: Flyzoo
-Tags: admin, Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, support chat, widget, livechat, admin
+Tags: admin, Chat, free live chat, group chat, live chat, live help, live support, chat for website, plugin, Post, posts, twitter, widget, livechat, admin
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
