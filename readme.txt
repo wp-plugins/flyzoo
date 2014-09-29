@@ -22,7 +22,7 @@ Meet your customers and close more sales with **live support** chat.
 
 * Live Support: welcome your visitors and proactively invite them to chat or contact you while you're offline!
 
-* Chat Rooms: full-featured group chats with emoticons, moderation, media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
+* Chat Rooms: full-featured group chats with emoticons, moderation and media content preview. Embed a chat room into a page with a shortcode (PRO Plan)
 
 * Real-time Visitors Monitoring: get actionable insights about who is visiting your website and improve customer support to increase sales
 
