@@ -1,6 +1,6 @@
-=== Flyzoo Live Chat ===
+=== Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, free live chat, group chat, live chat, plugin, Post, widget, livechat, admin, live support, support chat, admin, posts, comment
+Tags: chat, free live chat, group chat, live chat, plugin, Post, widget, livechat, admin, live support, support chat, admin, posts, comments
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -16,7 +16,7 @@ From social networks to online shops, from communities to blogs, Flyzoo is the p
 
 Engage your community in chat rooms and private (one-to-one) chat conversations.
 
-Meet your customers and close more sales thanks to **live support** chat.
+Meet your customers and close more sales with live support chat.
 
 ###Flyzoo Live Chat###  
 
