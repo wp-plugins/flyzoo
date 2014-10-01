@@ -12,11 +12,11 @@ The all-in-one chat platform. Perfect for your e-commerce, community or blog!
 
 == Description == 
 
-From social networks to online shops, from communities to blogs, Flyzoo is the perfect chat for your website.
+From communities to online shops, from web radios to blogs, Flyzoo is the perfect chat solution for your website.
 
-Engage your community in chat rooms and private (one-to-one) chat conversations.
+Engage your users in chat rooms and private (one-to-one) chat conversations.
 
-Meet your customers and close more sales with live support chat.
+Meet your customers and close more sales with live support chat. 
 
 ###Flyzoo Live Chat###  
 
