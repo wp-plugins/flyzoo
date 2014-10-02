@@ -12,7 +12,7 @@ The all-in-one chat platform. Perfect for your e-commerce, community or blog!
 
 == Description == 
 
-From communities to online shops, from web radios to blogs, Flyzoo is the perfect chat solution for your website.
+From communities to online shops, from web radios to blogs, Flyzoo is the perfect chat for your website.
 
 Engage your users in chat rooms and private (one-to-one) chat conversations.
 
@@ -57,9 +57,9 @@ Meet your customers, see where they came from and what page they are on: invite 
 
 All the most important customer insights are available at a glance:
 
-* Referrer
-* Current visited page with URL and Title
+* Current visited page
 * Keywords and Campaign data (UTM source, medium, search terms...)
+* Referrer
 * Page views
 * Returning visitor
 
