@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The live chat for your e-commerce, community or blog!
+Need a chat for your website? Flyzoo is the perfect live chat for your e-commerce, community or blog!
 
 == Description == 
 
@@ -35,6 +35,8 @@ Meet your customers and close more sales with live support chat.
 * Performance: cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * Multiple Operators and Moderators: live support requests are automatically routed to the first available operator
+
+* Multiple Chats: users can chat have multiple chats open at the same time! 
 
 * Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
