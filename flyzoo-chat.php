@@ -2,8 +2,8 @@
             /*
               Plugin Name: Flyzoo - Live Support & Group Chat 
               Plugin URI: http://www.flyzoo.co/
-              Description: Flyzoo Live Chat - the perfect chat for your e-commerce, community or blog!
-              Version: 1.4.0
+              Description: All you need to chat on your website: Live Support Chat, Group Chats and Real Time Visitors Monitoring! 
+              Version: 1.4.1
               Author: Flyzoo
               Author URI: http://www.flyzoo.co/
               License: GPL2
@@ -113,6 +113,7 @@
     
         function flyzoo_logout(){
             setcookie("flyzoo-force-logout", "true", time() + 3600, "/");
+             //  setcookie( 'my-name', 'my-value', time() + 3600, COOKIEPATH, COOKIE_DOMAIN );
         }
     
     
@@ -297,7 +298,7 @@ a.flyzoo-signup-button:hover {
                
             </p>
             <p>
-                <input type="checkbox" id="FlyzooPoweredBy" name="FlyzooPoweredBy" <?php echo (get_option("FlyzooPoweredBy")==true)?'checked="checked"':''?>>
+                <input type="checkbox" id="FlyzooPoweredBy" name="FlyzooPoweredBy" <?php echo (get_option("FlyzooPoweredBy")==true ?'checked="checked"':'')?>>
                 <strong>Required</strong> I acknowledge there is a 'powered by Flyzoo' link on the widget. <br />
             </p>
 
@@ -305,12 +306,12 @@ a.flyzoo-signup-button:hover {
             <hr /><br />
             <h1>Options</h1>
             <br />
-            <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php echo (get_option("FlyzooApiEnabled")==true || get_option("FlyzooApiEnabled") =='' )?'checked="checked"':''?>>
+            <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php echo (get_option("FlyzooApiEnabled")==true ?'checked="checked"':'') ?>>
             <strong>Enable Single Sign On</strong> Check this to allow users log into the chat with their existing WordPress Account.<br />
             <br />
 
-              <input type="checkbox" id="FlyzooHideInDashboard" name="FlyzooHideInDashboard" <?php echo (get_option("FlyzooHideInDashboard")==true)?'checked="checked"':''?>>
-            <strong>Hide in WordPress Admin</strong> Check this to hide the dock from your this and other WP admin pages. <br />
+              <input type="checkbox" id="FlyzooHideInDashboard" name="FlyzooHideInDashboard" <?php echo (get_option("FlyzooHideInDashboard")==true ?'checked="checked"':'') ?>>
+            <strong>Hide in WordPress Admin</strong> Check this to hide the dock from the WP Admin. <br />
             <br />
             <input type="submit" value="<?php echo(_e("Save Changes")) ?>" /><br /> <br />
 
@@ -329,7 +330,7 @@ a.flyzoo-signup-button:hover {
            //if (get_option('FlyzooPoweredBy')!=true) return;
     
     
-           $e .='<!-- Flyzoo Script V2.2 -->'
+           $e .='<!-- Flyzoo Script V2 -->'
               .'<script type="text/javascript">'
               .'(function () { '
               .'window._FlyzooApplicationId="' . $code . '";'
@@ -353,8 +354,10 @@ a.flyzoo-signup-button:hover {
     
               echo ($api);   
     
-        }            
-         
+        }
+              
+       
+  
     }
     
     new FlyzooWidget();

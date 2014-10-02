@@ -156,6 +156,10 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 
 == Changelog ==
 
+= 1.4.1 =
+10.3.2014 
+* Fixed minor SSO bug
+
 = 1.4.0 =
 09.26.2014
 * NEW: Chat from your site AND/OR from the WordPress Admin
