@@ -10,9 +10,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Need a chat for your website? Flyzoo is the perfect live chat for your e-commerce, community or blog!
 
-== Description ==
+== Description == 
 
-###Flyzoo Live Chat###  
+From social networks to online shops, from communities to blogs, Flyzoo is the perfect chat for your website.
+
+Meet your customers and close more sales with live support chat.
+
+Engage your users in chat rooms and private (one-to-one) chat conversations.
 
 * Live Support: welcome your visitors and proactively invite them to chat or contact you while you're offline!
 
