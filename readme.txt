@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, free live chat, group chat, live chat, plugin, Post, widget, livechat, admin, live support, support chat, help desk, support, comments
+Tags: chat, free live chat, group chat, live chat, plugin, Post, widget, livechat, admin, live support, support chat, help desk, support, comments, live chat software, customer support, olark, zopim, clickdesk
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -30,7 +30,7 @@ Engage your users in chat rooms and private (one-to-one) chat conversations.
 
 * Single Sign On: login and chat using existing WordPress accounts, email and password or Facebook
 
-* Performance: cloud-based, hosted live chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* Performance: cloud-based (hosted) chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * Multiple Operators and Moderators: live support requests are automatically routed to the first available operator
 
