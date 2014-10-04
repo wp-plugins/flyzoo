@@ -12,7 +12,7 @@ Need a chat for your website? Flyzoo is the amazing chat for your e-commerce, co
 
 == Description == 
 
-From social networks to online shops, from communities to blogs, Flyzoo is the perfect chat for your website.
+All you need to chat on your social network, e-commerce, community or blog!
 
 Meet your customers and close more sales with live support chat.
 
