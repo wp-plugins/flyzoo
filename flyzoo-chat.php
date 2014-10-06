@@ -2,8 +2,8 @@
             /*
               Plugin Name: Flyzoo - Live Support & Group Chat 
               Plugin URI: http://www.flyzoo.co/
-              Description: All you need to chat on your website: Live Support Chat, Group Chats and Real Time Visitors Monitoring! 
-              Version: 1.4.1
+              Description: Flyzoo Chat is a sleek and powerful chat platform fo Live Support, Group Chats and Realtime visitors monitoring. Get started in just 5 minutes, engage your customers and increase sales!
+              Version: 1.4.2
               Author: Flyzoo
               Author URI: http://www.flyzoo.co/
               License: GPL2
@@ -180,31 +180,32 @@
 
                 private function addNewWebsite() {
 			
-                $service = $this->flyzooroot."service/addwebsite";
-		        $p['ip'] = $_SERVER['REMOTE_ADDR'];
-				$p['url'] = site_url();
-                $p['source'] = "wordpress";
-  		
-		        $client = curl_init();
-	
-		        curl_setopt($client, CURLOPT_AUTOREFERER, TRUE);
-		        curl_setopt($client, CURLOPT_HEADER, 0);
-		        curl_setopt($client, CURLOPT_RETURNTRANSFER, 1);
-		        curl_setopt($client, CURLOPT_URL, $service);
-		        curl_setopt($client, CURLOPT_USERAGENT, 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)');
-		
-		        if(!empty($p)){
-			        curl_setopt($client,CURLOPT_POST, count($p));
-			        curl_setopt($client,CURLOPT_POSTFIELDS, http_build_query($p));
-		        }
-			
-		        $data = curl_exec($client);
-		        curl_close($client);
-		
-		        return $data;
-		
-	        }
+                   if(!is_callable('curl_init')){ return; }
 
+                    $service = $this->flyzooroot."service/addwebsite";
+		            $p['ip'] = $_SERVER['REMOTE_ADDR'];
+				    $p['url'] = site_url();
+                    $p['source'] = "wordpress";
+  		
+		            $client = curl_init();
+	
+		            curl_setopt($client, CURLOPT_AUTOREFERER, TRUE);
+		            curl_setopt($client, CURLOPT_HEADER, 0);
+		            curl_setopt($client, CURLOPT_RETURNTRANSFER, 1);
+		            curl_setopt($client, CURLOPT_URL, $service);
+		            curl_setopt($client, CURLOPT_USERAGENT, 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)');
+		
+		            if(!empty($p)){
+			            curl_setopt($client,CURLOPT_POST, count($p));
+			            curl_setopt($client,CURLOPT_POSTFIELDS, http_build_query($p));
+		            }
+			
+		            $data = curl_exec($client);
+		            curl_close($client);
+		
+		            return $data;
+		
+	            }
 
     
               public function createAdminPage() {    
@@ -355,8 +356,7 @@ a.flyzoo-signup-button:hover {
               echo ($api);   
     
         }
-              
-       
+                   
   
     }
     

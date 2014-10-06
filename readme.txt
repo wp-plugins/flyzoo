@@ -150,6 +150,10 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 
 == Changelog ==
 
+= 1.4.2 =
+10.6.2014 
+* Fixed minor bug with curl
+
 = 1.4.1 =
 10.3.2014 
 * Fixed minor SSO bug
