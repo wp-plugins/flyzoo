@@ -19,7 +19,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Live Support: welcome your visitors and invite them to chat or contact you while you're offline!
 
-* Real-time Visitors Monitoring: get actionable insights about who is visiting your website and improve customer support to increase sales
+* Real-time Visitors Monitoring: get actionable insights about your visitors
 
 * Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience!
 
