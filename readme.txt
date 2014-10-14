@@ -39,7 +39,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * In-browser chat with Tab Sync: browse your site and chat at the same time!
 
-* SSL Connection: automatic chat encryption for HTTPS/SSL based websites
+* SSL Connection: automatic chat encryption for HTTPS/SSL pages
 
 * Private Chat & Group Chat History
 
