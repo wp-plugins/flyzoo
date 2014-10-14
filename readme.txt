@@ -21,7 +21,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Embedded Chat Room: give direct access to chat rooms by embedding them into pages (PRO Plan) 
 
-* Real-time Visitors Monitoring: get actionable insights about your visitors and proactively invite them to chat
+* Real-time Visitors Monitoring: get actionable insights about your visitors
 
 * Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience
 
