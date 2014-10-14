@@ -33,11 +33,9 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Multiple Operators and Moderators: live support requests are automatically routed to the first available operator
 
-* Multiple Chats: users can chat have multiple chats open at the same time! 
-
 * Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
 
-* In-browser chat with Tab Sync: browse your site and chat at the same time!
+* Multiple in-browser chats: browse your site and chat at the same time!
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL pages
 
