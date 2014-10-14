@@ -23,7 +23,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Real-time Visitors Monitoring: get actionable insights about your visitors
 
-* Pop out Windows: chat rooms can be detached from the page and pop up to an external window for a better user experience
+* Pop out Chats: chat rooms can be detached from the page and pop up to an external window for a better user experience
 
 * Customizable: choose you chat colors, dock layout & features, online/offline greeting messages and much more...
 
