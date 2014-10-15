@@ -21,7 +21,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Embedded Chat Room: give direct access to chat rooms by embedding them into pages (PRO Plan) 
 
-* Real-time Visitors Monitoring: get actionable insights about your visitors
+* Real Time Visitors Monitoring: get actionable insights about your visitors
 
 * Pop out Chats: chat rooms can be detached from the page and pop up to an external window for a better user experience
 
@@ -91,7 +91,7 @@ Need another language? Write us!
 Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 == Screenshots ==
-1. Live Support Chat with Real time Visitors Tracking
+1. Live Support Chat with Real Time Visitors Tracking
 2. Move, resize and minimize chat 
 3. Chat with emoticons, sound notifications and media content preview
 4. Responsive layout on mobile devices
