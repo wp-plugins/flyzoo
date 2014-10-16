@@ -15,7 +15,7 @@ Need a chat for your website? Flyzoo is the perfect live chat for your e-commerc
 All you need to chat on your e-commerce, community or blog: help your customers with live support chat,
 engage your community in chat rooms and private (one-to-one) conversations.
 
-* Chat Rooms: full featured group chats with emoticons, moderation, image and video preview. 
+* Chat Rooms: full featured group chats with avatars, emoticons, moderation, image/video preview and more... 
 
 * Live Support: a simple but effective tool to make customers happy and increase sales!
 
