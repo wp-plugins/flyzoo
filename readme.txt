@@ -25,7 +25,7 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * Pop out Chats: chat rooms can be detached from the page and pop up to an external window for a better user experience
 
-* Customizable: choose your chat colors, widget layout & features, online/offline greeting messages
+* Customizable: choose your chat colors, features and operators online/offline greeting messages
 
 * Single Sign On: login and chat using existing WordPress accounts, email and password or Facebook
 
