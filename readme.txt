@@ -39,11 +39,11 @@ engage your community in chat rooms and private (one-to-one) conversations.
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL pages
 
-* Private Chat & Group Chat History
+* Private and Group Chat History
 
 * Multilanguage 
 
-* Easy to setup: no coding skills required  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* Easy to setup: no coding skills required!  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support Features###  
