@@ -23,9 +23,9 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Real Time Visitors Monitoring: get actionable insights about your visitors
 
-* Pop out chat windows: chat rooms can be detached from the page and pop up to an external window for a better user experience
+* Pop out chat windows: chat rooms can be detached from the page and pop up to an external window to improve user experience
 
-* Customizable: choose colors, features and online/offline greeting messages
+* Customize colors, features and online/offline greeting messages
 
 * Single Sign On: login and chat using existing WordPress accounts, email and password or Facebook
 
