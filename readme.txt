@@ -31,28 +31,28 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Performance: cloud-based (hosted) chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
-* Multiple Operators and Moderators: live support requests are automatically routed to the first available operator
+* Multiple Operators/Moderators: live support requests are automatically routed to the first available operator
 
-* Eye-catching: you love great design and we do too. Flyzoo chat has been crafted to offer a sleek look and feel
+* Eye-catching: the chat has been crafted to offer a sleek look and feel
 
 * Multiple in-browser chats: browse your site and chat at the same time!
 
-* SSL Connection: automatic chat encryption for HTTPS/SSL pages
+* SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
 * Private and Group Chat History
 
 * Multilanguage 
 
-* Easy to setup: no coding skills required!  [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* Easy to setup: no coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support Features###  
 
-Live Support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
+Live support chat has proven itself essential to e-commerce by driving conversions and sales: [Flyzoo Live Chat](http://www.flyzoo.co) is must-have for your business!
 
-Meet your customers, see where they came from and what page they are on: invite customers to chat, provide **live support** and close more sales!
+Meet your visitors, see where they came from and what page they are on: make customers happy and close more sales!
 
-All the most important customer insights are available at a glance:
+All the most important insights are available at a glance:
 
 * Current visited page
 * Keywords and Campaign data (UTM source, medium, search terms...)
