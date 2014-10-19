@@ -27,7 +27,7 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Customize colors, features and online/offline greeting messages
 
-* Single Sign On: login and chat using existing WordPress accounts, email and password or Facebook
+* Single Sign On: login and chat using existing WordPress accounts, Facebook or E-mail and Password
 
 * Performance: cloud-based (hosted) chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
