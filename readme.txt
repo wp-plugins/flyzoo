@@ -62,7 +62,7 @@ All the most important insights are available at a glance:
 
 ####Languages####  
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese.
+Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese, Bulgarian
 
 Need another language? Write us!
 
