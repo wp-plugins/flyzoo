@@ -21,7 +21,7 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Embedded Chat Room: give direct access to chat rooms by embedding them into pages (PRO Plan) 
 
-* Real-time Visitors Tracking: see who is online and send chat invitations to visitors
+* Real-time Visitors Tracking: see who is online and send chat invitations to visitors and potential customers
 
 * Pop out chat windows: chat rooms can be detached from the page and pop up to an external window to improve user experience
 
