@@ -150,6 +150,10 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 
 == Changelog ==
 
+= 1.4.4 =
+10.22.2014 
+* NEW: Page Filters: enable/disable the chat on specific pages
+
 = 1.4.3 =
 10.14.2014 
 * Fixed missing avatar bug
