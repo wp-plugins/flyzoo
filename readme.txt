@@ -43,7 +43,7 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Multilanguage 
 
-* Easy to setup: no coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* No coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support Features###  
