@@ -138,7 +138,7 @@ No. The chat is loaded asynchronously after your main content, our servers will 
 Please try the following:
 
 - refresh your browser's cache
-- if you are using a wp caching plugin please, force a refresh
+- if you are using a caching plugin please, force a refresh
 
 this should solve the issue in 99% of cases.
 
