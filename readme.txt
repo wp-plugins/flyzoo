@@ -116,7 +116,7 @@ Cancel, upgrade or downgrade your chat subscription at any time.
 
 All plans are discounted up to 33% for yearly subscriptions!
 
-Check the pricing and compare plans here [Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+[Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = Do you offer customer support? =
 
