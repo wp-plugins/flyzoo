@@ -101,9 +101,10 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 
 = How do I go online and chat with my visitors? =
 
-1. Visit your website, locate the chat widget at the bottom of the page
+1. Open your website, locate the chat widget at the bottom of the page
 2. Click on MENU
-3. Click on "Log in or Sign up" and enter the e-mail and password you used to join Flyzoo
+3. Click on "Log in or Sign up" 
+4. Enter the e-mail and password you used to join Flyzoo
 
 The main button will turn from the "Leave a message" to the "We are online" mode.
 
