@@ -121,7 +121,7 @@ All plans are discounted up to 33% for yearly subscriptions!
 
 = Do you offer customer support? =
 
-YES. We really care about our customers and we **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
+YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = How do I buy a subscription? =
 After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
