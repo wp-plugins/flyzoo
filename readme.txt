@@ -157,11 +157,11 @@ We really care about your feedback to improve Flyzoo, so your suggestions are we
 
 = 1.4.3 =
 10.14.2014 
-* Fixed missing avatar bug
+* Fixed minor but / missing avatars
 
 = 1.4.2 =
 10.6.2014 
-* Fixed minor bug with curl
+* Fixed minor bug / curl
 
 = 1.4.1 =
 10.3.2014 
