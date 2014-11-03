@@ -127,7 +127,7 @@ After you sign up for the free trial, you'll be able to buy your subscription wi
 
 = How do I recover or change my password? =
 
-[Click here to recovery or reset your password>>](http://widget-a.flyzoo.co/account/recovery)
+[Click here to recovery or reset your password>>](http://widget-c.flyzoo.co/account/recovery)
 
 = Will the chat slow down my site? =
 
@@ -146,7 +146,7 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 
 = Can I suggest a feature?  =
 
-We really care about your feedback to improve Flyzoo, so your suggestions are welcome!
+Sure! Feel free to contact us for any question 
 
 == Changelog ==
 
