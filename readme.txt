@@ -90,7 +90,7 @@ Need another language? Write us!
 Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 == Screenshots ==
-1. Live Support Chat with Real Time Visitors Tracking
+1. Live Support Chat with Real Time Visitors Monitoring
 2. Move, resize and minimize chat 
 3. Chat with emoticons, sound notifications and media content preview
 4. Responsive layout on mobile devices
@@ -103,13 +103,13 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 1. Open your website, locate the chat widget at the bottom of the page
 2. Click on MENU
 3. Click on "Log in or Sign up" 
-4. Enter the e-mail and password you used to join Flyzoo
+4. Enter the e-mail and password you used to sign up
 
-The main button will turn from the "Leave a message" to the "We are online" mode.
+The main button will turn from "Leave a message" to "We are online".
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions are VERY affordable!
+Currently we don't offer free live chat plans, but our subscriptions are incredibly affordable!
 
 Get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
 Cancel, upgrade or downgrade your chat subscription at any time.
