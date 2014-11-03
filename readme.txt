@@ -54,10 +54,9 @@ Meet your visitors, see where they came from and what page they are on: make cus
 
 All the most important insights are available at a glance:
 
-* Current visited page
+* Current visited page and page views
 * Keywords and Campaign data (UTM source, medium, search terms...)
 * Referrer
-* Page views
 * Returning visitor
 
 ####Languages####  
