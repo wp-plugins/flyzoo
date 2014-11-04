@@ -21,7 +21,7 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Embedded Chat Room: give direct access to a chat room by embedding it into a page (PRO Plan) 
 
-* Real-time Visitors Monitoring: see who is online and send chat invitations to potential customers
+* Track Visitors Live: see who is online and send chat invitations to potential customers
 
 * Pop out chat windows: open chat separately in a new browser window to improve the user experience
 
@@ -41,7 +41,7 @@ engage and grow your community with chat rooms and private (one-to-one) conversa
 
 * Private and Group Chat History
 
-* Multilanguage 
+* Multilanguage: localizations available in multiple languages
 
 * No coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -82,8 +82,8 @@ Need another language? Write us!
 **1) Create your account**
 
 3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
-4. Enter your website address, click next and get your Flyzoo Application ID
-5. Enter your Flyzoo Application ID
+4. Enter your website address, click next and copy your Flyzoo Application ID
+5. Paste your Flyzoo Application ID and save the configuration
 
 **Done!**
 
@@ -93,17 +93,17 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 1. Live Support Chat with Real Time Visitors Monitoring
 2. Move, resize and minimize chat 
 3. Chat with emoticons, sound notifications and media content preview
-4. Responsive layout on mobile devices
+4. Responsive chat layout on mobile devices
 5. Chat colors and features are customizable
 
 == Frequently Asked Questions ==
 
 = How do I go online and chat with my visitors? =
 
-1. Open your website, locate the chat widget at the bottom of the page
+1. Visit your website and locate the chat widget at the bottom of the page
 2. Click on MENU
 3. Click on "Log in or Sign up" 
-4. Enter the e-mail and password you used to sign up
+4. Enter the e-mail and password you used to join Flyzoo
 
 The main button will turn from "Leave a message" to "We are online".
 
@@ -123,7 +123,7 @@ All plans are discounted up to 33% for yearly subscriptions!
 YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = How do I buy a subscription? =
-After you sign up for the free trial, you'll be able to buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+After you sign up for the free trial, you can buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I recover or change my password? =
 
