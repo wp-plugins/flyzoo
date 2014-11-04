@@ -140,13 +140,13 @@ Probably your pages are being cached. Please try the following:
 - refresh your browser's cache
 - if you are using a caching plugin please, force a refresh
 
-this should solve the issue in 99% of cases.
+this should fix the issue.
 
 Otherwise, please check that you haven't embedded the chat script into some .php file (like footer.php for instance).
 
 = Can I suggest a feature?  =
 
-Sure! Feel free to contact us for any question 
+Sure! Feel free to contact us for your feedback
 
 == Changelog ==
 
