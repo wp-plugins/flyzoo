@@ -111,7 +111,7 @@ The main button will turn from "Leave a message" to "We are online".
 
 Currently we don't offer free live chat plans, but our subscriptions are incredibly affordable!
 
-Get the best live chat features starting **as low as $2.9/month** with 14 day free trial (no credit card required).
+Get the best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
 Cancel, upgrade or downgrade your chat subscription at any time.
 
 All plans are discounted up to 33% for yearly subscriptions!
