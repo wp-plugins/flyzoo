@@ -78,7 +78,6 @@ Need another language? Write us!
 1. Install and activate the plugin from your WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
-
 **1) Create your account**
 
 3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
