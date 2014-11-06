@@ -39,7 +39,7 @@ grow your community with chat rooms and private (one-to-one) conversations.
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
-* Private and Group Chat History
+* Chat History
 
 * Multilanguage: localizations available in multiple languages
 
