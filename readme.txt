@@ -17,7 +17,7 @@ grow your community with chat rooms and private (one-to-one) conversations.
 
 * Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with automatic preview and more... 
 
-* Live Support: help customers as they browse your website and increase sales!
+* Live Support: help customers and increase sales!
 
 * Embedded Chat Room: give direct access to a chat room by embedding it into a page (PRO Plan) 
 
