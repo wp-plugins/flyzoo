@@ -110,8 +110,8 @@ The main button will turn from "Leave a message" to "We are online".
 
 Currently we don't offer free live chat plans, but our subscriptions are incredibly affordable!
 
-Get the best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
-Cancel, upgrade or downgrade your chat subscription at any time.
+The best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
+Cancel, upgrade or downgrade your subscription at any time.
 
 All plans are discounted up to 33% for yearly subscriptions!
 
@@ -122,7 +122,8 @@ All plans are discounted up to 33% for yearly subscriptions!
 YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
 
 = How do I buy a subscription? =
-After you sign up for the free trial, you can buy your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+
+After you sign up for the free trial, you can buy your subscription and pay with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I recover or change my password? =
 
