@@ -151,24 +151,19 @@ Sure! Feel free to contact us for your feedback
 == Changelog ==
 
 = 1.4.5 =
-11.10.2014
-* Plugin optimization / removed unneaded code
+11.10.2014 * Plugin optimizations / removed unneaded code
 
 = 1.4.4 =
-10.22.2014 
-* NEW: Page Filters: enable/disable the chat on specific pages
+10.22.2014 * NEW: Page Filters: enable/disable the chat on specific pages
 
 = 1.4.3 =
-10.14.2014 
-* Fixed minor bug / missing avatars
+10.14.2014 * Fixed minor bug / missing avatars
 
 = 1.4.2 =
-10.6.2014 
-* Fixed minor bug / curl
+10.6.2014 * Fixed minor bug / curl
 
 = 1.4.1 =
-10.3.2014 
-* Fixed minor SSO bug
+10.3.2014 * Fixed minor SSO bug
 
 = 1.4.0 =
 09.26.2014
