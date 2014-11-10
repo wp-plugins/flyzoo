@@ -3,7 +3,7 @@
 Plugin Name: Flyzoo - Live Support & Group Chat 
 Plugin URI: http://www.flyzoo.co/
 Description: All you need to chat on your website: Live Support Chat, Group Chats and Real Time Visitors Tracking!
-Version: 1.4.4
+Version: 1.4.5
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
@@ -63,9 +63,7 @@ function flyzoo_show_page() {
 
     $matched = flyzoo_check_regex($currentpath, $pagelist);
 
-      echo("MATCH >".$matched);
-
-	$matched = ($mode == '2')?(!$matched):$matched;
+    $matched = ($mode == '2')?(!$matched):$matched;
   }
   else if($mode == '2'){
     $matched = TRUE;

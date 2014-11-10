@@ -151,12 +151,16 @@ Sure! Feel free to contact us for your feedback
 == Changelog ==
 
 = 1.4.4 =
+
+11.10.2014
+* Minor optimizations
+
 10.22.2014 
 * NEW: Page Filters: enable/disable the chat on specific pages
 
 = 1.4.3 =
 10.14.2014 
-* Fixed minor but / missing avatars
+* Fixed minor bug / missing avatars
 
 = 1.4.2 =
 10.6.2014 
