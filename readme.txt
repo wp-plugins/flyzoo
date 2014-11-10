@@ -46,7 +46,7 @@ grow your community with live chat rooms and private (one-to-one) conversations.
 * No coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
-###Live Support Features###  
+###Live Support###  
 
 Live support chat has proven itself essential to increase conversions and sales.
 
@@ -81,7 +81,7 @@ Need another language? Write us!
 **1) Create your account**
 
 3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
-4. Enter your website address, click next and copy your Flyzoo Application ID
+4. Enter your website url, click next and copy your Flyzoo Application ID
 5. Paste your Flyzoo Application ID and save the configuration
 
 **Done!**
@@ -96,6 +96,10 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 5. Chat colors and features are customizable
 
 == Frequently Asked Questions ==
+
+= Can I test the chat on my localhost =
+
+Sure! You still need to join using a real address, but you'll be able to test the chat on your localhost.
 
 = How do I go online and chat with my visitors? =
 
