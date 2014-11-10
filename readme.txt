@@ -150,11 +150,11 @@ Sure! Feel free to contact us for your feedback
 
 == Changelog ==
 
-= 1.4.4 =
-
+= 1.4.5 =
 11.10.2014
-* Minor optimizations
+* Plugin optimization / removed unneaded code
 
+= 1.4.4 =
 10.22.2014 
 * NEW: Page Filters: enable/disable the chat on specific pages
 
