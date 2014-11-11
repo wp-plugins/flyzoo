@@ -61,7 +61,9 @@ All the most important insights are available at a glance:
 
 ####Languages####  
 
-Chat is available in English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese, Bulgarian
+The chat interface will follow the browser's language settings. 
+
+Available languages: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian and Persian (Farsi). Coming soon: Vietnamese, Bulgarian
 
 Need another language? Write us!
 
@@ -75,7 +77,7 @@ Need another language? Write us!
 
 **2) Install the Plugin**
  
-1. Install and activate the plugin from your WordPress Admin
+1. Install and activate the chat plugin from your WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
 **1) Create your account**
