@@ -99,7 +99,7 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 
 = Can I test the chat on my localhost =
 
-Sure! You still need to join using a real address, but you'll be able to test the chat on your localhost.
+Yes, but you still need to provide a real url when you sign up.
 
 = How do I go online and chat with my visitors? =
 
