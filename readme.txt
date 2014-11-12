@@ -17,9 +17,9 @@ grow your community with live chat rooms and private (one-to-one) conversations.
 
 * Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with automatic preview and more... 
 
-* Live Support: simple but effective tool to help customers and increase sales!
+* Embeddable Chat Rooms: give direct access to a chat room by embedding it into a page (PRO Plan) 
 
-* Embeddable Chat Room: give direct access to a chat room by embedding it into a page (PRO Plan) 
+* Live Support: simple but effective tool to help customers and increase sales!
 
 * Track Visitors Live: see who is online and send chat invitations to potential customers
 
