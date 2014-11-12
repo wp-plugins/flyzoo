@@ -75,14 +75,14 @@ Need another language? Write us!
 
 **2) Install the Plugin**
  
-1. Install and activate the chat plugin from your WordPress Admin
+1. Install and activate the chat plugin from the WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
 **1) Create your account**
 
 3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
-4. Enter your website url, click next and copy your Flyzoo Application ID
-5. Paste your Flyzoo Application ID and save the configuration
+4. Enter the url, click next and copy your Flyzoo Application ID
+5. Paste the Flyzoo Application ID and save the configuration
 
 **Done!**
 
