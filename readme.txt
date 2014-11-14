@@ -29,7 +29,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Single Sign On: login and chat using existing WordPress accounts
 
-* Performance: cloud-based (hosted) chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* Performance: cloud-based, hosted chat built to ensure a fast chat message delivery without overloading your server
 
 * Multiple Operators/Moderators: live support requests are automatically routed to the first available operator
 
