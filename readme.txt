@@ -33,7 +33,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Multiple Operators/Moderators: live support requests are automatically routed to the first available operator
 
-* Eye-catching: crafted to offer a sleek look and feel
+* Eye-catching: designed to offer a sleek look and feel
 
 * Multiple in-browser chat windows: browse your site and chat at the same time!
 
