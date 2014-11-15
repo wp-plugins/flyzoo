@@ -112,7 +112,7 @@ The main button will turn from "Leave a message" to "We are online".
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions are incredibly affordable!
+Currently we don't offer free live chat plans, but our subscriptions are very affordable!
 
 The best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
 Cancel, upgrade or downgrade your subscription at any time.
