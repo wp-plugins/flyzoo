@@ -173,7 +173,7 @@ Sure! Feel free to contact us for your feedback
 09.26.2014
 * NEW: Chat from your site AND/OR from the WordPress Admin
 * NEW: Easier to install!
-* NEW: WordPress Logout turns the chat off
+* NEW: WordPress Log out turns the chat off
 
 = 1.2.1 =
 05.19.2014
