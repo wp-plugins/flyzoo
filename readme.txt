@@ -104,9 +104,8 @@ Yes, but you still need to provide a real url when you sign up.
 = How do I go online and chat with my visitors? =
 
 1. Visit your website and locate the chat widget at the bottom of the page
-2. Click on MENU
-3. Click on "Log in or Sign up" 
-4. Enter the e-mail and password you used to join Flyzoo
+2. Click on MENU > "Log in or Sign up" 
+3. Enter the e-mail and password you used to join Flyzoo
 
 The main button will turn from "Leave a message" to "We are online".
 
