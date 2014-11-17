@@ -48,9 +48,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 ###Live Support###  
 
-Live support chat has proven itself essential to increase conversions and sales.
-
-Meet your visitors, see where they came from and what page they are on: make customers happy and close more sales!
+Meet your visitors, see where they came from and what page they are on: **Live support chat** has proven itself essential to increase conversions and drive sales.
 
 All the most important insights are available at a glance:
 
@@ -58,6 +56,8 @@ All the most important insights are available at a glance:
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
 * Referrer
 * Returning visitor
+
+Make customers happy and close more sales!
 
 ####Languages####  
 
