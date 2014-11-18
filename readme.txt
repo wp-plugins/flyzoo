@@ -21,7 +21,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Live Support: simple but effective tool to help customers and increase sales!
 
-* Track Visitors Live: see who is online and send chat invitations to potential customers
+* Track Visitors Live: see who is online, target and invite potential customers to chat
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
