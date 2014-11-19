@@ -170,7 +170,7 @@ Sure! Feel free to contact us for your feedback
 
 = 1.4.0 =
 09.26.2014
-* NEW: Chat from your site AND/OR from the WordPress Admin
+* NEW: Chat from your site and/or from the WordPress Admin
 * NEW: Easier to install!
 * NEW: WordPress Log out turns the chat off
 
