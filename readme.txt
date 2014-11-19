@@ -97,7 +97,7 @@ Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_so
 
 == Frequently Asked Questions ==
 
-= Can I test the chat on my localhost =
+= Can I test the chat on my localhost? =
 
 Yes, but you still need to provide a real url when you sign up.
 
