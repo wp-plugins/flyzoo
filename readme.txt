@@ -21,7 +21,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Live Support: simple but effective tool to help customers and increase sales!
 
-* Track Visitors Live: see who is online, target and invite potential customers to chat
+* Track Visitors Live: see who is online, identify potential customers and invite them to chat
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
@@ -50,7 +50,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 Meet your visitors, see where they came from and what page they are on: **Live support chat** has proven itself essential to increase conversions and drive sales.
 
-All the most important insights are available at a glance:
+The most important insights are available at a glance:
 
 * Current visited page and page views
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
