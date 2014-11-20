@@ -81,12 +81,12 @@ Need another language? Write us!
 **1) Create your account**
 
 3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
-4. Enter the url, click next and copy your Flyzoo Application ID
+4. Enter your URL, click next and copy your Flyzoo Application ID
 5. Paste the Flyzoo Application ID and save the configuration
 
 **Done!**
 
-Customize your widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
+Customize your chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 == Screenshots ==
 1. Live Support Chat with Real Time Visitors Monitoring
