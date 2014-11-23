@@ -15,7 +15,7 @@ Need a chat for your website? Flyzoo is the perfect live chat for your e-commerc
 All you need to chat on your website! Engage your customers with live support chat,
 engage and grow your community in live chat rooms and private (one-to-one) conversations. 
 
-* Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with preview and more... 
+* Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with preview and more... 
 
 * Embeddable Chat Rooms: access a chat room directly by embedding it into a page (PRO Plan) 
 
@@ -25,7 +25,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
-* Customize colors, features and greeting messages
+* Customize colors, features layout and greeting messages
 
 * Single Sign On: login and chat using existing WordPress accounts
 
@@ -38,6 +38,8 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 * Multiple in-browser chat windows: browse your site and chat at the same time!
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
+
+* Chat Moderation: ban users by IP and block forbidden words
 
 * Chat History
 
