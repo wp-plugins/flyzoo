@@ -25,7 +25,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
-* Customize colors, features layout and greeting messages
+* Customize colors, features and greeting messages
 
 * Single Sign On: login and chat using existing WordPress accounts
 
