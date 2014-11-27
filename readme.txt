@@ -45,7 +45,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Multilanguage
 
-* No coding skills required! [step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* No coding skills required! [Quick guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support###  
