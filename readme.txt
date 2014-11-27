@@ -50,7 +50,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 ###Live Support###  
 
-Meet your visitors, see where they came from and what page they are on: **Live support chat** has proven itself essential to increase conversions and drive sales.
+Meet your visitors, see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and drive sales.
 
 The most important insights are available at a glance:
 
@@ -65,7 +65,7 @@ Make customers happy and close more sales!
 
 Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic (ar-MA).
 
-Need another language? Write us!
+Need another language? Please write us!
 
 ####Questions? Contact us!####
 
