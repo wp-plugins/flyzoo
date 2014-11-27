@@ -63,7 +63,7 @@ Make customers happy and close more sales!
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic (ar-MA).
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic.
 
 Need another language? Please write us!
 
