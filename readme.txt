@@ -12,7 +12,7 @@ Need a chat for your website? Flyzoo is the perfect live chat for your e-commerc
 
 == Description == 
 
-All you need to chat on your website! Meet your customers with live support chat,
+All you need to chat on your website! Help customers with live support chat,
 engage and grow your community in live chat rooms and private (one-to-one) conversations. 
 
 * Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with preview and more... 
@@ -35,7 +35,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Eye-catching: designed to offer a sleek look and feel
 
-* Multiple in-browser chat windows: browse your site and chat at the same time!
+* Multiple in-browser chat: browse site and chat at the same time!
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
@@ -80,22 +80,22 @@ Need another language? Please write us!
 1. Install and activate the chat plugin from the WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
-**1) Create your account**
+**1) Create a Flyzoo account**
 
-3. Create your account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
+3. Create a new account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
 4. Enter your URL, click next and copy your Flyzoo Application ID
 5. Paste the Flyzoo Application ID and save the configuration
 
 **Done!**
 
-Customize your chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
+Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
 
 == Screenshots ==
 1. Live Support Chat with Real Time Visitors Monitoring
-2. Move, resize and minimize chat 
-3. Chat with emoticons, sound notifications and media content preview
-4. Responsive chat layout on mobile devices
-5. Chat colors and features are customizable
+2. Chat windows can be moved, resized and minimized 
+3. Emoticons, sound notifications and media content preview for a rich chat experience
+4. Chat layout is responsive on mobile devices
+5. Colors and features are fully customizable
 
 == Frequently Asked Questions ==
 
@@ -136,11 +136,11 @@ After you sign up for the free trial, you can buy your subscription and pay with
 
 = Will the chat slow down my site? =
 
-No. The chat is loaded asynchronously after your main content, our servers will handle all the chat workload.
+No. The chat is loaded asynchronously after the main content, our servers will handle all the chat workload.
 
 = After removing the chat plugin it still shows on the frontend, how do I remove it completely? =
 
-Probably your pages are being cached. Please try the following:
+Probably website pages are being cached. Please try the following:
 
 - refresh your browser's cache
 - if you are using a caching plugin please, force a refresh
@@ -151,7 +151,7 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 
 = Can I suggest a feature?  =
 
-Sure! Feel free to contact us for your feedback
+Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
 
