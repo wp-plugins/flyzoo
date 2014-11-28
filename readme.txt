@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, free live chat, group chat, live chat, plugin, Post, widget, livechat, admin, live support, support chat, help desk, support, comments, live chat software, customer chat, buddypress
+Tags: chat, chat plugin, free live chat, group chat, live chat, plugin, widget, livechat, live support, support chat, help desk, support, live chat software, customer chat, chat software, buddypress
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -21,7 +21,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Live Support: simple but effective tool to help customers and increase sales!
 
-* Track Visitors Live: see who is online, identify and chat with potential customers
+* Track Visitors Live: monitor and chat with visitors surfing your website in real-time.  
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
@@ -59,11 +59,11 @@ The most important insights are available at a glance:
 * Referrer
 * Returning visitor
 
-Make customers happy and close more sales!
+See who is online, identify and chat with potential customers to close more sales!
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic.
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish.
 
 Need another language? Please write us!
 
