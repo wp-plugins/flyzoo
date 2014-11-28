@@ -25,7 +25,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
 
-* Customize colors, features and greeting messages
+* Customize chat colors, features and greeting messages
 
 * Single Sign On: login and chat using existing WordPress accounts
 
@@ -45,7 +45,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * Multilanguage
 
-* No coding skills required! [Quick guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* No coding skills required! [Install Chat Guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support###  
