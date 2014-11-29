@@ -138,9 +138,9 @@ After you sign up for the free trial, you can buy your subscription and pay with
 
 No. The chat is loaded asynchronously after the main content, our servers will handle all the chat workload.
 
-= After removing the chat plugin it still shows on the frontend, how do I remove it completely? =
+= After removing the chat plugin, it still shows on the frontend, how do I remove it completely? =
 
-Probably website pages are being cached. Please try the following:
+Probably pages are being cached. Please try to:
 
 - refresh your browser's cache
 - if you are using a caching plugin please, force a refresh
