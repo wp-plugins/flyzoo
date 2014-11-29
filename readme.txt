@@ -39,7 +39,7 @@ engage and grow your community in live chat rooms and private (one-to-one) conve
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
-* Chat Moderation: ban users by IP and block forbidden words
+* Moderation: ban users by IP and remove forbidden words from chat rooms
 
 * Chat History
 
@@ -63,9 +63,9 @@ See who is online, identify and chat with potential customers to close more sale
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish.
+Interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish.
 
-Need another language? Please write us!
+Need another language? Contact us!
 
 ####Questions? Contact us!####
 
