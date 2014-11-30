@@ -101,13 +101,19 @@ Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_
 
 = Can I test the chat on my localhost? =
 
-Yes, but you still need to provide a real url when you sign up.
+Yes, but you still need to provide your production url when you sign up.
 
 = How do I go online and chat with my visitors? =
 
 1. Visit your website and locate the chat widget at the bottom of the page
 2. Click on MENU > "Log in or Sign up" 
 3. Enter the e-mail and password you used to join Flyzoo
+
+= How do I embed a chat room into a page? =
+
+Log into the Dashboard, click on CHATS, locate your chatroom and click
+on "Get embedding code". Here you find the shortcode or javascript version.
+(Please note: chat room embedding requires at least the PRO plan)
 
 The main button will turn from "Leave a message" to "We are online".
 
