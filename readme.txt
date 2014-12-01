@@ -75,7 +75,7 @@ Need another language? Contact us!
 
 [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-**2) Install the Plugin**
+**2) Install the Chat Plugin**
  
 1. Install and activate the chat plugin from the WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
