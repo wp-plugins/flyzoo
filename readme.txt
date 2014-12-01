@@ -45,7 +45,7 @@ engage and grow your community in chat rooms and private (one-to-one) conversati
 
 * Multilanguage
 
-* No coding skills required! [Install Chat Guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+* No coding skills required! [Quick Guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
 ###Live Support###  
