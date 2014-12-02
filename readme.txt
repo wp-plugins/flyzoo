@@ -31,7 +31,7 @@ engage and grow your community in chat rooms and private (one-to-one) conversati
 
 * Performance: cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
-* Multiple Operators/Moderators: live support requests are automatically routed to the first available operator
+* Multiple Operators/Moderators: online support requests are automatically routed to the first available operator
 
 * Eye-catching: designed to offer a sleek look and feel
 
