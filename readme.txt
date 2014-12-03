@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat online, chat widget, chat plugin, group chat, free live chat, live chat, plugin, widget, livechat, live support, support chat, help desk, support, live chat software, chat, customer support, buddypress
+Tags: chat online, chat widget, chat plugin, group chat, free live chat, live chat, widget, admin, livechat, live support, support chat, help desk, support, live chat software, chat, customer support, buddypress
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
