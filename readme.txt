@@ -112,8 +112,9 @@ Yes, but you still need to provide your production url when you sign up.
 = How do I embed a chat room into a page? =
 
 Log into the Dashboard, click on CHATS, locate your chatroom and click
-on "Get embedding code". Here you find the shortcode or javascript version.
-(Please note: chat room embedding requires at least the PRO plan)
+on "Get embedding code". Here you find the shortcode (or javascript), copy the
+shortcode and past it into your preferred page.
+(Please note: to embed a chat room you need at least the PRO plan)
 
 The main button will turn from "Leave a message" to "We are online".
 
