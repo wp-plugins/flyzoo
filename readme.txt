@@ -15,7 +15,7 @@ Need a chat for your website? Flyzoo is the perfect live chat for your e-commerc
 All you need to chat on your website! Help customers with live support chat,
 engage and grow your community in chat rooms and private (one-to-one) conversations. 
 
-* Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video sharing with preview. 
+* Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
 * Embeddable Chat Rooms: access a chat room directly by embedding it into a page (PRO Plan) 
 
@@ -143,7 +143,7 @@ After you sign up for the free trial, you can buy your subscription and pay with
 
 = Will the chat slow down my site? =
 
-No. The chat is loaded asynchronously after the main content, our servers will handle all the chat workload.
+No, chat is loaded asynchronously after the main content, our servers will handle all the chat workload.
 
 = After removing the chat plugin, it still shows on the frontend, how do I remove it completely? =
 
