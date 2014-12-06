@@ -39,7 +39,7 @@ engage and grow your community in chat rooms and private (one-to-one) conversati
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
-* Moderation: ban users by IP and automatically remove forbidden words from chat rooms
+* Moderation: ban users andl block IPs. Customize and automatically remove forbidden words from chat rooms!
 
 * Chat History
 
