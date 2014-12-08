@@ -35,7 +35,7 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 * Eye-catching: designed to offer a sleek look and feel
 
-* Responsive: works on tablets and mobile devices
+* Responsive: chat works on tablets and mobile devices
 
 * Multiple in-browser chat: browse site and chat at the same time!
 
