@@ -61,7 +61,7 @@ The most important insights are available at a glance:
 * Referrer
 * Returning visitor
 
-Identify and chat with potential customers to increaes sales!
+Identify and chat with potential customers to increase sales!
 
 ####Languages####  
 
