@@ -50,7 +50,7 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 * No coding skills required! [Quick Guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 
-###Live Support###  
+###Live Support Chat###  
 
 Meet your visitors, see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and drive sales.
 
