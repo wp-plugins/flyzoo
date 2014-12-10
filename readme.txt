@@ -19,7 +19,7 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 * Embeddable Chat Rooms: access a chat room directly by embedding it into a page (PRO Plan) 
 
-* Live Support: the easiest but most effective tool to make customers happy and increase sales!
+* Live Support Chat: connect to your customers and increase sales!
 
 * Track Visitors Live: monitor traffic and chat with visitors in real-time.  
 
