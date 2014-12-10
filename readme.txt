@@ -21,9 +21,9 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 * Live Support Chat: connect to your customers and increase sales!
 
-* Track Visitors Live: monitor traffic and chat with visitors in real-time.  
+* Track Visitors Live: monitor and chat with visitors in real-time.  
 
-* Pop out chat windows: enjoy the chat in a floating browser window to improve the user experience
+* Pop out chat windows: chat in floating browser windows to improve the user experience
 
 * Customize chat colors, features and greeting messages
 
