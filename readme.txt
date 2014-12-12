@@ -21,17 +21,17 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 * Live Support Chat
 
+* Multiple Operators/Moderators: online support requests are automatically routed to the first available operator
+
 * Track Visitors Live: monitor visits and chat with visitors in real-time.  
 
-* Pop out chat windows: chat in floating browser windows to improve the user experience
+* Pop out chat windows: chat in floating browser windows for a better user experience
 
 * Customize chat colors, features and greeting messages
 
 * Single Sign On: users can login and chat using their existing WordPress accounts
 
 * Performance: cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
-
-* Multiple Operators/Moderators: online support requests are automatically routed to the first available operator
 
 * Eye-catching: designed to offer a sleek look and feel
 
