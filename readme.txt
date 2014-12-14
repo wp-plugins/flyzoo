@@ -15,7 +15,7 @@ Need a chat for your website? Flyzoo is the perfect live chat for your e-commerc
 All you need to chat on your website! Help customers with live support chat,
 engage and grow your community in chat rooms and private (one-to-one chat) conversations. 
 
-Start you 14-day free trial now!
+Start your 14-day free trial now!
 
 * Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
