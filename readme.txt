@@ -103,6 +103,15 @@ Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_
 
 == Frequently Asked Questions ==
 
+= Is that a free live chat? =
+
+Currently we don't offer free live chat plans, but our subscriptions are very affordable!
+
+The best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
+Cancel, upgrade or downgrade your subscription at any time.
+
+All plans are discounted up to 33% for yearly subscriptions!
+
 = Can I test the chat on my localhost? =
 
 Yes, but you still need to provide your production url when you sign up.
@@ -113,6 +122,8 @@ Yes, but you still need to provide your production url when you sign up.
 2. Click on MENU > "Log in or Sign up" 
 3. Enter the e-mail and password you used to join Flyzoo
 
+The main button will turn from "Leave a message" to "We are online".
+
 = How do I embed a chat room into a page? =
 
 Log into the Dashboard, click on CHATS, locate your chatroom and click
@@ -120,16 +131,6 @@ on "Get embedding code". Here you find the shortcode (or javascript), copy the
 shortcode and past it into your preferred page.
 (Please note: to embed a chat room you need at least the PRO plan)
 
-The main button will turn from "Leave a message" to "We are online".
-
-= Is that a free live chat? =
-
-Currently we don't offer free live chat plans, but our subscriptions are very affordable!
-
-The best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
-Cancel, upgrade or downgrade your subscription at any time.
-
-All plans are discounted up to 33% for yearly subscriptions!
 
 [Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
