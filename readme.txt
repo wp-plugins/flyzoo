@@ -105,12 +105,16 @@ Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions are very affordable!
+Currently we don't offer free live chat plans, anyway our plans are very affordable.
 
-The best live chat features starting **as low as $4.9/month** with 14 day free trial (no credit card required).
-Cancel, upgrade or downgrade your subscription at any time.
+Get the best live chat features starting **as low as $2.6/month** for the yearly subscription.  
+Start your 14-day free trial - no credit card required - and cancel, upgrade or downgrade your subscription at any time.
 
-All plans are discounted up to 33% for yearly subscriptions!
+All plans are discounted up to 33% for the yearly subscriptions!
+
+= I need more time for testing, can you extend my trial period.? =
+
+Sure! Just write us and we'll glad to extend your trial.
 
 = Can I test the chat on my localhost? =
 
