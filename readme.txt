@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, chat plugin, group chat, free live chat, live chat, widget, support plugin, livechat, live support, support chat, live chat software, chat room, buddypress
+Tags: chat, chat plugin, group chat, free live chat, live chat, widget, support, livechat, live support, support chat, live chat software, chat room, buddypress
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -58,7 +58,7 @@ Meet your visitors, see where they came from and what page they are on: **live s
 
 The most important insights are available at a glance:
 
-* Current visited page and page views
+* Current visited page and pageviews
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
 * Referrer
 * Returning visitor
