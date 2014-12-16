@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, chat plugin, group chat, free live chat, live chat, widget, support, livechat, live support, support chat, live chat software, chat room, buddypress
+Tags: chat, chat plugin, group chat, free live chat, live chat, widget, livechat, live support, support chat, live chat software, chat room, buddypress
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -37,9 +37,9 @@ Start your 14-day free trial now!
 
 * Eye-catching: designed to offer a sleek look and feel
 
-* Responsive: chat works on tablets and mobile devices
+* Responsive on tablets and mobile devices
 
-* Multiple in-browser chat: browse site and chat at the same time!
+* Multiple in-browser chat: browse your site and chat at the same time!
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
@@ -49,12 +49,9 @@ Start your 14-day free trial now!
 
 * Multilanguage
 
-* No coding skills required! [Quick Guide >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
-
-
 ###Live Support Chat###  
 
-Meet your visitors, see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and drive sales.
+Meet your visitors, see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and sales.
 
 The most important insights are available at a glance:
 
