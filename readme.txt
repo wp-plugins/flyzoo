@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, chat plugin, group chat, free live chat, live chat, widget, livechat, live support, support chat, live chat software, chat room, buddypress, comment, admin
+Tags: chat, chat plugin, group chat, free live chat, live chat, widget, live support, support chat, live chat software, chat room, buddypress, comment, admin
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.0
@@ -117,7 +117,7 @@ Sure! Just write us and we'll glad to extend your trial.
 
 Yes, but you still need to provide your production url when you sign up.
 
-= How do I go online and chat with my visitors? =
+= How do I go online and chat with visitors? =
 
 1. Visit your website and locate the chat widget at the bottom of the page
 2. Click on MENU > "Log in or Sign up" 
