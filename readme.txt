@@ -21,9 +21,9 @@ Start your 14-day free trial now!
 
 * Embeddable Chat Rooms: access a chat room directly by embedding it into a page (PRO Plan) 
 
-* Live Support Chat: easy and effective, support requests are automatically routed to the first available operator
+* Easy and effective **live support chat**
 
-* Multiple Operators and Moderators
+* Multiple Operators and Moderators: support chat requests are automatically routed to the first available operator
 
 * Track Visitors Live: monitor visits and chat with visitors in real-time.  
 
