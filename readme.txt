@@ -3,7 +3,7 @@ Contributors: Flyzoo
 Tags: chat, chat plugin, group chat, free live chat, live chat, widget, live support, support chat, livechat, support, e-commerce, live chat software, chat room, buddypress, comment, admin, plugin
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -105,7 +105,7 @@ Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_
 Currently we don't offer free live chat plans, anyway our plans are very affordable.
 
 Get the best live chat features starting **as low as $2.6/month** for the yearly subscription.  
-Start your 14-day free trial - no credit card required - and cancel, upgrade or downgrade your subscription at any time.
+Try Flyzoo free for 14 days (no credit card required) and cancel, upgrade or downgrade your subscription at any time.
 
 All plans are discounted up to 33% for the yearly subscriptions!
 
