@@ -19,7 +19,7 @@ Start your 14-day free trial now!
 
 * Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
-* Embeddable Chat Rooms: access a chat room directly by embedding it into a page (PRO Plan) 
+* Embeddable Chat Rooms: embed a group chat into a page (PRO Plan) 
 
 * Live Support Chat
 
@@ -45,7 +45,7 @@ Start your 14-day free trial now!
 
 * Moderation: ban users and block IPs, clean chat rooms from forbidden words
 
-* Chat History
+* Chat History & Transcripts
 
 * Multilanguage
 
