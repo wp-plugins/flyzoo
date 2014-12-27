@@ -33,7 +33,7 @@ Start your 14-day free trial now!
 
 * Single Sign On: users can login and chat using their existing WordPress accounts
 
-* Performance: cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* Cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
 
 * Eye-catching: designed to offer a sleek look and feel
 
