@@ -89,7 +89,7 @@ Coming soom: Japanese, Swedish. Need another language? Contact us!
 
 **Done!**
 
-Customize chat features from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress) !
+Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 == Screenshots ==
 1. Live Support Chat with Real Time Visitors Monitoring
