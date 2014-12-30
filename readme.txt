@@ -17,11 +17,11 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 Start your 14-day free trial now!
 
+* Live Support Chat
+
 * Multiple Chat Rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
 * Embeddable Chat Rooms: embed a group chat into a page (PRO Plan) 
-
-* Live Support Chat
 
 * Multiple Operators and Moderators: support chat requests are automatically routed to the first available operator
 
@@ -33,13 +33,13 @@ Start your 14-day free trial now!
 
 * Single Sign On: users can login and chat using their existing WordPress accounts
 
-* Cloud-based, hosted chat built on the latest technologies to ensure a fast chat message delivery without overloading your server
+* Cloud-based, hosted chat built to ensure a fast message delivery without overloading your server
 
 * Eye-catching: designed to offer a sleek look and feel
 
-* Responsive on tablets and mobile devices
+* Responsive chat on tablets and mobile devices
 
-* Multiple in-browser chats: browse your site and chat at the same time!
+* Multiple in-browser windows: browse your site and chat at the same time!
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
