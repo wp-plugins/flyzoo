@@ -17,13 +17,13 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 
 Start your 14-day free trial now!
 
-* Live Support Chat
+
 
 * Multiple chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
 * Embeddable group chats: embed a chat into a page to improve user experience (PRO Plan) 
 
-* Multiple operators and moderators: support chat requests are automatically routed to the first available operator
+* Live Support Chat with multiple operators: support chat requests are automatically routed to the first available operator
 
 * Track visitors live: monitor visits and chat with users in real-time.  
 
