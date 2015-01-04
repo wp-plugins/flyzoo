@@ -18,16 +18,15 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 Start your 14-day free trial now!
 
 
-
 * Multiple chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
 
-* Embeddable group chats: embed a chat into a page to improve user experience (PRO Plan) 
+* Embeddable group chats: embed a chat room into a page to improve user experience (PRO Plan) 
 
 * Live Support Chat with multiple operators: support chat requests are automatically routed to the first available operator
 
 * Track visitors live: monitor visits and chat with users in real-time.  
 
-* Pop out chat windows: chat in floating browser windows for a better user experience
+* Pop out chat: open group chats in external browser windows 
 
 * Customize chat colors, features and greeting messages
 
