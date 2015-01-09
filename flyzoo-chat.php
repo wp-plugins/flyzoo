@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Flyzoo - Live Support & Group Chat 
+Plugin Name: Flyzoo Chat - Group & Live Support Chat 
 Plugin URI: http://www.flyzoo.co/
 Description: All you need to chat on your website: Live Support Chat, Group Chats and Real Time Visitors Tracking!
-Version: 1.4.5
+Version: 1.4.6
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
@@ -146,7 +146,7 @@ function flyzoo_get_wp_username()
     
 }
 
-function get_avatar_url($get_avatar)
+function flyzoo_get_avatar_url($get_avatar)
 {
     preg_match("/src='(.*?)'/i", $get_avatar, $matches);
     return $matches[1];
@@ -161,7 +161,7 @@ function flyzoo_get_wp_avatar()
         } else {
             
             try {
-                return get_avatar_url(get_avatar($user->ID));
+                return flyzoo_get_avatar_url(get_avatar($user->ID));
             }
             catch (Exception $e) {
                 return "";
@@ -224,11 +224,8 @@ class FlyzooWidget
             
             if (get_option('FlyzooApplicationID') == '') {
                 $this->addNewWebsite();
-            }
-            
-        }
-        
-        
+            }          
+        }   
     }
     
     function setOptions()
@@ -239,7 +236,6 @@ class FlyzooWidget
         register_setting('flyzoo-options', 'FlyzooHideInDashboard');
         register_setting('flyzoo-options', 'FlyzooPageFilterList');
         register_setting('flyzoo-options', 'FlyzooPageFilterMode');    
-
     }
     
     public function adminMenu()
@@ -249,7 +245,7 @@ class FlyzooWidget
             $this,
             'createAdminPage'
         ), content_url() . '/plugins/flyzoo/images/flyzoo-icon.png');
-        
+      
     }
     
     public function getSignupUrl()

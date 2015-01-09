@@ -167,6 +167,9 @@ Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
 
+= 1.4.6 =
+01.09.2015 * Fixed a potential conflict using avatars with some themes
+
 = 1.4.5 =
 11.10.2014 * Plugin optimizations / code improvements
 
