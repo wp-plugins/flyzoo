@@ -18,13 +18,13 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 Start your 14-day free trial now!
 
 
-* Multiple chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview. 
+* Multiple chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* Embeddable group chats: embed a chat room into a page to improve user experience (PRO Plan) 
+* Embeddable group chats: embed a chat room into your layout to improve user experience! (PRO Plan) 
 
 * Live Support Chat with multiple operators: support chat requests are automatically routed to the first available operator
 
-* Track visitors live: monitor visits and chat with users in real-time.  
+* Track visitors live: monitor visits and chat with users in real-time  
 
 * Pop out chat: open group chats in external browser windows 
 
@@ -38,7 +38,7 @@ Start your 14-day free trial now!
 
 * Responsive chat on tablets and mobile devices
 
-* Multiple in-browser windows: browse your site and chat at the same time!
+* Multiple in-browser, floating chat windows: browse your site and chat at the same time
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
@@ -108,7 +108,7 @@ Try Flyzoo free for 14 days (no credit card required) and cancel, upgrade or dow
 
 All plans are discounted up to 33% for the yearly subscriptions!
 
-= I need more time for testing, can you extend my trial period.? =
+= I need more time for testing, can you extend my trial period? =
 
 Sure! Just write us and we'll glad to extend your trial.
 
