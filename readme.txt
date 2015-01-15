@@ -102,7 +102,7 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 Currently we don't offer free live chat plans, anyway our plans are very affordable.
 
-Get the best live chat features starting **as low as $2.6/month** for the yearly subscription.  
+Get the best live chat features starting **as low as $1.9/month** for the yearly subscription.  
 Try Flyzoo free for 14 days (no credit card required) and cancel, upgrade or downgrade your subscription at any time.
 
 All plans are discounted up to 33% for the yearly subscriptions!
@@ -129,7 +129,6 @@ Log into the Dashboard, click on CHATS, locate your chatroom and click
 on "Get embedding code". Here you find the shortcode (or javascript), copy the
 shortcode and past it into your preferred page.
 (Please note: to embed a chat room you need at least the PRO plan)
-
 
 [Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
