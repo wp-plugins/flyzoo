@@ -63,9 +63,8 @@ Identify and chat with potential customers to increase sales!
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish.
-
-Coming soon: Hebrew, Japanese, Swedish. Need another language? Contact us!
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish. 
+Need another language? Contact us!
 
 ####Questions? Contact us!####
 
