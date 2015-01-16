@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Need a chat for your website? Flyzoo is the perfect chat for your community or e-commerce!
+Need a chat for your website? Flyzoo is the perfect chat for any website!
 
 == Description == 
 
@@ -100,12 +100,13 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, anyway our plans are very affordable.
+Currently we don't offer free live chat plans, but our plans are very affordable.
 
-Get the best live chat features starting **as low as $1.9/month** for the yearly subscription.  
-Try Flyzoo free for 14 days (no credit card required) and cancel, upgrade or downgrade your subscription at any time.
+Grab your chat now, starting **as low as $1.9/month** for the yearly subscription!
+  
+Try it free for 14 days (no credit card required) and cancel, upgrade or downgrade your subscription at any time.
 
-All plans are discounted up to 33% for the yearly subscriptions!
+Save up to 33% for the yearly subscriptions!
 
 = I need more time for testing, can you extend my trial period? =
 
