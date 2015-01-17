@@ -26,15 +26,15 @@ Start your 14-day free trial now!
 
 * Track visitors live: monitor visits and chat with users in real-time  
 
-* Pop out chat: open group chats in popup browser windows 
+* Pop out chat: open group chats in popup windows 
 
 * Customize chat colors, features and greeting messages
 
-* Single Sign On: users can login and chat using their existing WordPress accounts
+* Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
 * Cloud-based, hosted chat built to ensure a fast message delivery without overloading your server
 
-* Eye-catching: designed to offer a sleek look and feel
+* Eye-catching design
 
 * Responsive chat on tablets and mobile devices
 
