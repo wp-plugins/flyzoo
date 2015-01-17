@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Need a chat for your website? Flyzoo is the perfect chat for any community or e-commerce.
+Need a chat for your website? Flyzoo is the perfect chat for your blog, community or e-commerce.
 
 == Description == 
 
@@ -26,7 +26,7 @@ Start your 14-day free trial now!
 
 * Track visitors live: monitor visits and chat with users in real-time  
 
-* Pop out chat: open group chats in external browser windows 
+* Pop out chat: open group chats in popup browser windows 
 
 * Customize chat colors, features and greeting messages
 
@@ -76,7 +76,7 @@ Need another language? Contact us!
 
 **2) Install the Chat Plugin**
  
-1. Install and activate the chat plugin from the WordPress Admin
+1. Install and activate the chat plugin from your WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
 **1) Create your administrative account on Flyzoo.co**
@@ -126,9 +126,8 @@ The main button will turn from "Leave a message" to "We are online".
 
 = How do I embed a chat room into a page? =
 
-Log into the Dashboard, click on CHATS, locate your chatroom and click
-on "Get embedding code". Here you find the shortcode (or javascript), copy the
-shortcode and past it into your preferred page.
+Log into the Dashboard, click on CHATS, locate your chatroom and click on "Get embedding code". 
+Here you find the shortcode (or javascript version): copy the shortcode and past it into your preferred page.
 (Please note: to embed a chat room you need at least the PRO plan)
 
 [Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
@@ -139,7 +138,7 @@ YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://ww
 
 = How do I buy a subscription? =
 
-After you sign up for the free trial, you can buy your subscription and pay with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+After you sign up for the free trial, you can purchase your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I recover or change my password? =
 
