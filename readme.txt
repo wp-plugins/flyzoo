@@ -34,11 +34,11 @@ Start your 14-day free trial now!
 
 * Cloud-based, hosted chat built to ensure a fast message delivery without overloading your server
 
-* Eye-catching design
+* Eye-catching
 
 * Responsive chat on tablets and mobile devices
 
-* Multiple in-browser, floating chat windows: browse your site and chat at the same time
+* In-browser chat: browse your site and chat at the same time
 
 * SSL Connection: automatic chat encryption for HTTPS/SSL sites
 
