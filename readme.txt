@@ -26,7 +26,7 @@ Start your 14-day free trial now!
 
 * Track visitors live: monitor visits and chat with users in real-time  
 
-* Pop out chat: open group chats in popup windows 
+* Pop out chats to external browser windows
 
 * Customize chat colors, features and greeting messages
 
