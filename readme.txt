@@ -34,13 +34,13 @@ Start your 14-day free trial now!
 
 * Cloud-based, hosted chat built to ensure a fast message delivery without overloading your server
 
-* Eye-catching
+* Eye-catching design
 
-* Responsive chat on tablets and mobile devices
+* Responsive on tablets and mobile devices
 
 * In-browser chat: browse your site and chat at the same time
 
-* SSL Connection: automatic chat encryption for HTTPS/SSL sites
+* SSL Connection: automatic chat encryption for HTTPS/SSL websites
 
 * Moderation: ban users and block IPs, clean chat rooms from forbidden words
 
