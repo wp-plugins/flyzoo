@@ -32,7 +32,7 @@ Start your 14-day free trial now!
 
 * Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
-* Cloud-based, hosted chat built to ensure a fast message delivery without overloading your server
+* Cloud-based (hosted) chat built to ensure a fast message delivery without overloading your server
 
 * Eye-catching design
 
@@ -44,7 +44,7 @@ Start your 14-day free trial now!
 
 * Moderation: ban users and block IPs, clean chat rooms from forbidden words
 
-* Chat and group chat history & transcripts
+* Group and private chat history & transcripts
 
 * Multilanguage
 
@@ -104,11 +104,11 @@ Currently we don't offer free live chat plans, but our plans are very affordable
 
 Grab your chat now, starting **as low as $1.9/month** for the yearly subscription!
   
-Try it free for 14 days (no credit card required) and cancel, upgrade or downgrade your subscription at any time.
+Try Flyzoo free for 14 days (no credit card required). Upgrade, downgrade or cancel your subscription at any time.
 
 Save up to 33% for the yearly subscriptions!
 
-= I need more time for testing, can you extend my trial period? =
+= I need more time to test the chat, can you extend my trial period? =
 
 Sure! Just write us and we'll glad to extend your trial.
 
@@ -124,7 +124,7 @@ Yes, but you still need to provide your production url when you sign up.
 
 The main button will turn from "Leave a message" to "We are online".
 
-= How do I embed a chat room into a page? =
+= How do I embed a group chat into a page? =
 
 Log into the Dashboard, click on CHATS, locate your chatroom and click on "Get embedding code". 
 Here you find the shortcode (or javascript version): copy the shortcode and past it into your preferred page.
