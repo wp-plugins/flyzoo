@@ -18,9 +18,9 @@ engage and grow your community in chat rooms and private (one-to-one chat) conve
 Start your 14-day free trial now!
 
 
-* Multiple chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview
+* Chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* Embeddable group chats: embed a chat room into your layout to improve user experience! (PRO Plan) 
+* Embeddable: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
 * Live Support Chat with multiple operators: support chat requests are automatically routed to the first available operator
 
