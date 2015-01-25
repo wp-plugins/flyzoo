@@ -13,18 +13,17 @@ Need a chat for your website? Flyzoo is the perfect chat for your blog, communit
 == Description == 
 
 All you need to chat on your website! Help customers with live support chat,
-engage and grow your community in chat rooms and private (one-to-one chat) conversations. 
+engage and grow your community in group chats and private (one-to-one chat) conversations. 
 
 Start your 14-day free trial now!
 
-
 * Chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* Embeddable: embed a group chat into your layout to improve user experience! (PRO Plan) 
+* Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
-* Live Support Chat with multiple operators: support chat requests are automatically routed to the first available operator
+* Live Support with multiple operators: support requests are automatically routed to the first available operator
 
-* Track visitors live: monitor visits and chat with users in real-time  
+* Real-time traffic monitor: identify and chat with potential customers to increase sales!  
 
 * Pop out chats to external browser windows
 
