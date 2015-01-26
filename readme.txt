@@ -109,7 +109,7 @@ Save up to 33% for the yearly subscriptions!
 
 = I need more time to test the chat, can you extend my trial period? =
 
-Sure! Just write us and we'll glad to extend your trial.
+Sure! Just write us and we'll glad to extend your chat trial.
 
 = Can I test the chat on my localhost? =
 
@@ -125,9 +125,10 @@ The main button will turn from "Leave a message" to "We are online".
 
 = How do I embed a group chat into a page? =
 
-Log into the Dashboard, click on CHATS, locate your chatroom and click on "Get embedding code". 
-Here you find the shortcode (or javascript version): copy the shortcode and past it into your preferred page.
-(Please note: to embed a chat room you need at least the PRO plan)
+Log into the Dashboard, click on CHATS, locate your chat room and click on "Get embedding code". 
+
+Here you find the shortcode (or javascript version). Copy the shortcode and past it into your preferred page.
+(Please note: to embed a group chat you need at least the PRO plan)
 
 [Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
@@ -137,26 +138,24 @@ YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://ww
 
 = How do I buy a subscription? =
 
-After you sign up for the free trial, you can purchase your subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+After you sign up for the free trial, you can buy a subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I recover or change my password? =
 
-[Click here to recovery or reset your password>>](http://widget-c.flyzoo.co/account/recovery)
+[Click here to reset your password>>](http://widget-c.flyzoo.co/account/recovery)
 
-= Will the chat slow down my site? =
+= Will the chat plugin slow down my site? =
 
-No, chat is loaded asynchronously after the main content, our servers will handle all the chat workload.
+No, the chat is loaded asynchronously after the main content and our servers will handle all the chat workload.
 
 = After removing the chat plugin, it still shows on the frontend, how do I remove it completely? =
 
 Probably pages are being cached. Please try to:
 
 - refresh your browser's cache
-- if you are using a caching plugin please, force a refresh
+- if you are using a caching plugin, please force a refresh, this should fix the issue.
 
-this should fix the issue.
-
-Otherwise, please check that you haven't embedded the chat script into some .php file (like footer.php for instance).
+Otherwise, please check that you haven't embedded the chat script into some .php file - like footer.php for instance.
 
 = Can I suggest a feature?  =
 
