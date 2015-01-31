@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, livechat, support, live chat software, chat room, customer support, live help, buddypress chat, buddypress, community, comments, plugin
+Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, livechat, support, live chat software, chat room, live help, buddypress chat, buddypress, community, comments, chat free
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.1
@@ -8,16 +8,16 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Need a chat for your website? Flyzoo is the perfect chat for your blog, community or e-commerce.
+Need a chat for your website? Flyzoo is the perfect chat for your community, blog or e-commerce.
 
 == Description == 
 
 All you need to chat on your website! Help customers with live support chat,
-engage and grow your community in group chats and private (one-to-one chat) conversations. 
+engage and grow your community in group chats and private chat (one-to-one) conversations. 
 
 Start your 14-day free trial now!
 
-* Chat rooms: full featured group chats with avatars, emoticons, moderation, image and video with preview
+* Group Chat: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
 * Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
@@ -33,7 +33,7 @@ Start your 14-day free trial now!
 
 * Cloud-based (hosted) chat built to ensure a fast message delivery without overloading your server
 
-* Eye-catching design
+* Eye-catching design with draggable and resizeable chat windows
 
 * Responsive on tablets and mobile devices
 
