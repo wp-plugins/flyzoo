@@ -21,13 +21,13 @@ Start your 14-day free trial now!
 
 * Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
-* Live Support with multiple operators: support requests are automatically routed to the first available operator
+* Live Support Chat with multiple operators: support requests are automatically routed to the first available operator
 
 * Real-time traffic monitor: identify and chat with potential customers to increase sales!  
 
 * Pop out chats to external browser windows
 
-* Customize chat colors, features and greeting messages
+* Customize colors, features and greeting messages
 
 * Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
