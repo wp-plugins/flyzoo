@@ -25,7 +25,7 @@ Start your 14-day free trial now!
 
 * Real-time traffic monitor: identify and chat with potential customers to increase sales!  
 
-* Pop out chats to external browser windows
+* Pop out windows: enjoy group chats in external browser windows
 
 * Customize colors, features and greeting messages
 
@@ -35,11 +35,11 @@ Start your 14-day free trial now!
 
 * Eye-catching chat design with draggable and resizeable windows
 
-* Responsive chat on tablets and mobile devices
+* Responsive on tablets and mobile devices
 
 * In-browser chat: browse your site and chat at the same time
 
-* SSL Connection: automatic chat encryption for HTTPS/SSL websites
+* SSL chat encryption for HTTPS/SSL based websites
 
 * Moderation: ban users and block IPs, clean chat rooms from forbidden words
 
