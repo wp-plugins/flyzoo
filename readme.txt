@@ -31,9 +31,9 @@ Start your 14-day free trial now!
 
 * Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
-* Cloud-based (hosted) chat built to ensure a fast message delivery without overloading your server
+* Cloud-based (hosted) platform built to ensure a fast message delivery without overloading your server
 
-* Eye-catching design with draggable and resizeable chat windows
+* Eye-catching chat design with draggable and resizeable windows
 
 * Responsive chat on tablets and mobile devices
 
