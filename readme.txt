@@ -27,7 +27,7 @@ Start your 14-day free trial now!
 
 * Pop out windows: enjoy group chats in external browser windows
 
-* Customize colors, features and greeting messages
+* Customize colors, features and online/offline greeting messages
 
 * Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
