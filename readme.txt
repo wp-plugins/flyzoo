@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, livechat, support, live chat software, chat room, live help, buddypress chat, buddypress, community, comments, chat free, social chat
+Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, livechat, support, live support chat, chat room, live help, buddypress chat, buddypress, community, comments, chat free, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.1
@@ -31,7 +31,7 @@ Start your 14-day free trial now!
 
 * Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
 
-* Cloud-based (hosted) platform built to ensure a fast message delivery without overloading your server
+* Cloud-based (hosted) chat platform built to ensure a fast message delivery without overloading your server
 
 * Eye-catching chat design with draggable and resizeable windows
 
