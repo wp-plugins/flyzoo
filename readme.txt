@@ -25,7 +25,7 @@ Start your 14-day free trial now!
 
 * Real-time traffic monitor: identify and chat with potential customers to increase sales!  
 
-* Pop out windows: enjoy group chats in external browser windows
+* Pop out chat windows: enjoy group chats in external browser windows
 
 * Customize colors, features and online/offline greeting messages
 
