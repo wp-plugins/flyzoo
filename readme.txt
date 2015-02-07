@@ -13,7 +13,7 @@ Need a chat for your website? Flyzoo is the perfect chat for your community or e
 == Description == 
 
 All you need to chat on your website! Help customers with live support chat,
-engage and grow your community in group chats and private chat (one-to-one) conversations. 
+engage your community in group chats and private conversations. 
 
 Start your 14-day free trial now!
 
