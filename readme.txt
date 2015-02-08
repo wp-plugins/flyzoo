@@ -23,9 +23,9 @@ Start your 14-day free trial now!
 
 * Live Support Chat with multiple operators: support requests are automatically routed to the first available operator
 
-* Real-time traffic monitor: identify and chat with potential customers to increase sales!  
+* Real-time traffic monitor: identify and chat with potential customers and increase sales!  
 
-* Pop out chat windows: enjoy group chats in external browser windows
+* Pop out chat windows: enjoy conversations in external browser windows
 
 * Customize colors, features and online/offline greeting messages
 
