@@ -99,11 +99,11 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our plans are very affordable.
+Currently we don't offer free live chat plans, but our subscriptions are very affordable.
 
-Grab your chat now, starting **as low as $1.9/month** for the yearly subscription!
+Grab your chat now and support us, starting **as low as $1.9/month** for the yearly subscription!
   
-Try Flyzoo free for 14 days (no credit card required). Upgrade, downgrade or cancel your subscription at any time.
+Try it free for 14 days (no credit card required). Upgrade, downgrade or cancel your subscription at any time.
 
 Save up to 33% for the yearly subscriptions!
 
