@@ -35,7 +35,7 @@ Start your 14-day free trial now!
 
 * Eye-catching design with draggable and resizeable chat windows
 
-* Responsive on tablets and mobile devices
+* Responsive on mobile devices
 
 * In-browser chat: browse your site and chat at the same time
 
