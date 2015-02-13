@@ -17,6 +17,8 @@ engage your community in group chats and private conversations.
 
 Start your 14-day free trial now!
 
+###Chat Features###
+
 * Group Chat: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
 * Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
