@@ -118,7 +118,7 @@ Yes, but you still need to provide your production url when you sign up.
 
 = How do I go online and chat with visitors? =
 
-1. Visit your website and locate the chat widget at the bottom of the page
+1. Visit your website and locate the chat at the bottom of the page
 2. Click on MENU > "Log in or Sign up" 
 3. Enter the e-mail and password you used to join Flyzoo
 
@@ -139,17 +139,17 @@ YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://ww
 
 = How do I buy a subscription? =
 
-After you sign up for the free trial, you can buy a subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+You can buy a subscription with PayPal from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 = How do I recover or change my password? =
 
 [Click here to reset your password>>](http://widget-c.flyzoo.co/account/recovery)
 
-= Will the chat plugin slow down my site? =
+= Will the chat slow down my site? =
 
 No, the chat is loaded asynchronously after the main content and our servers will handle all the chat workload.
 
-= After removing the chat plugin, it still shows on the frontend, how do I remove it completely? =
+= I removed Flyzoo but it still shows on the frontend, how do I remove it completely? =
 
 Probably pages are being cached. Please try to:
 
