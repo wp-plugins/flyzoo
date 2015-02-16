@@ -12,7 +12,7 @@ Need a chat for your website? Flyzoo is the amazing chat for your community or e
 
 == Description == 
 
-All you need to chat! Help customers with live support chat, engage your community in group chats and private conversations. 
+All you need to chat: help customers with live support chat, engage your community in group chats and private conversations. 
 
 Start your 14-day free trial now!
 
@@ -100,9 +100,9 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions are very affordable.
+Currently we don't offer free live chat plans, anyway our subscriptions are very affordable.
 
-Grab your chat now and support us, starting **as low as $1.9/month** for the yearly subscription!
+Grab your chat now, starting **as low as $1.9/month** for the yearly subscription!
   
 Try it free for 14 days (no credit card required). Upgrade, downgrade or cancel your subscription at any time.
 
