@@ -16,8 +16,6 @@ All you need to chat on your website! Help customers with live support chat, eng
 
 Start your 14-day free trial now!
 
-###Chat Features###
-
 * Group Chat: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
 * Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
