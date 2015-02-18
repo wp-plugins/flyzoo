@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Need a chat for your website? Flyzoo is the amazing chat for your community or e-commerce.
+Need a chat? Flyzoo is the amazing live chat for your community, blog or e-commerce!
 
 == Description == 
 
