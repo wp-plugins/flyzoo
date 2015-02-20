@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is the amazing chat for your community, blog or e-commerce!
+Flyzoo is the amazing group chat & live support solution for your blog, community or e-commerce.
 
 == Description == 
 
