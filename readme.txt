@@ -16,37 +16,39 @@ All you need to chat on your website! Help your customers with live support chat
 
 Start your 14-day free trial now!
 
-* Group Chat: full featured group chats with avatars, emoticons, moderation, image and video with preview
+####Chat Features####
 
-* Embeddable chat: embed a group chat into your layout to improve user experience! (PRO Plan) 
+* **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* Live Support Chat with multiple operators: support requests are automatically routed to the first available operator
+* **Embeddable chat**: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
-* Real-time traffic monitor: identify and chat with potential customers and increase sales!  
+* **Live Support Chat** with customizable online/offline greeting messages and multiple operators. Support requests are automatically routed to the first available operator
 
-* Pop out chat windows: enjoy conversations in external browser windows
+* **Real-time traffic monitoring**: identify and chat with potential customers and increase sales!  
 
-* Customize colors, features and online/offline greeting messages
+* **Pop out chat windows**: enjoy conversations in external browser windows
 
-* Single Sign On: users can login and chat using their existing WordPress/BuddyPress accounts
+* **Customization**: choose your colors and features layout
 
-* Cloud-based (hosted), built to ensure a fast chat message delivery without overloading your server
+* **Single Sign On**: users can login and chat using their existing WordPress/BuddyPress accounts
 
-* Eye-catching design with draggable and resizeable chat windows
+* **Cloud-based:** hosted chat, built to ensure a fast chat message delivery without overloading your server
 
-* Responsive chat on mobile devices
+* **Eye-catching Design:** delight your users with an eye-candy chat experience
 
-* In-browser chat: browse your site and chat at the same time
+* **Responsive Layout:** on mobile devices
 
-* SSL chat encryption for HTTPS/SSL based websites
+* **In-browser chat**: browse your site and chat at the same time
 
-* Moderation: ban users and block IPs, clean chat rooms from forbidden words
+* **SSL**: chat encryption for HTTPS/SSL based websites
 
-* Group and private chat history & transcripts
+* **Chat Moderation**: ban users and block IPs, clean chat rooms from forbidden words
+
+* **Chat History**: group and private chat history & transcripts
 
 * Multilanguage
 
-###Live Support Chat###  
+####Live Support Chat####  
 
 Meet your visitors, see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and sales.
 
