@@ -20,7 +20,7 @@ Start your 14-day free trial now!
 
 * **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* **Embeddable Group Chat**: embed a chat into your layout to improve user experience! (PRO Plan) 
+* **Embeddable Group Chat**: embed a group chat into your layout to improve user experience! (PRO Plan) 
 
 * **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
@@ -34,11 +34,11 @@ Start your 14-day free trial now!
 
 * **Cloud-based**: hosted chat, built to ensure a fast chat message delivery without overloading your server
 
-* **Eye-catching Design**: delight your users with an eye-candy chat experience
+* **Eye-catching Design**: delight your users with a clean, elegant chat interface
 
-* **Responsive Layout**: on mobile devices
+* **Responsive Layout**: chat layout will automatically adapt to mobile devices
 
-* **In-browser chat**: browse your site and chat at the same time
+* **In-browser chat**: browse your site and chat at the same time, resize and minimize chat windows when needed
 
 * **SSL**: chat encryption for HTTPS/SSL based websites
 
