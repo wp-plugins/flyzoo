@@ -102,11 +102,10 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 Currently we don't offer free live chat plans, anyway our subscriptions are very affordable.
 
-Grab your chat now, starting **as low as $1.9/month** for the yearly subscription!
+Get your chat now, starting **as low as $1.9/month** for the yearly subscription!
   
-Try Flyzoo Chat free for 14 days (no credit card required). Upgrade, downgrade or cancel your subscription at any time.
+Try Flyzoo Chat free for 14 days (no credit card required). Save up to 33% with the yearly subscriptions and upgrade, downgrade or cancel your subscription at any time.
 
-Save up to 33% with the yearly subscriptions!
 
 = I need more time to test the chat, can you extend my trial period? =
 
