@@ -30,9 +30,9 @@ Start your 14-day free trial now!
 
 * **Customization**: enable the features you need and choose your colors
 
-* **Single Sign On**: users can login and chat using their existing WordPress/BuddyPress accounts
+* **Single Sign On**: users can join the chat using their existing WordPress/BuddyPress accounts
 
-* **Cloud based chat**: built to ensure a fast chat message delivery without overloading your server
+* **Cloud based**: built to ensure a fast chat message delivery without overloading your server
 
 * **Eye-catching Design**: delight your users with a clean, elegant chat interface
 
