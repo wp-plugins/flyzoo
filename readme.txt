@@ -32,7 +32,7 @@ Start your 14-day free trial now!
 
 * **Single Sign On**: users can login and chat using their existing WordPress/BuddyPress accounts
 
-* **Cloud-based**: hosted chat, built to ensure a fast chat message delivery without overloading your server
+* **Cloud based chat**: built to ensure a fast chat message delivery without overloading your server
 
 * **Eye-catching Design**: delight your users with a clean, elegant chat interface
 
@@ -42,7 +42,7 @@ Start your 14-day free trial now!
 
 * **SSL**: chat encryption for HTTPS/SSL based websites
 
-* **Chat Moderation**: ban users and block IPs, clean chat rooms from forbidden words
+* **Chat Moderation**: ban users and block IPs, control swearing in chat rooms
 
 * **Chat History**: group and private chat history & transcripts
 
