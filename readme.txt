@@ -111,7 +111,7 @@ Try Flyzoo Chat free for 14 days (no credit card required). Save up to 33% with 
 
 = I need more time to test the chat, can you extend my trial period? =
 
-Sure! Just write us and we'll glad to extend your chat trial.
+Sure, we'll be glad to extend your chat trial if needed!
 
 = Can I test the chat on my localhost? =
 
@@ -127,7 +127,7 @@ The main button will turn from "Leave a message" to "We are online".
 
 = How do I embed a group chat into a page? =
 
-Log into the Dashboard, click on CHATS, locate your chat room and click on "Get embedding code". 
+Log into the Dashboard, click on SETUP > GROUP CHATS, locate your chat room and click on "Get embedding code". 
 
 Here you find the shortcode (or javascript version). Copy the shortcode and past it into your preferred page.
 (Please note: to embed a group chat you need at least the PRO plan)
