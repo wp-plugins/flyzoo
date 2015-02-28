@@ -22,7 +22,7 @@ Start your 14-day free trial now!
 
 * **Embeddable Group Chat**: place a group chat into your layout to improve user experience! (PRO Plan) 
 
-* **Private Chat**: users can also interact in private chat conversations
+* **Private Chat**: allow users to interact in private chat conversations and boost community engagement!
 
 * **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
@@ -30,13 +30,13 @@ Start your 14-day free trial now!
 
 * **Pop out chat windows**: enjoy conversations in external browser windows
 
-* **Customization**: enable the features you need and choose your colors
+* **Customization**: customize features and colors
 
 * **Single Sign On**: users can join the chat using their existing WordPress/BuddyPress accounts
 
 * **Cloud based**: built to ensure a fast chat message delivery without overloading your server
 
-* **Eye-catching Design**: delight your users with a clean, elegant chat interface
+* **Eye-catching Design**: delight your users with a sleek, elegant chat interface
 
 * **Responsive Layout**: chat layout will automatically adapt to mobile devices
 
