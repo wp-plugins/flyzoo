@@ -30,9 +30,9 @@ Start your 14-day free trial now!
 
 * **Pop out chat windows**: enjoy conversations in external browser windows
 
-* **Customization**: customize features and colors
+* **Customization**: customize widget layout, features and colors
 
-* **Single Sign On**: users can join the chat using their existing WordPress/BuddyPress accounts
+* **Single Sign On**: users can join the chat using their existing WordPress accounts
 
 * **Cloud based**: built to ensure a fast chat message delivery without overloading your server
 
@@ -102,12 +102,9 @@ Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sou
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, anyway our subscriptions are very affordable.
+Currently we don't offer free live chat plans, anyway our subscriptions - starting as low as $2.9/m - are very affordable!
 
-Get your chat now, starting **as low as $1.9/month** for the yearly subscription!
-  
-Try Flyzoo Chat free for 14 days (no credit card required). Save up to 33% with the yearly subscriptions and upgrade, downgrade or cancel your subscription at any time.
-
+Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
 = I need more time to test the chat, can you extend my trial period? =
 
