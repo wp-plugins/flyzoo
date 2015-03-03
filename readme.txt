@@ -131,6 +131,14 @@ Here you find the shortcode (or javascript version). Copy the shortcode and past
 
 [Check the Pricing >>](http://www.flyzoo.co/pricing?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
+= Can I use Flyzoo for customer support? = 
+
+YES. Please log into the dashboard and set this configuration:
+
+1. SETUP > CUSTOMIZATION > FEATURES set the main button action to "Live Support"
+2. SETUP > LIVE SUPPORT ENGAGEMENT > customize the "we are offline/online" popups
+3. Visit your site and Log into the chat widget to go online for your visitors (see FAQ above)
+
 = Do you offer customer support? =
 
 YES. We **always** reply to support requests. [Flyzoo Chat Support >>](http://www.flyzoo.co/support)
@@ -166,7 +174,7 @@ Sure, feel free to contact us to leave a feedback!
 01.09.2015 * Fixed a potential conflict using avatars with some themes
 
 = 1.4.5 =
-11.10.2014 * Plugin optimizations / code improvements
+11.10.2014 * Plugin optimizations / improvements
 
 = 1.4.4 =
 10.22.2014 * NEW: Page Filters: enable/disable the chat on specific pages
