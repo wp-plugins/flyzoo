@@ -1,6 +1,6 @@
 === Live Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, free chat, live support chat, chat room, live help, buddypress, chat free, chat plugin, social chat
+Tags: chat, group chat, free live chat, live chat, widget, live support, support chat, free chat, live support chat, chat room, live help, buddypress, chat free, buddypress chat, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.1
@@ -52,7 +52,8 @@ Start your 14-day free trial now!
 
 ####Live Support Chat####  
 
-Identify and chat with potential customers to increase sales: see where they came from and what page they are on: **live support chat** has proven itself essential to increase conversions and sales.
+Identify and chat with potential customers to increase sales. 
+See where visitors came from and what page they are on: **live support chat** has proven itself essential to increase conversions and sales.
 
 The most important insights are available at a glance:
 
