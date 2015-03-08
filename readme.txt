@@ -20,7 +20,7 @@ Start your 14-day free trial now!
 
 * **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* **Embeddable Group Chat**: place a group chat into your layout to improve user experience! (PRO Plan) 
+* **Embeddable Group Chat**: place a group chat into your layout to improve user engagement! (PRO Plan) 
 
 * **Private Chat**: allow users to interact in private chat conversations and boost community engagement!
 
@@ -36,11 +36,11 @@ Start your 14-day free trial now!
 
 * **Cloud based**: built to ensure a fast chat message delivery without overloading your server
 
-* **Eye-catching Design**: delight your users with a sleek, elegant chat interface
+* **Eye-catching Design**: sleek, modern chat interface
 
 * **Responsive Layout**: chat layout will automatically adapt to mobile devices
 
-* **In-browser chat**: browse your site and chat at the same time, resize and minimize chat windows when needed
+* **In-browser chat**: browse your site and chat at the same time, resize or minimize chat windows when needed
 
 * **SSL**: chat encryption for HTTPS/SSL based websites
 
@@ -52,8 +52,8 @@ Start your 14-day free trial now!
 
 ####Live Support Chat####  
 
-**Live support** has proven itself essential to increase conversions and sales. 
-See where visitors came from and what page they are on, identify and chat with potential customers to increase sales! 
+**Live support chat** has proven itself essential to increase conversions and sales. 
+See where visitors came from and what page they are on, chat with potential customers and increase sales! 
 
 The most important insights are available at a glance:
 
