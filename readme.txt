@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flyzoo is the amazing group chat & live support solution for your blog, community or e-commerce.
+Flyzoo is the amazing group chat & live support chat for your community, blog or e-commerce.
 
 == Description == 
 
@@ -30,9 +30,9 @@ Start your 14-day free trial now.
 
 * **Pop out chat windows**: enjoy conversations in external browser windows
 
-* **Customization**: customize widget layout, features and colors
+* **Customization**: customize colors, chat features and layout 
 
-* **Single Sign On**: users can join the chat using their existing WordPress accounts
+* **Single Sign On**: users can join the chat using their WordPress accounts
 
 * **Cloud based**: built to ensure a fast chat message delivery without overloading your server
 
