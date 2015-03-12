@@ -80,7 +80,7 @@ Need another language? Contact us!
 1. Install and activate the chat plugin from your WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
-**1) Create your administrative account on Flyzoo.co**
+**1) Create your admin account on Flyzoo.co**
 
 3. Create a new account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
 4. Enter your URL, click next and copy your Flyzoo Application ID
@@ -88,7 +88,7 @@ Need another language? Contact us!
 
 **Done!**
 
-Customize the widget from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 == Screenshots ==
 1. Live Support Chat with Real Time Visitors Monitoring
@@ -105,14 +105,6 @@ Currently we don't offer free live chat plans, anyway our subscriptions - starti
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
-= I need more time to test the chat, can you extend my trial period? =
-
-Sure, we'll be glad to extend your chat trial if needed!
-
-= Can I test the chat on my localhost? =
-
-Yes, but you still need to provide your production url when you sign up.
-
 = How do I go online and chat with visitors? =
 
 1. Visit your website and locate the chat at the bottom of the page
@@ -120,6 +112,14 @@ Yes, but you still need to provide your production url when you sign up.
 3. Enter the e-mail and password you used to join Flyzoo
 
 The main button will turn from "Leave a message" to "We are online".
+
+= I need more time to test the chat, can you extend my trial period? =
+
+Sure, we'll be glad to extend your chat trial if needed!
+
+= Can I test it on my localhost? =
+
+Yes, but you still need to provide your production url when you sign up.
 
 = How do I embed a group chat into a page? =
 
