@@ -20,15 +20,15 @@ Start your 14-day free trial now.
 
 * **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video with preview
 
-* **Embeddable Group Chat**: embed a chat into your layout to improve user engagement (PRO Plan) 
+* **Embeddable**: embed a group chat into your layout to improve user engagement (PRO Plan) 
 
-* **Private Chat**: allow users to interact in private chat conversations 
+* **Private Chat**: users can interact in private chat conversations 
 
 * **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
-* **Real-time traffic monitoring**: identify and chat with potential customers and increase sales!  
+* **Real-time visitors monitoring**: identify and chat with potential customers and increase sales!  
 
-* **Pop out chat windows**: enjoy conversations in external browser windows
+* **Pop out windows**: enjoy group chat conversations in external browser windows
 
 * **Customization**: customize colors, chat features and layout 
 
