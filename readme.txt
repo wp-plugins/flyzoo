@@ -12,7 +12,7 @@ The amazing group chat & live support chat for your community, blog or e-commerc
 
 == Description == 
 
-All you need to chat on your website! Help your customers with live support chat, engage your community in group chats and private conversations. 
+All you need to chat on your website! Help your customers with live support chat, engage your community in group and private chat conversations. 
 
 Start your 14-day free trial now.
 
@@ -52,7 +52,8 @@ Start your 14-day free trial now.
 
 ####Live Support Chat####  
 
-**Live support chat** has proven itself essential to increase conversions and sales. 
+**Live support chat** is essential to increase conversions and sales. 
+
 See where visitors came from and what page they are on, chat with potential customers and increase sales! 
 
 The most important insights are available at a glance:
