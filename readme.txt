@@ -1,4 +1,4 @@
-=== Live Chat by Flyzoo ===
+=== Chat by Flyzoo ===
 Contributors: Flyzoo
 Tags: chat, group chat, free live chat, live chat, live support, buddypress group chat, free chat, live support chat, chat room, buddypress,  support chat, community chat, buddypress chat, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
@@ -12,7 +12,7 @@ The amazing group & live support chat
 
 == Description == 
 
-Flyzoo is a chat platform great for shops, communities, social networks, radio stations... and any other kind of website looking to boost engagement!
+Flyzoo is a chat platform designed for shops, communities, social networks, radio stations... and any other kind of website looking to boost engagement!
 
 Help your customers with live support chat, grow your buddypress community with group and private chat conversations. 
 
@@ -54,9 +54,9 @@ Start your 14-day free trial now.
 
 ####Live Support Chat####  
 
-**Live support chat** is essential to increase conversions and sales. 
 
-See where visitors came from and what page they are on, chat with potential customers and increase sales! 
+**Live support chat** is essential to increase conversions and sales.
+ See where visitors came from and what page they are on, chat with potential customers and increase sales!
 
 The most important insights are available at a glance:
 
@@ -67,8 +67,9 @@ The most important insights are available at a glance:
 
 ####Languages####  
 
+
 Interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish. 
-Need another language? Contact us!
+(Danish and Chinese coming soon) Need another language? Contact us!
 
 ####Questions? Contact us now!####
 
