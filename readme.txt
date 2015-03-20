@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing group & live support chat
+Add a group and live support chat to your website! Chat with your visitors and let them chat with each other.
 
 == Description == 
 
