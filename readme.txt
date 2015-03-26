@@ -16,7 +16,7 @@ Flyzoo Chat is the amazing chat platform designed for shops, communities, social
 
 Build your community around group chats and private chat conversations, help your customers and increase sales with live support chat. 
 
-**New version coming in April, 30+ new chat features, improvements and integrations.**
+**New version coming in April, 30+ new chat features, improvements and integrations: write us to join the preview :)**
 
 Start your 14-day free trial now!
 
