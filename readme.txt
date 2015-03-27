@@ -8,11 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a group and live support chat to your website! Chat with your visitors and let them chat with each other.
+Add a group, private and live support chat to your website! Chat with your visitors and let them chat with each other.
 
 == Description == 
 
-Flyzoo Chat is the amazing chat platform designed for shops, communities, social networks, dating websites, online traders, radio stations... and any other kind of website looking to boost engagement!
+Flyzoo is the amazing chat platform designed for shops, communities, social networks, dating websites, online traders, radio stations... and any other kind of website looking to boost engagement!
 
 Build your community around group chats and private chat conversations, help your customers and increase sales with live support chat. 
 
