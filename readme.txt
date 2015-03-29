@@ -34,15 +34,15 @@ Start your 14-day free trial now!
 
 * **Pop out windows**: enjoy group chat conversations in external browser windows
 
-* **Customization**: customize colors, chat features and layout 
+* **Customization**: customize colors, layout and chat features 
 
 * **Single Sign On**: users can join the chat using their WordPress accounts
 
-* **Cloud based**: built to ensure a fast chat message delivery without overloading your server
+* **Cloud based**: hosted chat, built to ensure a fast message delivery without overloading your server
 
 * **Eye-catching Design**: sleek, modern chat interface
 
-* **Responsive Layout**: chat layout will automatically adapt to mobile devices
+* **Responsive**: chat layout will automatically adapt to mobile devices
 
 * **In-browser chat**: browse your site and chat at the same time, resize or minimize chat windows when needed
 
