@@ -16,7 +16,7 @@ Flyzoo is the amazing chat platform designed for shops, communities, social netw
 
 Build your community around group chats and private chat conversations, help your customers and increase sales with live support chat. 
 
-**New version coming in April, 30+ new chat features, improvements and integrations: write us to join the preview :)**
+**New version coming in April - 30+ new chat features, improvements and integrations: write us to join the preview :)**
 
 Start your 14-day free trial now!
 
@@ -70,8 +70,7 @@ The most important insights are available at a glance:
 
 ####Languages####  
 
-
-Interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish. 
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish. 
 (Danish and Chinese available on Beta) Need another language? Contact us!
 
 ####Questions? Contact us now!####
