@@ -12,7 +12,7 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 == Description == 
 
-Flyzoo is the amazing chat platform designed for shops, communities, social networks, dating websites, online traders, radio stations... and any other kind of site looking to boost engagement!
+The amazing chat platform designed for shops, communities, social networks, dating websites, online traders, radio stations... and all kind of websites looking to boost engagement!
 
 Add group and private chat features to your community, help your customers and increase sales with live support chat. 
 
@@ -107,7 +107,7 @@ Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sourc
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, anyway our subscriptions - starting as low as $2.9/m - are very affordable!
+Currently we don't offer free live chat plans, but our subscriptions - starting as low as $2.9/m - are very affordable!
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
