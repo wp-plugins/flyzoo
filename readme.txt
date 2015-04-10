@@ -16,7 +16,7 @@ Flyzoo is an amazing all-in-one chat platform designed for shops, communities, s
 
 Add group and private chat features to your community, meet your customers and increase sales with live support chat. 
 
-**New version coming in April - File sharing, full buddypress integration, 30+ new chat features, improvements and integrations: write us to join the preview :)**
+
 
 Start your 14-day free trial now!
 
@@ -53,6 +53,42 @@ Start your 14-day free trial now!
 * **Chat History**: group and private chat history & transcripts
 
 * Multilanguage: chat UI already available in the most common languages.
+
+####Coming Soon####
+
+**New version coming in April - File sharing, full buddypress integration, 30+ new chat features, improvements and integrations: write us to join the preview :)**
+
+* Friends list (integrated with BuddyPress)
+
+* API sync (avatar, name and BP friends list automatically synchronized from BP and UserPro)
+
+* Recent conversations accessible from the site to all users
+
+* Ignore user (ways more effective than ban)
+
+* Require guests to change name before accessing a group chats
+
+* File sharing
+
+* Image cover for group chats (like avatar for users)
+
+* Clear private chat history
+
+* User list resizable in group chats
+
+* Side chat mode (start a global group chat on the side of the page instead of the dock)
+
+* User list mode (start the user list on the side of the page instead of the dock)
+
+* Role-based access (make the room accessible only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
+
+* Cookieless design (chat available to browsers blocking third-party cookies by default)
+
+* Customizable user list (show/hide guests, show/hide group chats, start from friends)
+
+* Allow Subdomains (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
+
+* Allow Multidomains (i.e. allow different domains and connect more sites with the same code)
 
 
 ####Live Support Chat####  
