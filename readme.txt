@@ -14,7 +14,7 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 Flyzoo is an amazing all-in-one chat platform designed for shops, communities, social networks, dating websites, online traders, radio stations... and all kind of websites looking to boost engagement!
 
-Add group and private chat features to your community, help your customers and increase sales with live support chat. 
+Add group and private chat features to your community, meet your customers and increase sales with live support chat. 
 
 **New version coming in April - File sharing, full buddypress integration, 30+ new chat features, improvements and integrations: write us to join the preview :)**
 
