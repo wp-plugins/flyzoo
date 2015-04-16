@@ -62,7 +62,7 @@ Start your 14-day free trial now!
 
 * Recent conversations accessible from the site to all users
 
-* Ignore user (ways more effective than ban)
+* Ignore users
 
 * Require guests to change name before accessing a group chats
 
@@ -80,13 +80,11 @@ Start your 14-day free trial now!
 
 * Role-based access (make the room accessible only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
 
-* Cookieless design (chat available to browsers blocking third-party cookies by default)
-
 * Customizable user list (show/hide guests, show/hide group chats, start from friends)
 
 * Allow Subdomains (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
 
-* Allow Multidomains (i.e. allow different domains and connect more sites with the same code)
+* Allow Multidomains (connect more sites with one chat!)
 
 
 ####Live Support Chat####  
