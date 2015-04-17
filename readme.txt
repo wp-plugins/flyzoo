@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, buddypress chat, embed chat, popup chat, chat room, support chat, friends, buddypress chat, chat plugin, social chat
+Tags: chat, group chat, community, community chat, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, buddypress chat, embed chat, popup chat, chat room, support chat, friends, buddypress chat, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.1
@@ -52,9 +52,9 @@ Start your 14-day free trial now!
 
 * Multilanguage: chat interface already available in the most common languages.
 
-####Coming Soon####
+####New version - write us to join the preview ####
 
-**New version coming in April - 30+ new chat features, improvements and integrations: write us to join the preview :)**
+**New version coming in late April - 30+ new chat features, improvements and integrations**
 
 * Friends list (integrated with BuddyPress)
 
@@ -72,7 +72,7 @@ Start your 14-day free trial now!
 
 * Clear private chat history
 
-* User list resizable in group chats
+* Toggle user list in group chats
 
 * Side chat mode (start a global group chat on the side of the page instead of the dock)
 
@@ -80,11 +80,11 @@ Start your 14-day free trial now!
 
 * Role-based access (make the room accessible only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
 
-* Customizable user list (show/hide guests, show/hide group chats, start from friends)
+* Highly customizable user list (show/hide guests, show/hide group chats, start from friends)
 
 * Allow Subdomains (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
 
-* Allow Multidomains (connect more sites with one chat!)
+* Multidomain (connect more sites under the same chat!)
 
 
 ####Live Support Chat####  
