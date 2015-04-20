@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, buddypress chat, chat plugin, social chat
+Tags: chat, group chat, community chat, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.1
@@ -54,7 +54,7 @@ Start your 14-day free trial now!
 
 ####New version - write us to join the preview ####
 
-**New version coming in late April - 30+ new chat features, improvements and integrations**
+**30+ new features, improvements and integrations**
 
 * Friends list (integrated with BuddyPress)
 
@@ -90,10 +90,9 @@ Start your 14-day free trial now!
 ####Live Support Chat####  
 
 
-**Live support chat** is essential to increase conversions and sales.
- See where visitors came from and what page they are on, chat with potential customers and increase sales!
+**Live support chat** is essential to increase conversions and sales. See where visitors came from and what page they are on, chat with potential customers and increase sales!
 
-The most important insights are available at a glance:
+All the most important insights are available at a glance:
 
 * Current visited page and pageviews
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
