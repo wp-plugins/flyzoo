@@ -3,7 +3,7 @@ Contributors: Flyzoo
 Tags: chat, group chat, community chat, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,19 +14,19 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 Flyzoo Live Chat is the amazing chat platform designed for communities, forums, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost engagement!
 
-Add group and private live chat features to your community, meet your customers and increase sales with live support chat. 
+Add group and private live chat features to your community, help your members and meet your customers with live support chat. 
 
 Start your 14-day free trial now!
 
 ####Features####
 
-* **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video with preview
+* **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video, file sharing and more...
 
 * **Embeddable**: embed a group chat into your layout to improve user engagement (PRO Plan) 
 
 * **Private Chat**: users can interact in private chat conversations 
 
-* **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
+* **Live Support**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
 * **Real-time visitors monitoring**: identify and chat with potential customers and increase sales!  
 
@@ -52,39 +52,37 @@ Start your 14-day free trial now!
 
 * Multilanguage: chat interface already available in the most common languages.
 
-####New version - write us to join the preview ####
+####New Features####
 
-**30+ new features, improvements and integrations**
+* **Side chat mode** (start a global group chat on the side of the page instead of the dock)
 
-* Friends list (integrated with BuddyPress)
+* **User list mode** (start the user list on the side of the page instead of the dock)
 
-* API sync (avatar, name and BP friends list automatically synchronized from BP and UserPro)
+* **Friends list** integrated with BuddyPress
 
-* Recent conversations accessible from the site to all users
+* **API Sync** (avatar, name and BP friends list automatically synchronized from BP and UserPro)
 
-* Ignore users
+* **Recent conversations**
 
-* Require guests to change name before accessing a group chats
+* **Ignore users** (more effective than Ban)
 
-* File sharing
+* **Improved guest management** require guests to change name before accessing a group chat
 
-* Image cover for group chats (like avatar for users)
+* **File sharing** for guests and/or members
 
-* Clear private chat history
+* **Custom icon for group chats**
 
-* Toggle user list in group chats
+* **Clear private chat history**
 
-* Side chat mode (start a global group chat on the side of the page instead of the dock)
+* **Toggle user list** in group chats
 
-* User list mode (start the user list on the side of the page instead of the dock)
+* **Role-based access** (restrict access to group chats only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
 
-* Role-based access (make the room accessible only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
+* **Highly customizable user list** (show/hide guests, show/hide group chats, start from friends)
 
-* Highly customizable user list (show/hide guests, show/hide group chats, start from friends)
+* **Allow Subdomains** (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
 
-* Allow Subdomains (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
-
-* Multidomain (connect more sites under the same chat!)
+* **Multidomain** (connect more sites under the same chat!)
 
 
 ####Live Support Chat####  
@@ -101,8 +99,8 @@ All the most important insights are available at a glance:
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish. 
-(Danish and Chinese available on Beta) Need another language? Contact us!
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Danish and Chinese.
+Need another language? Contact us!
 
 ####Questions? Contact us now!####
 
@@ -128,11 +126,15 @@ Chat interface available in: English, Spanish, French, Portuguese, Italian, Germ
 Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 == Screenshots ==
-1. Live Support Chat with Real Time Visitors Monitoring
-2. Chat windows can be moved, resized and minimized 
-3. Emoticons, sound notifications and media content preview for a rich chat experience
-4. Chat layout is responsive on mobile devices
-5. Colors and features are fully customizable
+1. Group Chat
+2. Live Support Chat with Real Time Visitors Monitoring
+3. Private Chat
+4. Real-time visitor monitoring
+5. Advanced user moderation
+6. Customizable user list
+7. File Sharing
+8. Responsive on Mobile
+9. Customize color, layout and features
 
 == Frequently Asked Questions ==
 
@@ -205,6 +207,9 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
+
+= 2.0.0 =
+04.22.2015 * 30+ new features, improvements and integrations!
 
 = 1.4.6 =
 01.09.2015 * Fixed a potential conflict using avatars with some themes

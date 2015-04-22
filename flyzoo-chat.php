@@ -1,14 +1,14 @@
 <?php
 /*
-Plugin Name: Flyzoo Chat - Group & Live Support Chat 
+Plugin Name: Flyzoo - Live Support & Group Chat 
 Plugin URI: http://www.flyzoo.co/
-Description: Flyzoo is the amazing group chat & live support solution for your blog, community or e-commerce.
-Version: 1.4.6
+Description: Flyzoo is the amazing group chat & live support chat for your blog, buddypress community or e-commerce.
+Version: 2.0.0
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
 
-Copyright 2014 Andrea De Santis (email : info@flyzoo.co)
+Copyright 2015 Andrea De Santis (email : info@flyzoo.co)
 
 This program is free trial software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -63,7 +63,7 @@ function flyzoo_show_page() {
 
     $matched = flyzoo_check_regex($currentpath, $pagelist);
 
-    $matched = ($mode == '2')?(!$matched):$matched;
+	$matched = ($mode == '2')?(!$matched):$matched;
   }
   else if($mode == '2'){
     $matched = TRUE;
@@ -94,9 +94,17 @@ function flyzoo_chat_uninstall()
         delete_option('FlyzooPageFilterList');
     }          
     
-        if (get_option('FlyzooPageFilterMode')) {
+    if (get_option('FlyzooPageFilterMode')) {
         delete_option('FlyzooPageFilterMode');
     }  
+
+    if (get_option('FlyzooEnableBuddyPress')) {
+        delete_option('FlyzooEnableBuddyPress');
+    }
+        if (get_option('FlyzooSiteAdded')) {
+        delete_option('FlyzooSiteAdded');
+    }
+    
 }
 
 function flyzoo_get_wp_userid()
@@ -146,19 +154,94 @@ function flyzoo_get_wp_username()
     
 }
 
+
+
+
 function flyzoo_get_avatar_url($get_avatar)
 {
     preg_match("/src='(.*?)'/i", $get_avatar, $matches);
     return $matches[1];
 }
 
+
+ function flyzoo_get_userpro_avatar_url( $id_or_email) {
+        global $userpro;
+        $size = 100;
+
+        require_once(userpro_path.'lib/BFI_Thumb.php');
+        if (isset($id_or_email->user_id)){
+            $id_or_email = $id_or_email->user_id;
+        } elseif (is_email($id_or_email)){
+            $user = get_user_by('email', $id_or_email);
+            $id_or_email = $user->ID;
+        }
+    
+        if ($id_or_email && userpro_profile_data( 'profilepicture', $id_or_email )) {
+    
+            $url = $userpro->file_uri(  userpro_profile_data( 'profilepicture', $id_or_email ), $id_or_email );
+            $params = array('width'=>$size,'height'=>$size,'quality'=>100);
+            $return = bfi_thumb(get_site_url().(strpos($url,"http") !== false ? urlencode($url) : $url),$params);
+    
+        } else {
+    
+            if ($id_or_email && userpro_profile_data( 'gender', $id_or_email ) ) {
+                $gender = strtolower( userpro_profile_data( 'gender', $id_or_email ) );
+            } else {
+                $gender = 'male'; // default gender
+            }
+    
+            $return = userpro_url . 'img/default_avatar_'.$gender.'.jpg';
+    
+        }
+    
+        if ( userpro_profile_data( 'profilepicture', $id_or_email ) != '') {
+            return $return;
+        } else {
+            if ( userpro_get_option('use_default_avatars') == 1 ) {
+                return $avatar;
+            } else {
+                return $return;
+            }
+        }
+    }
+
+
 function flyzoo_get_wp_avatar()
 {
     $user = wp_get_current_user();
-    if ($user->ID > 0) {
-        if (defined('BP_VERSION')) {
+
+    if (!$user->ID > 0) return '';
+  
+        if (defined('BP_VERSION')) {     
             return bp_get_loggedin_user_avatar('type=full&html=false');
-        } else {
+        }
+        elseif(function_exists("userpro_profile_data")) {
+            return flyzoo_get_userpro_avatar_url($user);
+        } 
+        elseif(function_exists("user_avatar_fetch_avatar") ){
+            return user_avatar_fetch_avatar(array('html' => false, 'item_id' => $user->ID));
+        }
+        elseif(function_exists("get_wp_user_avatar_src")) {        
+             return get_wp_user_avatar_src($user->ID);
+        }
+        elseif(function_exists("get_simple_local_avatar")) {
+             $a = get_simple_local_avatar($user->ID);
+             $a = explode('src="', $a);
+            if(isset($a[1])) {
+              $a = explode('"', $a[1]);
+            }
+            else {
+              $a = explode("src='", $a[0]);
+              if(isset($a[1])) {
+                $a = explode("'", $a[1]);
+              }
+              else {
+                $a[0] = 'http://www.gravatar.com/avatar/' . (($current_user->ID)?(md5(strtolower($user->user_email))):('00000000000000000000000000000000')) . '?d=mm&size=24';
+              }
+              return  $a[0] ;
+           }
+        }
+        else {
             
             try {
                 return flyzoo_get_avatar_url(get_avatar($user->ID));
@@ -167,21 +250,70 @@ function flyzoo_get_wp_avatar()
                 return "";
             }
         }
-    }
+   
     
     return '';
 }
+
+
 
 function flyzoo_logout()
 {
     setcookie("flyzoo-force-logout", "true", time() + 3600, "/");
 }
 
+function flyzoo_get_user_profile_url() {
+
+    $uid = flyzoo_get_wp_userid();
+
+    if ($uid <=0) return '';
+
+  	if(function_exists("bp_core_get_userlink")) {
+      return bp_core_get_userlink( $uid, false, true);
+  	} elseif(function_exists("userpro_profile_data")) {
+        global $userpro;
+        return $userpro->permalink(get_current_user_id());
+    }
+
+
+  	return "";
+  }
+
+  function flyzoo_get_access_roles() {
+
+    global $current_user;
+
+	$user_roles = $current_user->roles;
+	$user_role = array_shift($user_roles);
+
+    if(function_exists("userpro_profile_data")) {
+     $user_role=userpro_profile_data('role', get_current_user_id());
+    }
+
+	return $user_role;
+
+  }
+
 function flyzoo_embed_chatroom($atts)
 {    
     $embed = "<div id='flyzoo-embedded-chatroom' data-id='" . $atts['id'] . "' style='width:" . $atts['width'] . "; height:" . $atts['height'] . ";'></div>";
     return $embed;    
 }
+
+        function flyzoo_get_friends() {    
+   
+               $user = wp_get_current_user();
+
+    if (!$user->ID > 0) return '';
+    if(get_option("FlyzooEnableBuddyPress") == true &&  function_exists('friends_get_friend_user_ids')) {
+        return friends_get_friend_user_ids($user->ID );
+   
+    } else {
+        return "";
+    }
+
+}
+    
 
 add_shortcode('flyzoo-embed-chatroom', 'flyzoo_embed_chatroom');
 
@@ -200,6 +332,7 @@ class FlyzooWidget
             "embedFlyzoo"
         ));
         
+
         if (is_admin()) {
             add_action("admin_menu", array(
                 &$this,
@@ -222,10 +355,15 @@ class FlyzooWidget
                 }
             }
             
-            if (get_option('FlyzooApplicationID') == '') {
+
+            if (get_option('FlyzooApplicationID') == '' && get_option('FlyzooSiteAdded') == '') {
                 $this->addNewWebsite();
-            }          
-        }   
+                update_option('FlyzooSiteAdded',true);
+            }
+            
+        }
+        
+        
     }
     
     function setOptions()
@@ -236,6 +374,9 @@ class FlyzooWidget
         register_setting('flyzoo-options', 'FlyzooHideInDashboard');
         register_setting('flyzoo-options', 'FlyzooPageFilterList');
         register_setting('flyzoo-options', 'FlyzooPageFilterMode');    
+        register_setting('flyzoo-options', 'FlyzooEnableBuddyPress');      
+        register_setting('flyzoo-options', 'FlyzooSiteAdded');               
+         
     }
     
     public function adminMenu()
@@ -245,16 +386,17 @@ class FlyzooWidget
             $this,
             'createAdminPage'
         ), content_url() . '/plugins/flyzoo/images/flyzoo-icon.png');
-      
+        
     }
     
     public function getSignupUrl()
     {
-        
+     
         return $this->flyzooroot . 'signup?utm_source=wordpress&utm_medium=admin&s=pro&t=12&fzsiteurl=' . urlencode(site_url()) . '&p=wordpress&e=' . urlencode(get_option('admin_email')) . '&sip=' . $_SERVER['REMOTE_ADDR'] . '&un=' . urlencode(wp_get_current_user()->display_name);
         
     }
-    
+
+
     private function addNewWebsite()
     {
         
@@ -413,12 +555,14 @@ a.flyzoo-signup-button:hover {
             <hr /><br />
             <h1>Options</h1>
             <br />
-            <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php
-        echo (get_option("FlyzooApiEnabled") == true ? 'checked="checked"' : '');
-?>>
+            <!-- Single sign on -->
+            <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php  echo (get_option("FlyzooApiEnabled") == true ? 'checked="checked"' : ''); ?>>
             <strong>Enable Single Sign On</strong> Check this to allow users log into the chat with their existing WordPress Account.<br />
             <br />
-
+            <!-- Single sign on -->
+            <input type="checkbox" id="FlyzooEnableBuddyPress" name="FlyzooEnableBuddyPress" <?php  echo (get_option("FlyzooEnableBuddyPress") == true ? 'checked="checked"' : ''); ?>>
+            <strong>Sync BuddyPress</strong> Check this to integrate Flyzoo with BuddyPress (sync friends, profile url, avatar) <br />
+            <br />
               <input type="checkbox" id="FlyzooHideInDashboard" name="FlyzooHideInDashboard" <?php
         echo (get_option("FlyzooHideInDashboard") == true ? 'checked="checked"' : '');
 ?>>
@@ -455,24 +599,37 @@ a.flyzoo-signup-button:hover {
 <?php
     }
     
+
+
     public function embedFlyzoo()
     {
         $e    = '';
         $code = get_option('FlyzooApplicationID');
-        
+        $friends = flyzoo_get_friends();
+        $profile_url = flyzoo_get_user_profile_url();
+
         if ($code == '') return;
         //if (get_option('FlyzooPoweredBy')!=true) return;
      
         if (!flyzoo_show_page()) return;
         
-        $e .= '<!-- Flyzoo Script V2 -->' . '<script type="text/javascript">' . '(function () { ' . 'window._FlyzooApplicationId="' . $code . '";' . 'var fz = document.createElement("script"); fz.type = "text/javascript"; fz.async = true;' . 'fz.src = "//widget.flyzoo.co/scripts/flyzoo.start.js";' . 'var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(fz, s)})()' . '</script>';
+        $e .= '<!-- Flyzoo Script V3 -->' . '<script type="text/javascript">' . '(function () { ' . 'window._FlyzooApplicationId="' . $code . '";' . 'var fz = document.createElement("script"); fz.type = "text/javascript"; fz.async = true;' . 'fz.src = "//widget.flyzoo.co/scripts/flyzoo.start.js";' . 'var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(fz, s)})()' . '</script>';
         
         echo ($e);
                 
         if (get_option('FlyzooApiEnabled') != true)
             return;
         
-        $api = '<script type="text/javascript">' . 'var FlyzooApi = FlyzooApi || { };' . 'FlyzooApi.UserId = ' . json_encode(flyzoo_get_wp_userid()) . ';' . 'FlyzooApi.UserName = ' . json_encode(flyzoo_get_wp_username()) . ';' . 'FlyzooApi.Avatar = ' . json_encode(flyzoo_get_wp_avatar()) . ';' . 'FlyzooApi.Email = ' . json_encode(flyzoo_get_wp_email()) . ';' . '</script>';
+        $api = '<script type="text/javascript">' . 'var FlyzooApi = FlyzooApi || { };' . 
+        'FlyzooApi.UserId = ' . json_encode(flyzoo_get_wp_userid()) . ';' . 
+        'FlyzooApi.UserName = ' . json_encode(flyzoo_get_wp_username()) . ';' . 
+        'FlyzooApi.Friends = ' . json_encode($friends) . ';' . 
+        'FlyzooApi.Avatar = ' . json_encode(flyzoo_get_wp_avatar()) . ';' . 
+        'FlyzooApi.Email = ' . json_encode(flyzoo_get_wp_email()) . ';' .
+        'FlyzooApi.AccessRoles = ' . json_encode(flyzoo_get_access_roles()) . ';'. 
+        'FlyzooApi.Profile = ' . json_encode($profile_url) . ';' .
+    
+         '</script>';
         
         echo ($api);
         
