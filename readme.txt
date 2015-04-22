@@ -12,9 +12,9 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 == Description == 
 
-Flyzoo Live Chat is the amazing chat platform designed for communities, forums, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost engagement!
+Flyzoo is the amazing chat platform designed for communities, forums, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost engagement!
 
-Add group and private live chat features to your community, help your members and meet your customers with live support chat. 
+Add group and private live chat features to your BuddyPress community, help your members and customers with live support chat. 
 
 Start your 14-day free trial now!
 
@@ -187,7 +187,7 @@ You can buy a subscription with PayPal from the [Dashboard >>](http://dashboard.
 
 = How do I recover or change my password? =
 
-[Click here to reset your password>>](http://widget-c.flyzoo.co/account/recovery)
+[Click here to reset your password>>](http://www.flyzoo.co/support/passwordrecovery)
 
 = Will the chat slow down my site? =
 
@@ -209,7 +209,31 @@ Sure, feel free to contact us to leave a feedback!
 == Changelog ==
 
 = 2.0.0 =
-04.22.2015 * 30+ new features, improvements and integrations!
+04.22.2015 * 20+ new features, improvements and integrations!
+
+- Friends list (integrated with BuddyPress)
+- API sync (avatar, name, friends and roles)
+- Integration with UserPro
+- Integration with User Avatar plugin
+- Integration with WP User Avatar plugin
+- Integration with Simple Local Avatars plugin
+- Recent conversations accessible from the site to all users
+- Ignore user 
+- Require guests to change name before accessing a group chats
+- File sharing
+- Image cover for group chats 
+- Clear private conversations
+- User list resizable in group chats
+- Side chat mode
+- User list mode 
+- Role-based access 
+- Cookieless design (chat available to browsers blocking third-party cookies by default)
+- Customizable user list (show/hide guests, show/hide group chats, start from friends)
+- Allow Subdomains 
+- Allow Multidomains
+- Link to user profile 
+- Improved bad word filters
+- Infrastructure & CDN improvements
 
 = 1.4.6 =
 01.09.2015 * Fixed a potential conflict using avatars with some themes
