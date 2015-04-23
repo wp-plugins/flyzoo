@@ -140,7 +140,7 @@ Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sourc
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions - starting as low as $2.9/m - are very affordable!
+Currently we don't offer free live chat plans, but our subscriptions - starting from $4.9/m - are very affordable!
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
@@ -189,7 +189,7 @@ You can buy a subscription with PayPal from the [Dashboard >>](http://dashboard.
 
 [Click here to reset your password>>](http://www.flyzoo.co/support/passwordrecovery)
 
-= Will the chat slow down my site? =
+= Will this chat slow down my site? =
 
 No, the chat is loaded asynchronously after the main content and our servers will handle all the chat workload.
 
