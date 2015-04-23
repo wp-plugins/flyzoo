@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, live support, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, social chat
+Tags: chat, group chat, community chat, live chat, live support, buddypress chat, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.2
@@ -12,15 +12,15 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 == Description == 
 
-Flyzoo is the amazing chat platform designed for communities, forums, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost engagement!
+Flyzoo is the amazing chat platform designed for communities, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost user engagement!
 
-Add group and private live chat features to your BuddyPress community, help your members and customers with live support chat. 
+Build your community with group chats and private conversations. Help your members and customers with live support chat. 
 
 Start your 14-day free trial now!
 
 ####Features####
 
-* **Group Chat**: full featured group chats with avatars, emoticons, moderation, image and video, file sharing and more...
+* **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
 
 * **Embeddable**: embed a group chat into your layout to improve user engagement (PRO Plan) 
 
@@ -32,9 +32,9 @@ Start your 14-day free trial now!
 
 * **Pop out windows**: enjoy group chat conversations in external browser windows
 
-* **Customization**: customize colors, layout and chat features 
+* **Customization**: customize colors, layout and features 
 
-* **Single Sign On**: users can join the chat using their WordPress accounts
+* **Single Sign On**: users can join the chat using their existing WordPress accounts
 
 * **Cloud based**: hosted chat, built to ensure a fast message delivery without overloading your server
 
@@ -54,9 +54,9 @@ Start your 14-day free trial now!
 
 ####New Features####
 
-* **Side chat mode** (start a global group chat on the side of the page instead of the dock)
+* **Side chat mode** - start a global group chat on the side of the page)
 
-* **User list mode** (start the user list on the side of the page instead of the dock)
+* **User list mode** - show the user list with friends, group chats and recent conversations
 
 * **Friends list** integrated with BuddyPress
 
@@ -78,7 +78,7 @@ Start your 14-day free trial now!
 
 * **Role-based access** (restrict access to group chats only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
 
-* **Highly customizable user list** (show/hide guests, show/hide group chats, start from friends)
+* **Highly customizable user list** (show/hide guests,  group chats, start from friends)
 
 * **Allow Subdomains** (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
 
@@ -233,6 +233,7 @@ Sure, feel free to contact us to leave a feedback!
 - Allow Multidomains
 - Link to user profile 
 - Improved bad word filters
+- Option to switch sound off by default
 - Infrastructure & CDN improvements
 
 = 1.4.6 =
