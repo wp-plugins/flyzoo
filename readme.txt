@@ -12,9 +12,9 @@ Group, private and live support chat for your website! Chat with your visitors a
 
 == Description == 
 
-Flyzoo is the amazing chat platform designed for communities, shops, social networks, dating websites, online traders, radio stations... and any kind of website looking to boost user engagement!
+Flyzoo is a chat platform designed for communities, shops, dating websites, online traders, radio stations... and any kind of website looking to boost user engagement!
 
-Build your community with group chats and private conversations. Help your members and customers with live support chat. 
+Build your community around group chats and help your members and customers with live support chat. 
 
 Start your 14-day free trial now!
 
