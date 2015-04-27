@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group, private and live support chat for your website! Chat with your visitors and let them chat with each other. BuddyPress ready!
+Group chat, private and live support chat for your website! Chat with your visitors and build your community. BuddyPress ready!
 
 == Description == 
 
@@ -16,9 +16,11 @@ Flyzoo is a chat platform designed for communities, shops, dating websites, onli
 
 Build your community around group chats and help your members and customers with live support chat. 
 
+Flyzoo chat provides three different layout modes to perfectly match your needs. 
+
 Start your 14-day free trial now!
 
-####Features####
+####Core Features####
 
 * **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
 
@@ -51,6 +53,8 @@ Start your 14-day free trial now!
 * **Chat History**: group and private chat history & transcripts
 
 * Multilanguage: chat interface already available in the most common languages.
+
+
 
 ####New Features####
 
@@ -96,6 +100,27 @@ All the most important insights are available at a glance:
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
 * Referrer
 * Returning visitor
+
+####Integrations####
+
+**BuddyPress**
+Flyzoo smoothly integrates with BuddyPress!
+
+* user avatars in chat
+* user profile link in chat
+* friend list
+
+**Avatar Plugins**
+This plugin will automatically detect and use one of the following avatar plugins:
+
+*Gravatar*
+*User Avatar*
+*WP User Avatar* 
+*Simple Local Avatars*
+
+**UserPro**
+
+[UserPro - User Profiles with Social Login](http://codecanyon.net/item/userpro-user-profiles-with-social-login/5958681?ref=Flyzoo)
 
 ####Languages####  
 
