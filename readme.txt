@@ -104,6 +104,7 @@ All the most important insights are available at a glance:
 ####Integrations####
 
 **BuddyPress**
+
 Flyzoo smoothly integrates with BuddyPress!
 
 * user avatars in chat
@@ -111,12 +112,13 @@ Flyzoo smoothly integrates with BuddyPress!
 * friend list
 
 **Avatar Plugins**
+
 This plugin will automatically detect and use one of the following avatar plugins:
 
-*Gravatar*
-*User Avatar*
-*WP User Avatar* 
-*Simple Local Avatars*
+*Gravatar
+*User Avatar
+*WP User Avatar
+*Simple Local Avatars
 
 **UserPro**
 
