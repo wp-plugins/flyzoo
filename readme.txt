@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group chat, private and live support chat for your website! Chat with your visitors and build your community. BuddyPress ready!
+Group, private and live support chat for your website: chat with your visitors and grow your community. Great for BuddyPress!
 
 == Description == 
 
@@ -52,15 +52,15 @@ Start your 14-day free trial now!
 
 * **Chat History**: group and private chat history & transcripts
 
-* Multilanguage: chat interface already available in the most common languages.
+* **Multilanguage**: chat interface already translated in the 20 languages.
 
 
 
 ####New Features####
 
-* **Side chat mode** - start a global group chat on the side of the page)
+* **Side chat mode** - add a site-wide global group chat to your site
 
-* **User list mode** - show the user list with friends, group chats and recent conversations
+* **User list mode** - add a site-wide chat list with users, friends, group chats and recent conversations
 
 * **Friends list** integrated with BuddyPress
 
@@ -105,20 +105,20 @@ All the most important insights are available at a glance:
 
 **BuddyPress**
 
-Flyzoo smoothly integrates with BuddyPress!
+Flyzoo is the perfect chat for BuddyPress.
 
-* user avatars in chat
+* User avatars in chat
 * user profile link in chat
-* friend list
+* friends
 
 **Avatar Plugins**
 
 This plugin will automatically detect and use one of the following avatar plugins:
 
-*Gravatar
-*User Avatar
-*WP User Avatar
-*Simple Local Avatars
+* Gravatar
+* User Avatar
+* WP User Avatar
+* Simple Local Avatars
 
 **UserPro**
 
