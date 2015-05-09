@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group, private and live support chat for your website: chat with your visitors and grow your community. Amazing on BuddyPress!
+Group, private and live support chat for your website: chat with your visitors and grow your community. Perfect for BuddyPress!
 
 == Description == 
 
@@ -16,7 +16,7 @@ Flyzoo is the social chat platform designed for communities, shops, dating websi
 
 Build your community in group chats, help members and customers with live support features.
 
-Start your 14-day free trial now!
+The perfect chat for BuddyPress. Start your 14-day free trial now!
 
 ####Core Features####
 
@@ -64,7 +64,7 @@ Start your 14-day free trial now!
 
 * **API Sync** (avatar, name and BP friends list automatically synchronized from BP and UserPro)
 
-* **Recent conversations**
+* **Recent conversations** quickly find and open previous conversations
 
 * **Ignore users** (more effective than Ban)
 
@@ -76,9 +76,9 @@ Start your 14-day free trial now!
 
 * **Clear private chat history**
 
-* **Toggle user list** in group chats
+* **Toggle user list** to save space in group chats
 
-* **Role-based access** (restrict access to group chats only to a specific role: paid, pro, moderators, top users... future integration with Paid Membership Pro planned)
+* **Role-based access:** restrict group chats activity only to specifics role (like paid, pro, moderators, top users) 
 
 * **Highly customizable user list** (show/hide guests,  group chats, start from friends)
 
