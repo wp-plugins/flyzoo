@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, live support, buddypress chat, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, social chat
+Tags: chat, group chat, community chat, live chat, live support, buddypress chat, buddypress group chat, free chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, woocommerce chat, woocommerce, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.2
@@ -8,11 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Community chat and live support for your website: chat with your visitors and connect your community. Perfect for BuddyPress!
+Group and live support chat for your website: chat with your visitors and connect your community. Perfect for BuddyPress!
 
 == Description == 
 
-Flyzoo is the chat platform designed for communities, shops, dating websites, online traders, gamers, radio stations... and any other kind of website looking to boost engagement!
+Flyzoo is the chat platform designed for communities, Woocommerce stores, dating websites, online traders, gamers, radio stations... and any other kind of website looking to boost engagement!
 
 Build your community in group chats, help members and customers with live support features.
 
@@ -98,6 +98,8 @@ All the most important insights are available at a glance:
 * Keywords and Campaign data (utm source, campaign, medium, search terms...)
 * Referrer
 * Returning visitor
+
+Flyzoo is the perfect chat for your Woocommerce Store!
 
 ####Integrations####
 
