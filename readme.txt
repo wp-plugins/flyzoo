@@ -14,7 +14,7 @@ Group chat and live support for your website: chat with your visitors and connec
 
 Flyzoo is the chat platform designed for communities, stores, dating websites, online traders, gamers, radio stations... and any other kind of website looking to boost engagement!
 
-Engag your community in group chats, help members and customers with live support features.
+Engage your community in group chats, help members and customers with live support features.
 
 The perfect chat for BuddyPress, bbPress and WooCommerce. Start your 14-day free trial now!
 
