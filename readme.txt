@@ -8,15 +8,15 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group and live support chat for your website: chat with your visitors and connect your community. Perfect for BuddyPress!
+Group chat and live support for your website: chat with your visitors and connect your community. Perfect for BuddyPress!
 
 == Description == 
 
-Flyzoo is the chat platform designed for communities, Woocommerce stores, dating websites, online traders, gamers, radio stations... and any other kind of website looking to boost engagement!
+Flyzoo is the chat platform designed for communities, stores, dating websites, online traders, gamers, radio stations... and any other kind of website looking to boost engagement!
 
-Build your community in group chats, help members and customers with live support features.
+Engag your community in group chats, help members and customers with live support features.
 
-The perfect chat for BuddyPress. Start your 14-day free trial now!
+The perfect chat for BuddyPress, bbPress and WooCommerce. Start your 14-day free trial now!
 
 ####Core Features####
 
