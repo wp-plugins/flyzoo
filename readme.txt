@@ -126,7 +126,7 @@ This plugin will automatically detect and use one of the following avatar plugin
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Danish and Chinese.
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Czech, Serbian Danish and Chinese.
 Need another language? Contact us!
 
 ####Questions? Contact us now!####
@@ -234,6 +234,28 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
+
+
+05.25.2016 
+
+New: Customizable user list background and font color in group chats
+New: Enable/disable message posting for registered users too
+New: Hide/show a group chat on the main chat list
+New: Set max width for group chats media content preview
+New: Three layout modes for messages in group chats (Full, No Avatars, Full Row Compact)
+New: Hide/Show Friends and Recent conversations TABs
+New: Show recent conversations under the CHAT tab instead of users (this affects only users, operators will still see the standard chats/friends/recent list)
+New: Hide registered users on main list (use in combination with hide guests to show only operators)
+New: Dashboard > Editable IP Blacklist
+New: Change password from user the widget under MENU > EDIT PROFILE
+New: Added Czech language
+New: Added Serbian language
+New: Friends label can now be set to "Friends" or "Favorites"
+Improved: virtual keyboard management on mobile devices
+Improved: User search in Dashboard (new filters and sorting options)
+Improved: Reduced spacing between chat messages
+Fixed: file upload in iPad devices randomly not triggered
+Fixed: Japanese translation 
 
 = 2.0.0 =
 04.22.2015 * 20+ new features, improvements and integrations!
