@@ -12,11 +12,11 @@ Group chat and live support for your website: chat with your visitors and connec
 
 == Description == 
 
-Flyzoo is the amazing chat for communities, dating websites, online traders, gamers, radio stations, stores,... and any other kind of website looking to boost engagement!
+Flyzoo Chat has been designed for communities, dating websites, online traders, gamers, radio stations, stores,... and any other kind of website looking to boost engagement!
 
-Engage your community in group chats and help your customers with amazing live support features.
+Connect, engage and grow your community in group chats and help your customers with live support chat.
 
-The perfect chat for your BuddyPress, bbPress and WooCommerce website.
+The perfect chat plugin for your BuddyPress, bbPress and WooCommerce website.
 
 Start your 14-day free trial now!
 
@@ -237,6 +237,8 @@ Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
 
+05.30.2016
+- Improved: virtual keyboard support on iPad
 
 05.25.2016 
 
