@@ -54,10 +54,6 @@ Start your 14-day free trial now!
 
 * **Multilanguage**: chat interface already translated in the 20 languages.
 
-
-
-####New Features####
-
 * **Side chat mode:** add a site-wide global group chat to your site
 
 * **User list mode:** add a site-wide chat list with users, friends, group chats and recent conversations
@@ -128,7 +124,7 @@ This plugin will automatically detect and use one of the following avatar plugin
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Czech, Serbian Danish and Chinese.
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Czech, Serbian, Danish and Chinese.
 Need another language? Contact us!
 
 ####Questions? Contact us now!####
