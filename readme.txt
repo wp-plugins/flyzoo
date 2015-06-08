@@ -233,6 +233,9 @@ Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
 
+06.08.2016
+- New: Option to disable the widget on mobile devices
+
 05.30.2016
 - Improved: virtual keyboard support on iPad
 

@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Flyzoo - Live Support & Group Chat 
+Plugin Name: Flyzoo - Community Chat 
 Plugin URI: http://www.flyzoo.co/
-Description: Flyzoo is the amazing group chat & live support chat for your blog, buddypress community or e-commerce.
-Version: 2.0.0
+Description: Flyzoo Chat is the amazing group chat & live support chat for your BuddyPress community or e-commerce.
+Version: 2.1.0
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
@@ -101,10 +101,14 @@ function flyzoo_chat_uninstall()
     if (get_option('FlyzooEnableBuddyPress')) {
         delete_option('FlyzooEnableBuddyPress');
     }
-        if (get_option('FlyzooSiteAdded')) {
+    
+    if (get_option('FlyzooSiteAdded')) {
         delete_option('FlyzooSiteAdded');
     }
     
+    if (get_option('FlyzooHideOnMobile')) {
+        delete_option('FlyzooHideOnMobile');
+    }
 }
 
 function flyzoo_get_wp_userid()
@@ -375,8 +379,9 @@ class FlyzooWidget
         register_setting('flyzoo-options', 'FlyzooPageFilterList');
         register_setting('flyzoo-options', 'FlyzooPageFilterMode');    
         register_setting('flyzoo-options', 'FlyzooEnableBuddyPress');      
-        register_setting('flyzoo-options', 'FlyzooSiteAdded');               
-         
+        register_setting('flyzoo-options', 'FlyzooSiteAdded');  
+        register_setting('flyzoo-options', 'FlyzooHideOnMobile');                 
+        
     }
     
     public function adminMenu()
@@ -557,18 +562,20 @@ a.flyzoo-signup-button:hover {
             <br />
             <!-- Single sign on -->
             <input type="checkbox" id="FlyzooApiEnabled" name="FlyzooApiEnabled" <?php  echo (get_option("FlyzooApiEnabled") == true ? 'checked="checked"' : ''); ?>>
-            <strong>Enable Single Sign On</strong> Check this to allow users log into the chat with their existing WordPress Account.<br />
+            <strong>Enable Single Sign On</strong> - check this to allow users log into the chat with their existing WordPress Account.<br />
             <br />
             <!-- Single sign on -->
             <input type="checkbox" id="FlyzooEnableBuddyPress" name="FlyzooEnableBuddyPress" <?php  echo (get_option("FlyzooEnableBuddyPress") == true ? 'checked="checked"' : ''); ?>>
-            <strong>Sync BuddyPress</strong> Check this to integrate Flyzoo with BuddyPress (sync friends, profile url, avatar) <br />
+            <strong>Sync BuddyPress</strong> - check this to integrate Flyzoo with BuddyPress (sync friends, profile url, avatar) <br />
             <br />
-              <input type="checkbox" id="FlyzooHideInDashboard" name="FlyzooHideInDashboard" <?php
-        echo (get_option("FlyzooHideInDashboard") == true ? 'checked="checked"' : '');
-?>>
-            <strong>Hide in WordPress Admin</strong> Check this to hide the dock from the WP Admin. <br />
+           <!-- Hide in Admin -->
+             <input type="checkbox" id="FlyzooHideInDashboard" name="FlyzooHideInDashboard" <?php echo (get_option("FlyzooHideInDashboard") == true ? 'checked="checked"' : ''); ?>>
+            <strong>Hide in WordPress Admin</strong> - check this to hide the widget on the WP Admin. <br />
             <br />
-
+             <!-- Hide on Mobile -->
+             <input type="checkbox" id="FlyzooHideOnMobile" name="FlyzooHideOnMobile" <?php echo (get_option("FlyzooHideOnMobile") == true ? 'checked="checked"' : ''); ?>>
+            <strong>Hide on Mobile Devices</strong> - check this to hide the widget on mobile devices<br />
+            <br />
             <strong>PAGE FILTERS</strong><br /><br>
             Show Flyzoo
             <select id="FlyzooPageFilterMode" name="FlyzooPageFilterMode">
@@ -607,6 +614,9 @@ a.flyzoo-signup-button:hover {
         $code = get_option('FlyzooApplicationID');
         $friends = flyzoo_get_friends();
         $profile_url = flyzoo_get_user_profile_url();
+
+
+        if ( wp_is_mobile() &&  get_option('FlyzooHideOnMobile')) return;
 
         if ($code == '') return;
         //if (get_option('FlyzooPoweredBy')!=true) return;
