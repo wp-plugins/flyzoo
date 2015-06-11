@@ -12,15 +12,15 @@ Group chat and live support for your website: chat with your visitors and connec
 
 == Description == 
 
-Connect, engage and grow your community in group chats and help your customers with live support chat.
+Connect, engage and grow your audience.
 
-Flyzoo Chat has been designed for communities, dating websites, online traders, gamers, radio stations, stores,... and any other kind of website looking to boost engagement!
+Flyzoo Chat has been designed for communities, dating websites, online traders, gamers, radio stations, stores... and any other kind of website looking to boost engagement!
 
 The perfect chat for your BuddyPress, bbPress and WooCommerce website.
 
 Start your 14-day free trial now!
 
-####Core Features####
+####Core Chat Features####
 
 * **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
 
