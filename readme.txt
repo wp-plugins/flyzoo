@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group chat and live support for your website: chat with your visitors and connect your community. Perfect for BuddyPress!
+Group chat and live support chat for your website: engage with your visitors and connect your community. Perfect for BuddyPress!
 
 == Description == 
 
@@ -22,11 +22,21 @@ Start your 14-day free trial now!
 
 ####Core Chat Features####
 
+* **Single Sign On**: users can join the chat using their existing WordPress accounts
+
 * **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
+
+* **Private Chat**: users can interact in private chat conversations 
 
 * **Embeddable**: embed a group chat into your layout to improve user engagement (PRO Plan) 
 
-* **Private Chat**: users can interact in private chat conversations 
+* **File sharing** for guests and/or members
+
+* **API Sync** (avatar, name and BP friends list automatically synchronized from BP and UserPro)
+
+* **Friends list** integrated with BuddyPress
+
+* **Role-based access:** restrict group chats activity only to specifics role (like paid, pro, moderators, top users) 
 
 * **Live Support**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
@@ -35,8 +45,6 @@ Start your 14-day free trial now!
 * **Pop out chat windows**: enjoy your conversations in external browser windows
 
 * **Customization**: customize colors, layout and features 
-
-* **Single Sign On**: users can join the chat using their existing WordPress accounts
 
 * **Cloud based**: hosted chat, built to ensure a fast message delivery without overloading your server
 
@@ -48,7 +56,7 @@ Start your 14-day free trial now!
 
 * **SSL**: chat encryption for HTTPS/SSL based websites
 
-* **Chat Moderation**: ban users and block IPs, control swearing in chat rooms
+* **Chat Moderation**: ignore and ban users, block IPs and control swearing in chat rooms
 
 * **Chat History**: group and private chat history & transcripts
 
@@ -58,25 +66,15 @@ Start your 14-day free trial now!
 
 * **User list mode:** add a site-wide chat list with users, friends, group chats and recent conversations
 
-* **Friends list** integrated with BuddyPress
-
-* **API Sync** (avatar, name and BP friends list automatically synchronized from BP and UserPro)
-
 * **Recent conversations** quickly find and reload previous chat conversations
 
-* **Ignore users** (more effective than Ban)
-
 * **Improved guest management** require guests to change name before accessing a group chat
-
-* **File sharing** for guests and/or members
 
 * **Custom icon for group chats**
 
 * **Clear private chat history**
 
 * **Toggle user list** to save space in group chats
-
-* **Role-based access:** restrict group chats activity only to specifics role (like paid, pro, moderators, top users) 
 
 * **Highly customizable user list** (show/hide guests,  group chats, start from friends)
 
