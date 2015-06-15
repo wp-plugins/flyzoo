@@ -22,6 +22,8 @@ Start your 14-day free trial now!
 
 ####Core Chat Features####
 
+* **Hosted chat**: cloud based, built to ensure a fast message delivery without overloading your server
+
 * **Single Sign On**: users can join the chat using their existing WordPress accounts
 
 * **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
@@ -46,11 +48,9 @@ Start your 14-day free trial now!
 
 * **Customization**: customize colors, layout and features 
 
-* **Cloud based**: hosted chat, built to ensure a fast message delivery without overloading your server
-
 * **Eye-catching Design**: sleek, modern chat interface
 
-* **Responsive**: the interface will switch to an App-like chat layout on mobile devices
+* **Responsive**: App-like chat layout on mobile devices
 
 * **In-browser chat**: browse your site and chat at the same time, resize or minimize chat windows when needed
 
@@ -76,11 +76,11 @@ Start your 14-day free trial now!
 
 * **Toggle user list** to save space in group chats
 
-* **Highly customizable user list** (show/hide guests,  group chats, start from friends)
+* **Highly customizable user list:** show/hide guests,  group chats, start from friends
 
-* **Allow Subdomains** (i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription)
+* **Allow Subdomains:** i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription
 
-* **Multidomain** (connect more sites under the same chat!)
+* **Multidomain:** connect more sites under the same chat!
 
 
 ####Live Support Chat####  
