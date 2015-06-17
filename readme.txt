@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress chat, buddypress group chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, woocommerce chat, social chat
+Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress chat, buddypress group chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, friends, chat buddypress, chat plugin, widget, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.2.2
@@ -12,11 +12,9 @@ Group chat and live support chat for your website: engage with your visitors and
 
 == Description == 
 
-Connect, engage and grow your audience.
+Connect, engage and grow your audience: Flyzoo Chat has been designed for dating websites, online traders, gamers, radio stations, stores... and any other kind of website looking to boost engagement!
 
-Flyzoo Chat has been designed for communities, dating websites, online traders, gamers, radio stations, stores... and any other kind of website looking to boost engagement!
-
-The perfect chat for your BuddyPress, bbPress and WooCommerce website.
+The perfect chat for your BuddyPress communities, bbPress and WooCommerce websites.
 
 Start your 14-day free trial now!
 
