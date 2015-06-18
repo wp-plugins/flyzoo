@@ -50,11 +50,11 @@ Start your 14-day free trial now!
 
 * **Responsive**: App-like chat layout on mobile devices
 
-* **In-browser chat**: browse your site and chat at the same time, resize or minimize chat windows when needed
+* **In-browser chat experience**: browse your site and chat at the same time, resize or minimize windows when needed
 
 * **SSL**: chat encryption for HTTPS/SSL based websites
 
-* **Chat Moderation**: ignore and ban users, block IPs and control swearing in chat rooms
+* **Chat Moderation**: ignore and ban users, block IPs and control swearing in chat rooms with customizable bad words filter
 
 * **Chat History**: group and private chat history & transcripts
 
@@ -62,19 +62,15 @@ Start your 14-day free trial now!
 
 * **Side chat mode:** add a site-wide global group chat to your site
 
-* **User list mode:** add a site-wide chat list with users, friends, group chats and recent conversations
+* **User list mode:** add a site-wide, highly customizable chat list with users, friends, group chats and recent conversations
 
-* **Recent conversations** quickly find and reload previous chat conversations
-
-* **Improved guest management** require guests to change name before accessing a group chat
+* **Recent conversations** find and reload previous chat conversations
 
 * **Custom icon for group chats**
 
 * **Clear private chat history**
 
 * **Toggle user list** to save space in group chats
-
-* **Highly customizable user list:** show/hide guests,  group chats, start from friends
 
 * **Allow Subdomains:** i.e. shop.mysite.com, forum.mysite.com allowed from the same subscription
 
