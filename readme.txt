@@ -12,11 +12,11 @@ Group chat and live support chat for your website: engage with your visitors and
 
 == Description == 
 
-Connect, engage and grow your audience: Flyzoo Chat has been designed for dating websites, online traders, gamers, radio stations, stores... and any other kind of website looking to boost engagement!
+Connect, engage and grow your audience: Flyzoo Chat has been designed for dating websites, online traders, gamers, radio stations, shops... and any other kind of website looking to boost engagement!
 
-The perfect chat for your BuddyPress communities, bbPress and WooCommerce websites.
+The perfect chat for your BuddyPress, bbPress and WooCommerce websites.
 
-Start your 14-day free trial now!
+Three different layout modes and tons of features: start your 14-day free trial now!
 
 ####Core Chat Features####
 
@@ -62,9 +62,9 @@ Start your 14-day free trial now!
 
 * **Side chat mode:** add a site-wide global group chat to your site
 
-* **User list mode:** add a site-wide, highly customizable chat list with users, friends, group chats and recent conversations
+* **User list mode:** add a site-wide, customizable chat list with users, friends, group chats and recent conversations
 
-* **Recent conversations** find and reload previous chat conversations
+* **Recent conversations:** find and reload previous chat conversations
 
 * **Custom icon for group chats**
 
@@ -103,7 +103,7 @@ Flyzoo is the perfect chat for BuddyPress.
 
 **Avatar Plugins**
 
-This plugin will automatically detect and use one of the following avatar plugins:
+Flyzoo will automatically detect and use one of the following avatar plugins:
 
 * Gravatar
 * User Avatar
