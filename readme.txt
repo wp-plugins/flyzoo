@@ -225,13 +225,17 @@ Sure, feel free to contact us to leave a feedback!
 
 == Changelog ==
 
-06.08.2016
+06.21.2015
+- New: Hide group chat if user is not in allowed roles
+- Improved: remember private & group chat window state accross page reloads
+
+06.08.2015
 - New: Option to disable the widget on mobile devices
 
-05.30.2016
+05.30.2015
 - Improved: virtual keyboard support on iPad
 
-05.25.2016 
+05.25.2015 
 
 - New: Customizable user list background and font color in group chats
 - New: Enable/disable message posting for registered users too
