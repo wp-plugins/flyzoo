@@ -14,7 +14,7 @@ Group chat and live support chat for your website: engage your visitors and conn
 
 The perfect chat for your BuddyPress, bbPress and WooCommerce websites.
 
-Connect, engage and grow your audience: Flyzoo Chat has been designed for dating websites, online traders, gamers, radio stations, shops... and any other kind of website looking to boost engagement!
+Connect, engage and grow your audience: Flyzoo has been designed for dating websites, online traders, gamers, radio stations, shops... and any other kind of website looking to boost engagement with a feature-rich chat platform.
 
 Start your 14-day free trial now!
 
