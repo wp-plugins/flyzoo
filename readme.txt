@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group chat and live support chat for your website: engage with your visitors and connect your community. Perfect for BuddyPress!
+Group chat and live support chat for your website: engage your visitors and connect your community. Ready in 5 minutes.
 
 == Description == 
 
@@ -16,7 +16,7 @@ The perfect chat for your BuddyPress, bbPress and WooCommerce websites.
 
 Connect, engage and grow your audience: Flyzoo Chat has been designed for dating websites, online traders, gamers, radio stations, shops... and any other kind of website looking to boost engagement!
 
-Three different layout modes and tons of features: start your 14-day free trial now!
+Start your 14-day free trial now!
 
 ####Chat Features####
 
