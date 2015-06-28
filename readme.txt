@@ -30,11 +30,11 @@ Start your 14-day free trial now!
 
 * **Private Chat**: users can interact in private chat conversations 
 
-* **Role-based access:** restrict group chats activity only to specifics role (i.e. paid, pro, moderators, top users...) 
+* **Role-based access:** restrict group chats activity only to specific roles (i.e. paid, pro, top users...)
 
-* **File sharing** for guests and/or members
+* **File sharing** for guests and/or site members
 
-* **API Sync** (avatar, name and BP friends list automatically synchronized from BP and UserPro)
+* **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
 
 * **Friends list** integrated with BuddyPress
 
