@@ -12,9 +12,9 @@ Group chat and support chat for your website: engage your visitors and connect y
 
 == Description == 
 
-Connect, engage and grow your audience with the perfect chat for BuddyPress, bbPress and WooCommerce.
+Flyzoo chat has been designed for dating websites, gamers, radio stations, online traders, shops... and any other kind of website looking to boost engagement with a feature-rich chat.
 
-Flyzoo chat has been designed for dating websites, gamers, radio stations, trading online websites, shops... and any other kind of website looking to boost engagement with a feature-rich chat.
+Connect, engage and grow your audience with the perfect chat for BuddyPress, bbPress and WooCommerce. 
 
 Start your 14-day free trial now!
 
@@ -157,7 +157,7 @@ Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sourc
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, but our subscriptions - starting from $4.9/m - are very affordable!
+Currently we don't offer free live chat plans, anyway our subscriptions - starting from $4.9/m - are very affordable!
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
@@ -215,17 +215,17 @@ No, the chat is loaded asynchronously after the main content and our servers wil
 Probably pages are being cached. Please try to:
 
 - refresh your browser's cache
-- if you are using a caching plugin, please force a refresh, this should fix the issue.
+- if you are using a caching plugin, force a refresh: this should fix the issue.
 
 Otherwise, please check that you haven't embedded the chat script into some .php file - like footer.php for instance.
 
 = Can I suggest a feature?  =
 
-Sure, feel free to contact us to leave a feedback!
+Sure, feel free to contact us!
 
 == Changelog ==
 
-06.28.2915
+06.29.2015
 
 - New: Customizable chat bubble colors
 - New: Option to show only users with the same role
