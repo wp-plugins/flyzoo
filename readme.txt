@@ -3,7 +3,7 @@ Contributors: Flyzoo
 Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress chat, buddypress group chat, live support chat, buddypress, embed chat, popup chat, chat room, support chat, chat friends, chat buddypress, chat plugin, widget, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -103,16 +103,14 @@ Flyzoo is the perfect chat for BuddyPress.
 
 **Avatar Plugins**
 
-Flyzoo will automatically detect and use one of the following avatar plugins:
+Flyzoo will automatically use the avatars from the following plugins:
 
 * Gravatar
 * User Avatar
 * WP User Avatar
 * Simple Local Avatars
-
-**UserPro**
-
-[UserPro - User Profiles with Social Login](http://codecanyon.net/item/userpro-user-profiles-with-social-login/5958681?ref=Flyzoo)
+* UserPro (http://codecanyon.net/item/userpro-user-profiles-with-social-login/5958681?ref=Flyzoo)
+* Ultimate Member
 
 ####Languages####  
 
@@ -224,6 +222,10 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us!
 
 == Changelog ==
+
+06.30.2015
+
+- New: Added avatars support for Ultimate Member
 
 06.29.2015
 
