@@ -223,6 +223,11 @@ Sure, feel free to contact us!
 
 == Changelog ==
 
+07.03.2015
+
+- New: Option to sort group chats 
+- New: Option to customize the main button label when set to "Users Online & Chatrooms" mode
+
 06.30.2015
 
 - New: Added avatars support for Ultimate Member
