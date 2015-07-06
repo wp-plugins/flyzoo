@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group chat and support chat for your website: engage your visitors and connect your community. Ready in 5 minutes!
+Group chat and live support chat for your website: engage your visitors and connect your community. Ready in 5 minutes!
 
 == Description == 
 
@@ -20,17 +20,17 @@ Start your 14-day free trial now!
 
 ####Chat Features####
 
-* **Hosted chat**: Flyzoo is a cloud based chat, built to ensure a fast message delivery without overloading your server
+* **Hosted chat**: cloud based chat, built to ensure a fast message delivery without overloading your server
 
 * **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
 
-* **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video, file sharing and more...
+* **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and more...
 
-* **Embeddable Chat**: embed a group chat into your layout to improve user engagement (PRO Plan) 
+* **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
-* **Private Chat**: users can interact in private chat conversations 
+* **Private Chat**: users can interact in multiple private chat conversations 
 
-* **Role-based access:** restrict group chats activity only to specific roles (i.e. paid, pro, top users...)
+* **Role-based access:** allow group chat access only to specific roles (i.e. paid, pro, top users...)
 
 * **File sharing** for guests and/or site members
 
