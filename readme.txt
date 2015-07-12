@@ -89,7 +89,7 @@ All the most important insights are available at a glance:
 * Referrer
 * Returning visitor
 
-Flyzoo is the perfect chat for your Woocommerce Store!
+Flyzoo is the perfect live chat for Woocommerce too!
 
 ####Integrations####
 
