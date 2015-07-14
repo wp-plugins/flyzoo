@@ -12,7 +12,7 @@ Group chat and live support chat for your website: engage your visitors and conn
 
 == Description == 
 
-Flyzoo chat has been designed for dating websites, gamers, radio stations, online traders, shops... and any other kind of website looking to boost engagement with a feature-rich chat.
+Flyzoo chat has been designed for communities, dating websites, radio stations, online traders, shops... and any other kind of website looking to boost engagement with a feature-rich chat.
 
 Connect, engage and grow your audience with the perfect chat for BuddyPress, bbPress and WooCommerce. 
 
@@ -20,7 +20,7 @@ Start your 14-day free trial now!
 
 ####Chat Features####
 
-* **Hosted chat**: cloud based chat, built to ensure a fast message delivery without overloading your server
+* **Hosted chat**: built to ensure a fast message delivery without overloading your server
 
 * **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
 
@@ -30,9 +30,9 @@ Start your 14-day free trial now!
 
 * **Private Chat**: users can interact in multiple private chat conversations 
 
-* **Role-based access:** allow group chat access only to specific roles (i.e. paid, pro, top users...)
-
 * **File sharing** for guests and/or site members
+
+* **Role-based access:** allow group chat access only to specific roles (i.e. paid, pro, top users...)
 
 * **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
 
