@@ -20,11 +20,11 @@ Start your 14-day free trial now!
 
 ####Chat Features####
 
-* **Hosted chat**: built to ensure a fast message delivery without overloading your server
+* **Cloud based, host chat**: built to ensure a fast message delivery without overloading your server
 
 * **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
 
-* **Group Chat**: full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and more...
+* **Group Chat**: full featured chat rooms with avatars, emoji, moderation, image and video preview, file sharing and more...
 
 * **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
