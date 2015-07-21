@@ -223,6 +223,10 @@ Sure, feel free to contact us!
 
 == Changelog ==
 
+07.21.2015
+
+- Fixed: Avatar issues with Ultimate Member 1.3.11
+
 07.03.2015
 
 - New: Option to sort group chats 
