@@ -12,9 +12,9 @@ Group chat and live support chat for your website: engage your visitors and conn
 
 == Description == 
 
-Flyzoo is a full-featured chat platform designed for communities, dating websites, radio stations, online traders, shops... and any other kind of website looking to boost engagement.
+Flyzoo is a full-featured chat designed for communities, dating websites, radio stations, online traders, shops... and any other kind of website looking to boost engagement.
 
-Connect, engage and grow your audience with the perfect chat for BuddyPress, bbPress and WooCommerce. 
+Connect, engage and grow your audience with the perfect chat for Ultimate Member, BuddyPress, bbPress and WooCommerce. 
 
 Start your 14-day free trial now!
 
