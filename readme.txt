@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress chat, buddypress group chat, community, messaging, live support chat, buddypress, embed chat, popup chat, chat room, chatroom, support chat, chat friends, chat buddypress, chat plugin, widget, social chat
+Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress chat, buddypress group chat, community, messaging, live support chat, buddypress, embed chat, chat room, chatroom, ultimate member, support chat, chat friends, chat buddypress, chat plugin, social chat
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.0
@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Group chat and live support chat for your website: engage your visitors and connect your community. Ready in 5 minutes!
+The amazing group chat for your community. Perfect for Ultimate Member and BuddyPress... Get started in 5 minutes!
 
 == Description == 
 
@@ -16,7 +16,9 @@ Flyzoo is a full-featured chat designed for communities, dating websites, radio 
 
 Connect, engage and grow your audience with the perfect chat for Ultimate Member, BuddyPress, bbPress and WooCommerce. 
 
-Start your 14-day free trial now!
+Start your 14-day free trial now! 
+
+Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat Features####
 
@@ -89,17 +91,19 @@ All the most important insights are available at a glance:
 * Referrer
 * Returning visitor
 
-Flyzoo is the perfect live chat for Woocommerce too!
+Perfect for Woocommerce!
 
 ####Integrations####
 
+**Ultimate Member**
+
+* Avatars and profile link (more coming soon!) 
+
 **BuddyPress**
 
-Flyzoo is the perfect chat for BuddyPress.
-
-* User avatars in chat
-* user profile link in chat
-* friends
+* Avatars
+* Profile link
+* Friends list
 
 **Avatar Plugins**
 
@@ -225,7 +229,8 @@ Sure, feel free to contact us!
 
 08.09.2015
 
-- New: Start private chat from message row in group chat
+- New: Start private chat from message in group chat
+- New: Profile url support for Ultimate Member 1.3.15
 - Fixed: File upload on iOS
 
 07.21.2015

@@ -2,8 +2,8 @@
 /*
 Plugin Name: Flyzoo Chat - Group & Live Support Chat 
 Plugin URI: http://www.flyzoo.co/
-Description: Flyzoo Chat is the perfect group chat & live support chat for WordPress, BuddyPress and WooCommerce.
-Version: 2.1.2
+Description: Flyzoo Chat is the amazing group chat & live support chat for Ultimate Member, BuddyPress and WooCommerce.
+Version: 2.1.3
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
@@ -281,7 +281,7 @@ function flyzoo_logout()
 }
 
 function flyzoo_get_user_profile_url() {
-
+    global $ultimatemember;
     $uid = flyzoo_get_wp_userid();
 
     if ($uid <=0) return '';
@@ -291,9 +291,10 @@ function flyzoo_get_user_profile_url() {
   	} elseif(function_exists("userpro_profile_data")) {
         global $userpro;
         return $userpro->permalink(get_current_user_id());
+    } elseif(function_exists("um_user_profile_url")) {
+        return um_user_profile_url();
     }
-
-
+    
   	return "";
   }
 
