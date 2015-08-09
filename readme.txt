@@ -223,6 +223,11 @@ Sure, feel free to contact us!
 
 == Changelog ==
 
+08.09.2015
+
+- New: Start private chat from message row in group chat
+- Fixed: File upload on iOS
+
 07.21.2015
 
 - Fixed: Avatar issues with Ultimate Member 1.3.11
