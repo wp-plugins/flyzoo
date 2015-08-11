@@ -12,7 +12,7 @@ The amazing group chat for your community. Perfect for Ultimate Member and Buddy
 
 == Description == 
 
-Flyzoo is a full-featured chat designed for communities, dating websites, radio stations, online traders, shops... and any other kind of website looking to boost engagement.
+Flyzoo is a full-featured social chat designed for communities, dating websites, radio stations, online traders, shops... and any other kind of website looking to boost engagement.
 
 Connect, engage and grow your audience with the perfect chat for Ultimate Member, BuddyPress, bbPress and WooCommerce. 
 
@@ -22,7 +22,7 @@ Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.fl
 
 ####Chat Features####
 
-* **Cloud based, host chat**: built to ensure a fast message delivery without overloading your server
+* **Cloud based, hosted chat**: built to ensure a fast message delivery without overloading your server
 
 * **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
 
