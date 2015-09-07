@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing group chat for your community. Perfect for Ultimate Member and BuddyPress... Get started in 5 minutes!
+The amazing chat for your community. Perfect for Ultimate Member and BuddyPress... Try it now!
 
 == Description == 
 
@@ -22,7 +22,7 @@ Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.fl
 
 ####Chat Features####
 
-* **Cloud based, hosted chat**: built to ensure a fast message delivery without overloading your server
+* **Cloud based, hosted chat**: built to ensure a fast message delivery without touching your server
 
 * **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
 
@@ -34,7 +34,7 @@ Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.fl
 
 * **File sharing** 
 
-* **Role-based access:** allow group chat access only to specific roles (i.e. paid, pro, top users...)
+* **Role-based access:** allow access only group chats only to specific roles (i.e. paid, pro, top users...)
 
 * **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
 
