@@ -12,13 +12,9 @@ The amazing chat for your community. Perfect for Ultimate Member and BuddyPress.
 
 == Description == 
 
-Flyzoo is a full-featured chat designed for any kind of community looking to boost engagement.
-
 Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
-Start your 14-day free trial now! 
-
-Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
+Start your 14-day free trial now! Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat Features####
 
