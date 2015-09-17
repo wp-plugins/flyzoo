@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Flyzoo Chat - Group & Live Support Chat 
+Plugin Name: Flyzoo Chat 
 Plugin URI: http://www.flyzoo.co/
-Description: Flyzoo Chat is the amazing group chat & live support chat for Ultimate Member, BuddyPress and WooCommerce.
-Version: 2.1.3
+Description: Flyzoo is the amazing chat for your blog, community or e-commerce.
+Version: 2.2.0
 Author: Flyzoo
 Author URI: http://www.flyzoo.co/
 License: GPL2
@@ -109,6 +109,12 @@ function flyzoo_chat_uninstall()
     if (get_option('FlyzooHideOnMobile')) {
         delete_option('FlyzooHideOnMobile');
     }
+
+    if (get_option('FlyzooAPISecretKey')) {
+        delete_option('FlyzooAPISecretKey');
+    }
+    
+
 }
 
 function flyzoo_get_wp_userid()
@@ -159,10 +165,11 @@ function flyzoo_get_wp_username()
 }
 
 function flyzoo_get_ultimatemember_avatar_url() {
-    $user = wp_get_current_user();
-    um_fetch_user( $user->ID );
+     $user = wp_get_current_user();
+     um_fetch_user( $user->ID );
 	if ( um_profile('profile_photo') ) {
-		$avatar_uri = um_get_avatar_uri( um_profile('profile_photo'), 128 );
+	    $avatar_uri = um_get_avatar_uri( um_profile('profile_photo'), 128 );
+       // $avatar_uri = get_avatar($user->ID, 128);
 	} else {
 		$avatar_uri = um_get_default_avatar_uri();
 	}
@@ -273,8 +280,6 @@ function flyzoo_get_wp_avatar()
 
 
 
-
-
 function flyzoo_logout()
 {
     setcookie("flyzoo-force-logout", "true", time() + 3600, "/");
@@ -319,9 +324,9 @@ function flyzoo_embed_chatroom($atts)
     return $embed;    
 }
 
-        function flyzoo_get_friends() {    
+ function flyzoo_get_friends() {    
    
-               $user = wp_get_current_user();
+    $user = wp_get_current_user();
 
     if (!$user->ID > 0) return '';
     if(get_option("FlyzooEnableBuddyPress") == true &&  function_exists('friends_get_friend_user_ids')) {
@@ -378,11 +383,8 @@ class FlyzooWidget
             if (get_option('FlyzooApplicationID') == '' && get_option('FlyzooSiteAdded') == '') {
                 $this->addNewWebsite();
                 update_option('FlyzooSiteAdded',true);
-            }
-            
-        }
-        
-        
+            }            
+        }             
     }
     
     function setOptions()
@@ -395,7 +397,9 @@ class FlyzooWidget
         register_setting('flyzoo-options', 'FlyzooPageFilterMode');    
         register_setting('flyzoo-options', 'FlyzooEnableBuddyPress');      
         register_setting('flyzoo-options', 'FlyzooSiteAdded');  
-        register_setting('flyzoo-options', 'FlyzooHideOnMobile');                 
+        register_setting('flyzoo-options', 'FlyzooHideOnMobile');   
+        register_setting('flyzoo-options', 'FlyzooAPISecretKey');    
+                   
         
     }
     
@@ -549,18 +553,22 @@ a.flyzoo-signup-button:hover {
 </script>
 
 <div style="clear: both"></div>
-        <h3>Enter your Flyzoo Application ID</h3>
+     
 
         <form method="post" action="options.php">
             <?php
         settings_fields('flyzoo-options');
 ?>
-
+            <h4>Enter your Flyzoo Application ID</h4>
             <p >
-            <input type="text" style="width: 400px" name="FlyzooApplicationID" id="FlyzooApplicationID" value="<?php
-        echo (get_option("FlyzooApplicationID"));
-?>" maxlength="999" />   
+            <input type="text" style="width: 400px" name="FlyzooApplicationID" id="FlyzooApplicationID" value="<?php echo (get_option("FlyzooApplicationID"));?>" maxlength="999" />   
                
+            </p>
+            <h4>Enter your API Secret Key</h4>
+            <p >
+            <input type="text" style="width: 400px" name="FlyzooAPISecretKey" id="FlyzooAPISecretKey" value="<?php echo (get_option("FlyzooAPISecretKey"));?>" maxlength="50" />   
+           <br> (<strong>NOTE:</strong> this is currently optional. <strong>Starting from November, 1st 2015 API Secret Key  will be mandatory to enable SSO</strong>! Please
+                take a moment to log into the dashboard and get your Secret Key from SETUP > INSTALLATION). 
             </p>
             <p>
                 <input type="checkbox" id="FlyzooPoweredBy" name="FlyzooPoweredBy" <?php
@@ -627,9 +635,9 @@ a.flyzoo-signup-button:hover {
     {
         $e    = '';
         $code = get_option('FlyzooApplicationID');
+        $secret = get_option('FlyzooAPISecretKey');
         $friends = flyzoo_get_friends();
         $profile_url = flyzoo_get_user_profile_url();
-
 
         if ( wp_is_mobile() &&  get_option('FlyzooHideOnMobile')) return;
 
@@ -645,15 +653,27 @@ a.flyzoo-signup-button:hover {
         if (get_option('FlyzooApiEnabled') != true)
             return;
         
+       $fzid = flyzoo_get_wp_userid();
+        $fzun = flyzoo_get_wp_username();
+        $fzem = flyzoo_get_wp_email();
+      
+        $fzsig = "";
+
+        $payload = trim(strtolower($fzid)).trim(strtolower($fzem));
+
+        if( $secret != "") {        
+           $fzsig = hash_hmac("sha256", $payload, $secret);
+        }
+
         $api = '<script type="text/javascript">' . 'var FlyzooApi = FlyzooApi || { };' . 
-        'FlyzooApi.UserId = ' . json_encode(flyzoo_get_wp_userid()) . ';' . 
-        'FlyzooApi.UserName = ' . json_encode(flyzoo_get_wp_username()) . ';' . 
+        'FlyzooApi.UserId = ' . json_encode($fzid) . ';' . 
+        'FlyzooApi.UserName = ' . json_encode($fzun) . ';' . 
         'FlyzooApi.Friends = ' . json_encode($friends) . ';' . 
         'FlyzooApi.Avatar = ' . json_encode(flyzoo_get_wp_avatar()) . ';' . 
-        'FlyzooApi.Email = ' . json_encode(flyzoo_get_wp_email()) . ';' .
+        'FlyzooApi.Email = ' . json_encode($fzem) . ';' .
         'FlyzooApi.AccessRoles = ' . json_encode(flyzoo_get_access_roles()) . ';'. 
         'FlyzooApi.Profile = ' . json_encode($profile_url) . ';' .
-    
+        'FlyzooApi.Signature = ' . json_encode($fzsig) . ';' .
          '</script>';
         
         echo ($api);

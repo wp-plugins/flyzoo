@@ -14,19 +14,21 @@ The amazing chat for your community. Perfect for Ultimate Member and BuddyPress.
 
 Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
-Start your 14-day free trial now! Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
+Start your 14-day free trial now! 
+
+Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat Features####
 
 * **Cloud based, fast and reliable**: Built to ensure a fast message delivery without overloading your server
 
-* **Single Sign On**: users can automatically join the chat using their existing WordPress accounts
+* **Single Sign On**: users can enjoy the chat using their existing WordPress accounts
 
-* **Group Chat**: full featured chat rooms with avatars, emoji, moderation, image and video preview, file sharing and more...
+* **Group Chat**: create multiple, full featured chat rooms with avatars, emoji, moderation, image and video preview, file sharing and more...
 
 * **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
-* **Private Chat**: users can interact in multiple private chat conversations 
+* **Private Chat**: users can have multiple private chat conversations at the same time 
 
 * **File sharing** 
 
@@ -222,6 +224,11 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us!
 
 == Changelog ==
+
+09.17.2015
+
+- Added API Secret Key to improve security: starting from November, 1st 2015 all API SSO requests must provide a valid API signature,
+please log into the dashboard http://dashboard.flyzoo.co and retrieve you API Secret Key as soon as possible.
 
 08.09.2015
 
