@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, support chat, chat friends, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, Membership, social network
+Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, membership, social network
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.0
@@ -14,9 +14,11 @@ The amazing chat for your community. Perfect for Ultimate Member and BuddyPress.
 
 Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
-Start your 14-day free trial now! 
+It's time to rock your community, start your 14-day free trial now! 
 
-Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
+Need more time to test the chat? 
+
+Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat Features####
 
@@ -38,7 +40,7 @@ Need more time to test it? Don't worry, open a [Support Ticket >>](http://www.fl
 
 * **Friends list** integrated with BuddyPress
 
-* **Live Support**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
+* **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
 * **Real-time visitors monitoring**: identify and chat with potential customers and increase sales!  
 
@@ -188,7 +190,7 @@ Here you find the shortcode (or javascript version). Copy the shortcode and past
 
 = Can I use Flyzoo for customer support? = 
 
-YES. Please log into the dashboard and set this configuration:
+YES. Log into the dashboard and set this configuration:
 
 1. SETUP > CUSTOMIZATION > FEATURES set the main button action to "Live Support"
 2. SETUP > LIVE SUPPORT ENGAGEMENT > customize the "we are offline/online" popups
