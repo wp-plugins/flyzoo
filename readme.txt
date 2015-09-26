@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, live support, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, membership, social network
+Tags: chat, group chat, community chat, live chat, free chat, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, membership, social network
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.0
@@ -20,13 +20,13 @@ Need more time to test the chat?
 
 Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
-####Chat Features####
+####Chat####
 
 * **Cloud based, fast and reliable**: Built to ensure a fast message delivery without overloading your server
 
 * **Single Sign On**: users can enjoy the chat using their existing WordPress accounts
 
-* **Group Chat**: create multiple, full featured chat rooms with avatars, emoji, moderation, image and video preview, file sharing and more...
+* **Group Chat**: create multiple, full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and much more!
 
 * **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
@@ -34,7 +34,7 @@ Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll 
 
 * **File sharing** 
 
-* **Role-based access:** allow access only group chats only to specific roles (i.e. paid, pro, top users...)
+* **Role-based access:** retrict access to group chats depending on user role (i.e. paid, pro, top users...) great for paid-membership based websites
 
 * **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
 
