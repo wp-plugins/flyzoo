@@ -14,11 +14,9 @@ The amazing chat for your community. Perfect for Ultimate Member and BuddyPress.
 
 Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
-It's time to rock your community, start your 14-day free trial now! 
+It's time to rock your community, start your 14-day (extensible) free trial now! 
 
-Need more time to test the chat? 
-
-Don't worry, open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
+Need more time to get started with your community, test the chat or build your site? Just open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat####
 
