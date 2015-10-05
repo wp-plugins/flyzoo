@@ -8,23 +8,23 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat for your community. Perfect for Ultimate Member and BuddyPress... Try it now!
+The amazing chat to rock your community. Perfect for Ultimate Member and BuddyPress... Try it now!
 
 == Description == 
 
 Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
-It's time to rock your community, start your 14-day (extensible) free trial now! 
+It's time to rock your community, start your 14-day **extensible** free trial now! 
 
 Need more time to get started with your community, test the chat or build your site? Just open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
 
 ####Chat####
 
-* **Cloud based, fast and reliable**: Built to ensure a fast message delivery without overloading your server
+* **Cloud based, fast and reliable**: Built to ensure a fast message delivery without touching your server
 
-* **Single Sign On**: users can enjoy the chat using their existing WordPress accounts
+* **Single Sign On**: users can chat using their existing WordPress accounts
 
-* **Group Chat**: create multiple, full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and much more!
+* **Group Chat**: multiple, full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and much more!
 
 * **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
@@ -32,7 +32,7 @@ Need more time to get started with your community, test the chat or build your s
 
 * **File sharing** 
 
-* **Role-based access:** retrict access to group chats depending on user role (i.e. paid, pro, top users...) great for paid-membership based websites
+* **Role-based access:** retrict access to group chats depending on user role (i.e. paid, pro...), great for paid-membership based websites
 
 * **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
 
@@ -42,7 +42,7 @@ Need more time to get started with your community, test the chat or build your s
 
 * **Real-time visitors monitoring**: identify and chat with potential customers and increase sales!  
 
-* **Pop out chat windows**: enjoy your conversations in external browser windows
+* **Pop out chat windows**: enjoy group chats in external browser windows
 
 * **Customization**: customize colors, layout and features 
 
@@ -77,7 +77,7 @@ Need more time to get started with your community, test the chat or build your s
 * **Multidomain:** connect more sites under the same chat!
 
 
-####Live Support Chat####  
+####Live Support Features####  
 
 
 **Live support chat** is essential to increase conversions and sales. See where visitors came from and what page they are on, chat with potential customers and increase sales!
