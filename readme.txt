@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, membership, social network
+Tags: chat, group chat, community chat, live chat, free chat, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, communities, community, member directory, chat members, membership, social network
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.0
@@ -12,7 +12,7 @@ The amazing chat to rock your community. Perfect for Ultimate Member and BuddyPr
 
 == Description == 
 
-Connect, engage and grow your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
+Engage your community with the perfect chat for Ultimate Member, BuddyPress and bbPress.
 
 It's time to rock your community, start your 14-day **extensible** free trial now! 
 
