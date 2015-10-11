@@ -127,12 +127,12 @@ Need another language? Contact us!
 
 [Step by step instructions >>](http://www.flyzoo.co/support/flyzoo-chat-for-wordpress?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
-**2) Install the Chat Plugin**
+**1) Install Flyzoo Chat for WordPress Plugin**
  
 1. Install and activate the chat plugin from your WordPress Admin
 2. Click on Flyzoo Live Chat on the main menu
 
-**1) Create your admin account on Flyzoo.co**
+**2) Create your admin account on Flyzoo.co**
 
 3. Create a new account on [Flyzoo >>](http://www.flyzoo.co/signup?s=pro&t=12&utm_source=wp-store)
 4. Enter your URL, click next and copy your Flyzoo Application ID
@@ -140,7 +140,7 @@ Need another language? Contact us!
 
 **Done!**
 
-Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
+Customize your chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_source=wordpress&utm_medium=store&utm_campaign=wordpress)
 
 == Screenshots ==
 1. Group Chat
@@ -157,7 +157,7 @@ Customize the chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sourc
 
 = Is that a free live chat? =
 
-Currently we don't offer free live chat plans, anyway our subscriptions - starting from $4.9/m - are very affordable!
+We don't offer free live chat plans, anyway our subscriptions - starting from $4.9/m - are very affordable and we'll extend your trial if needed.
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
@@ -173,7 +173,7 @@ The main button will turn from "Leave a message" to "We are online".
 
 Sure, we'll be glad to extend your chat trial if needed!
 
-= Can I test it on my localhost? =
+= Can I test it on localhost? =
 
 Yes, but you still need to provide your production url when you sign up.
 
