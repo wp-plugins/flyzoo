@@ -1,6 +1,6 @@
-=== Chat by Flyzoo ===
+=== Group Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, chat plugin, social chat, comments, widget, community, member directory, chat members, membership, social network
+Tags: chat, group chat, community chat, live chat, free chat, buddypress, buddypress chat, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social, chat plugin, social chat, comments, widget, community, member directory, chat members, membership, social network
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.0
@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat to rock your community. Perfect for Ultimate Member and BuddyPress... Try it now!
+The chat to rock your community. Perfect for Ultimate Member and BuddyPress... Try it now!
 
 == Description == 
 
@@ -22,7 +22,7 @@ Need more time to get started? Open a [Support Ticket >>](http://www.flyzoo.co/s
 
 * **Cloud based, fast and reliable**: Built to ensure a fast message delivery without touching your server
 
-* **Single Sign On**: users can chat using their existing WordPress accounts
+* **Single Sign On**: let users chat using their existing accounts
 
 * **Group Chat**: multiple, full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and much more!
 
