@@ -116,7 +116,7 @@ Flyzoo will automatically use the avatars from the following plugins:
 
 ####Languages####  
 
-Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Czech, Serbian, Danish and Chinese.
+Chat interface available in: English, Spanish, French, Portuguese, Italian, German, Finnish, Slovak, Polish, Russian, Persian (Farsi), Vietnamese, Bulgarian, Arabic, Turkish, Hebrew, Japanese, Swedish, Czech, Serbian, Danish, Chinese, Dutch.
 Need another language? Contact us!
 
 ####Questions? Contact us now!####
@@ -224,6 +224,10 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us!
 
 == Changelog ==
+
+10.17.2015
+
+- Added Dutch language
 
 09.17.2015
 
