@@ -3,7 +3,7 @@ Contributors: Flyzoo
 Tags: chat, group chat, community chat, live chat, free chat, buddypress chat, buddypress, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social, chat plugin, social network, widget, community
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
-Tested up to: 4.3.0
+Tested up to: 4.3.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -113,6 +113,7 @@ Flyzoo will automatically use the avatars from the following plugins:
 * Simple Local Avatars
 * UserPro (http://codecanyon.net/item/userpro-user-profiles-with-social-login/5958681?ref=Flyzoo)
 * Ultimate Member
+* Users Ultra
 
 ####Languages####  
 
@@ -224,6 +225,17 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 Sure, feel free to contact us!
 
 == Changelog ==
+
+10.25.2015
+
+- Integration with Users Ultra
+- Improved scroller: faster and smoother scroll both on desktop and mobile
+- Total rewrite of the virtual keyboard handling on mobile devices
+- Added "SEND" button (useful to immediately send the message after adding an emoji)
+- Improved click responsiveness for header icons
+- Fixed events not firing on hybrid (touch + keyboard) devices
+- Added BAN option from the private chat for operators
+- Added user's online status in the private chat windows
 
 10.17.2015
 
