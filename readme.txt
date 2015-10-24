@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat to rock your community. Chat rooms, private chats and much more... Try it now!
+The amazing chat to rock your community. Perfect for BuddyPress, Ultimate Member and Users Ultra!
 
 == Description == 
 
@@ -236,6 +236,7 @@ Sure, feel free to contact us!
 - Fixed events not firing on hybrid (touch + keyboard) devices
 - Added BAN option from the private chat for operators
 - Added user's online status in the private chat windows
+- Improved Italian and Swedish translations
 
 10.17.2015
 
