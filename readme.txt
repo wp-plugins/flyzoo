@@ -262,7 +262,7 @@ please log into the dashboard http://dashboard.flyzoo.co and retrieve you API Se
 07.03.2015
 
 - New: Option to sort group chats 
-- New: Option to customize the main button label when set to "Users Online & Chatrooms" mode
+- New: Option to customize the main button label when set to "Users Online & Chat rooms" mode
 
 06.30.2015
 
