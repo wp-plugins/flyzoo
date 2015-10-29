@@ -591,7 +591,7 @@
             <h4>Enter your API Secret Key</h4>
             <p>
                 <input type="text" style="width: 400px" name="FlyzooAPISecretKey" id="FlyzooAPISecretKey" value="<?php echo (get_option("FlyzooAPISecretKey"));?>" maxlength="50" />
-                <br> (<strong>NOTE:</strong> this is currently optional. <strong>Starting from December, 1st 2015 API Secret Key  will be mandatory to enable SSO</strong>! Please
+                <br> (<strong>NOTE:</strong> this is currently optional. <strong>Starting from January, 1st 2016 API Secret Key  will be mandatory to enable SSO</strong>! Please
                take a moment to log into the dashboard and get your Secret Key from SETUP > INSTALLATION).
             </p>
             <p>
