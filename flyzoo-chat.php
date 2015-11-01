@@ -1,8 +1,8 @@
 <?php
     /*
-    Plugin Name: Flyzoo - Live Support & Group Chat 
+    Plugin Name: Flyzoo - Group Chat & Live Support 
     Plugin URI: http://www.flyzoo.co/
-    Description: Flyzoo is the amazing chat to rock your community. 
+    Description: The amazing chat to rock your community. Perfect for BuddyPress, Ultimate Member and Users Ultra!
     Version: 2.2.1
     Author: Flyzoo
     Author URI: http://www.flyzoo.co/
