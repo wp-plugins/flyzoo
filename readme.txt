@@ -8,17 +8,24 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The amazing chat to rock your community. Perfect for BuddyPress, Ultimate Member and Users Ultra!
+The Perfect Chat For Your Community. Integrated with BuddyPress, Ultimate Member and Users Ultra!
 
 == Description == 
 
-Flyzoo Chat is a powerful, feature-rich chat platform designed to build advanced online communities. 
+Flyzoo Chat is a feature-rich chat platform designed to build advanced communities. 
 
-Reach, connect and engage your users. 
+Whether you are running live events, a trading or a dating website, 
+Flyzoo has all you need to you reach, connect and engage your audience.
 
-Integrated with Users Ultra, Ultimate Member, BuddyPress and bbPress. Start your 14-day free trial now! 
+Get started in a few minutes and leverage the advanced features
+(like role-based access and embeddable group chats) to monetize your site.
 
-Need more time to get started? Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your chat trial.
+The chat integrates out-of-the-box with the most common membership plugins.
+
+Start your 14-day free trial now!
+
+Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your trial if you 
+need more time to get started ;)
 
 ####Chat####
 
