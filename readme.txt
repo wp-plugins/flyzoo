@@ -14,18 +14,13 @@ The Perfect Chat For Your Community. Integrated with BuddyPress, Ultimate Membe
 
 Flyzoo Chat is a feature-rich chat platform designed to build advanced communities. 
 
-Whether you are running live events, a trading or a dating website, 
-Flyzoo has all you need to you reach, connect and engage your audience.
+Reach, connect and engage your audience.
 
-Get started in a few minutes and leverage the advanced features
-(like role-based access and embeddable group chats) to monetize your site.
-
-The chat integrates out-of-the-box with the most common membership plugins.
+Flyzoo Chat is integrated with the most popular membership plugins.
 
 Start your 14-day free trial now!
 
-Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your trial if you 
-need more time to get started ;)
+Need more time to get strated? Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your trial.
 
 ####Chat####
 
