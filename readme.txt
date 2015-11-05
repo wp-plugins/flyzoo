@@ -162,7 +162,7 @@ Customize your chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sour
 
 = Is that a free live chat? =
 
-We don't offer free live chat plans, anyway our subscriptions - starting from $4.9/m - are very affordable and we'll extend your trial if needed.
+We don't offer free live chat plans, anyway our subscriptions are very affordable and we'll extend your trial if needed.
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
