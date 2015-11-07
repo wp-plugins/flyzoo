@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Perfect Chat For Your Community. Integrated with BuddyPress, Ultimate Member and Users Ultra!
+The perfect chat for your community with chat rooms, private chats and much more... Ready for BuddyPress, Ultimate Member and Users Ultra!
 
 == Description == 
 
