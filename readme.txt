@@ -12,15 +12,11 @@ The Perfect Chat For Your Community. Integrated with BuddyPress, Ultimate Membe
 
 == Description == 
 
-Flyzoo Chat is a feature-rich chat platform designed to build advanced communities. 
+Flyzoo is the perfect chat for your community.
 
-Reach, connect and engage your audience.
+All you need to reach, connect and engage your audience. Add a feature-rich chat to your site in a few minutes... works with the most popular membership plugins.
 
-Flyzoo Chat is integrated with the most popular membership plugins.
-
-Start your 14-day free trial now!
-
-Need more time to get strated? Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your trial.
+Start your 14-day free trial now! 
 
 ####Chat####
 
@@ -162,7 +158,9 @@ Customize your chat from the [Dashboard >>](http://dashboard.flyzoo.co/?utm_sour
 
 = Is that a free live chat? =
 
-We don't offer free live chat plans, anyway our subscriptions are very affordable and we'll extend your trial if needed.
+We don't offer free live chat plans, anyway our subscriptions are very affordable.
+
+Need more time to get strated? Open a [Support Ticket >>](http://www.flyzoo.co/support) and we'll extend your trial.
 
 Try it free for 14 days (no credit card required). Save up to 33% with the yearly plans and upgrade, downgrade or cancel your subscription at any time.
 
