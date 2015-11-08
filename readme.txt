@@ -226,6 +226,12 @@ Sure, feel free to contact us!
 
 == Changelog ==
 
+11.08.2015
+
+- New: Compact Side Chat mode
+- Fixed: User paging not working properly
+- Fixed: Messages received on minimized windows not showing 
+
 10.25.2015
 
 - Integration with Users Ultra
