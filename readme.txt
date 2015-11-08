@@ -12,9 +12,10 @@ The perfect chat for your community with chat rooms, private chats and much more
 
 == Description == 
 
-All you need to reach, connect and engage your audience. Add a feature-rich social chat to your site in a few minutes... works with the most popular membership plugins.
+The perfect chat for your community! Flyzoo provides all you need to reach, connect and engage your audience. 
+Add a feature-rich chat to your site in a few minutes... works with the most popular membership plugins.
 
-Start your 14-day free trial now, Flyzoo is the perfect chat for your community!
+Start your 14-day free trial now. 
 
 ####Chat####
 
