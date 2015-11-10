@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, user, user profile, live chat, free chat, buddypress chat, buddypress, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social, chat plugin, social network, community, social network
+Tags: chat, group chat, community chat, live chat, free chat, buddypress chat, buddypress, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social chat, chat plugin, social network, community, social network
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.1
@@ -223,15 +223,13 @@ Otherwise, please check that you haven't embedded the chat script into some .php
 
 = Can I suggest a feature?  =
 
-Sure, feel free to contact us!
+Sure, feel free to contact us.
 
 == Changelog ==
 
 11.08.2015
 
 - New: Compact Side Chat mode
-- Fixed: User paging not working properly
-- Fixed: Messages received on minimized windows not showing 
 
 10.25.2015
 
