@@ -1,6 +1,6 @@
 === Chat by Flyzoo ===
 Contributors: Flyzoo
-Tags: chat, group chat, community chat, live chat, free chat, buddypress chat, buddypress, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social chat, chat plugin, social network, community, social network
+Tags: chat, group chat, community chat, live chat, free chat, buddypress chat, buddypress, buddypress group chat, live support chat, embed chat, chat room, chatroom, ultimate member, chat members, support chat, chat widget, chat buddypress, social chat, chat plugin, social network, community
 Donate link: http://www.flyzoo.co/
 Requires at least: 3.4
 Tested up to: 4.3.1
@@ -14,19 +14,19 @@ The perfect chat for your community with chat rooms, private chats and much more
 
 Flyzoo Chat provides all you need to reach, connect and engage your audience. 
 
-Add a feature-rich chat, cloud-based to your site in a few minutes... Perfectly integrated with the most popular membership plugins.
+Add a feature-rich, cloud-based chat to your website in a few minutes... Perfectly integrated with the most popular membership plugins.
 
-Start your 14-day free trial now! Need more time to get started? Open a support ticket and we'll extend your chat trial!
+Start your 14-day free trial now! Need more time to get started? Open a support ticket and we'll extend your chat trial.
 
 ####Chat####
 
-* **Cloud based, fast and reliable**: Built to ensure a fast message delivery without using your server
+* **Cloud based**: Built to ensure a fast message delivery without using your server resources
 
 * **Single Sign On**: let users chat using their existing accounts
 
 * **Group Chat**: multiple, full featured chat rooms with avatars, emoticons, moderation, image and video preview, file sharing and much more!
 
-* **Embeddable Chat**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
+* **Embeddable Group Chats**: embed group chats into your layout pages to improve the user experience (PRO Plan) 
 
 * **Private Chat**: users can have multiple private chat conversations at the same time 
 
@@ -34,9 +34,9 @@ Start your 14-day free trial now! Need more time to get started? Open a support 
 
 * **Role-based access:** retrict access to group chats depending on user role (i.e. paid, pro...), great for paid-membership based websites
 
-* **Profile Sync:** avatar, name and friends list will be automatically synchronized (support WP/BP and UserPro)
+* **Profile Sync:** avatar, name and friends list will be automatically synchronized with the chat
 
-* **Friends list** integrated with BuddyPress
+* **Friends list** 
 
 * **Live Support Chat**: customize online/offline greeting messages. Support requests are automatically routed to the first available operator
 
