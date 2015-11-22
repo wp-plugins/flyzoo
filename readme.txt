@@ -14,7 +14,9 @@ The perfect chat for your community with chat rooms, private chats and much more
 
 Flyzoo Chat provides all you need to reach, connect and engage your audience. 
 
-Add a feature-rich, cloud-based chat to your website in a few minutes... Perfectly integrated with the most popular membership plugins.
+Add a feature-rich, cloud-based chat to your website in 5 minutes... Perfectly integrated with the most popular membership plugins.
+
+You can choose between 3 chat layouts and embed group chats into your layout!
 
 Start your 14-day free trial now! Need more time to get started? Open a support ticket and we'll extend your chat trial.
 
